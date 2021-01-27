@@ -15,6 +15,8 @@ jobs:
     - name: Display the path
       run: |
         ls -la
+        chmod +x ./run.sh
+        ls -la 
         ./run.sh
       shell: bash
     - name: Commit and push if it changed
