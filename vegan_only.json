@@ -1,0 +1,65 @@
+{
+  "version": 0.6,
+  "generator": "Overpass API 0.7.56.7 b85c4387",
+  "osm3s": {
+    "timestamp_osm_base": "2021-01-27T18:49:03Z",
+    "timestamp_areas_base": "2021-01-27T18:32:03Z",
+    "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
+  },
+  "elements": [
+
+{
+  "type": "node",
+  "id": 1528351547,
+  "lat": 49.1972704,
+  "lon": 16.6051337,
+  "tags": {
+    "amenity": "fast_food",
+    "diet:vegan": "only",
+    "diet:vegetarian": "yes",
+    "name": "Fryends",
+    "opening_hours": "Mo-Sa 11:00-20:00; Fr 11:00-24:00",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 2916528158,
+  "lat": 49.1963816,
+  "lon": 16.6088699,
+  "tags": {
+    "addr:city": "Brno",
+    "addr:housenumber": "109/1",
+    "addr:postcode": "60200",
+    "addr:street": "Jakubské náměstí",
+    "amenity": "restaurant",
+    "capacity": "160",
+    "cuisine": "international",
+    "diet:gluten_free": "yes",
+    "diet:raw": "yes",
+    "diet:vegan": "only",
+    "diet:vegetarian": "only",
+    "name": "Forky's",
+    "opening_hours": "Mo-Th 08:00-21:00; Fr 08:00-22:00; Sa 09:00-22:00; Su 09:00-18:00",
+    "outdoor_seating": "yes",
+    "phone": "+420 515 908 665",
+    "takeaway": "yes",
+    "website": "http://www.forkys.eu/"
+  }
+},
+{
+  "type": "node",
+  "id": 5116080503,
+  "lat": 49.1945175,
+  "lon": 16.6134420,
+  "tags": {
+    "amenity": "cafe",
+    "diet:vegan": "only",
+    "name": "Vegan Sweet Bar",
+    "opening_hours": "Mo-Fr 08:00-20:00; Sa 10:00-19:00",
+    "wheelchair": "yes"
+  }
+}
+
+  ]
+}

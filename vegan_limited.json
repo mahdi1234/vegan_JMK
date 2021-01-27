@@ -1,0 +1,49 @@
+{
+  "version": 0.6,
+  "generator": "Overpass API 0.7.56.7 b85c4387",
+  "osm3s": {
+    "timestamp_osm_base": "2021-01-27T18:54:04Z",
+    "timestamp_areas_base": "2021-01-27T18:32:03Z",
+    "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
+  },
+  "elements": [
+
+{
+  "type": "node",
+  "id": 1514441113,
+  "lat": 49.2014417,
+  "lon": 16.6105621,
+  "tags": {
+    "addr:city": "Brno",
+    "addr:housenumber": "13",
+    "addr:postcode": "60200",
+    "addr:street": "třída Kpt. Jaroše",
+    "amenity": "restaurant",
+    "cuisine": "indian",
+    "diet:vegan": "limited",
+    "diet:vegetarian": "yes",
+    "name": "India Thali",
+    "opening_hours": "Mo-Fr 11:00-15:00,17:00-22:00; Sa 17:00-22:00",
+    "outdoor_seating": "yes",
+    "wheelchair": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 7289524345,
+  "lat": 49.3598407,
+  "lon": 16.6421782,
+  "tags": {
+    "amenity": "restaurant",
+    "diet:vegan": "limited",
+    "diet:vegetarian": "yes",
+    "email": "jidelnauhoracku@gmail.com",
+    "name": "U Horáčků",
+    "opening_hours": "Mo-Fr 10:00-15:00",
+    "phone": "+420 +516 413 237",
+    "website": "https://jidelnauhoracku-cz.webnode.cz/"
+  }
+}
+
+  ]
+}
