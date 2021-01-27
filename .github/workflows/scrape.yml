@@ -12,7 +12,7 @@ jobs:
     steps:
     - name: Check out this repo
       uses: actions/checkout@v2
-    - name: Display the path
+    - name: Get the data
       run: |
         ls -la
         chmod +x ./run.sh
