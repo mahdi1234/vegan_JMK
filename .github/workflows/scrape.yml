@@ -13,7 +13,9 @@ jobs:
     - name: Check out this repo
       uses: actions/checkout@v2
     - name: Display the path
-      run: run.sh
+      run: |
+        ls -la
+        ./run.sh
       shell: bash
     - name: Commit and push if it changed
       run: |-
