@@ -1,0 +1,830 @@
+{
+  "version": 0.6,
+  "generator": "Overpass API 0.7.56.8 7d656e78",
+  "osm3s": {
+    "timestamp_osm_base": "2021-01-27T18:42:04Z",
+    "timestamp_areas_base": "2021-01-27T18:09:02Z",
+    "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
+  },
+  "elements": [
+
+{
+  "type": "node",
+  "id": 579645839,
+  "lat": 49.2042898,
+  "lon": 16.6082315,
+  "tags": {
+    "addr:city": "Brno",
+    "addr:housenumber": "4",
+    "addr:postcode": "60200",
+    "addr:street": "Lužánecká",
+    "amenity": "restaurant",
+    "diet:vegan": "yes",
+    "diet:vegetarian": "only",
+    "name": "Haribol",
+    "opening_hours": "Mo-Fr 11:00-15:00",
+    "source": "cuzk:km",
+    "website": "https://www.haribol.cz/"
+  }
+},
+{
+  "type": "node",
+  "id": 582498699,
+  "lat": 49.2103992,
+  "lon": 16.6014543,
+  "tags": {
+    "addr:city": "Brno",
+    "addr:housenumber": "6",
+    "addr:postcode": "60200",
+    "addr:street": "Hrnčířská",
+    "amenity": "restaurant",
+    "capacity": "130",
+    "cuisine": "italian;pasta;pizza",
+    "diet:vegan": "yes",
+    "diet:vegetarian": "yes",
+    "email": "info@pizzaalcapone.cz",
+    "name": "Pizzeria Al Capone",
+    "opening_hours": "Mo-Su 11:00-23:30",
+    "outdoor_seating": "yes",
+    "phone": "+420 541 210 555",
+    "website": "https://www.pizzaalcapone.cz/brno/",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 603039641,
+  "lat": 49.2003917,
+  "lon": 16.6025416,
+  "tags": {
+    "addr:city": "Brno",
+    "addr:housenumber": "10",
+    "addr:postcode": "60200",
+    "addr:street": "Slovákova",
+    "amenity": "restaurant",
+    "delivery": "yes",
+    "diet:vegan": "yes",
+    "diet:vegetarian": "yes",
+    "internet_access": "wlan",
+    "name": "Vegalité",
+    "opening_hours": "Mo-Fr 11:00-01:00, Sa 16:00-01:00; PH off",
+    "smoking": "no",
+    "takeaway": "yes",
+    "website": "http://www.vegalite.cz/",
+    "wheelchair": "no",
+    "wifi": "free"
+  }
+},
+{
+  "type": "node",
+  "id": 613526571,
+  "lat": 49.2033888,
+  "lon": 16.5996509,
+  "tags": {
+    "addr:city": "Brno",
+    "addr:housenumber": "53",
+    "addr:postcode": "60200",
+    "addr:street": "Kounicova",
+    "amenity": "restaurant",
+    "contact:email": "info@lastrada-brno.cz",
+    "contact:phone": "+420 549 240005",
+    "contact:website": "https://lastrada-brno.cz",
+    "cuisine": "italian",
+    "diet:vegan": "yes",
+    "diet:vegetarian": "yes",
+    "internet_access": "wlan",
+    "name": "La Strada",
+    "opening_hours": "Su-Th 11:00-23:00; Fr-Sa 11:00-00:00",
+    "smoking": "separated",
+    "source": "survey",
+    "wheelchair": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 707989273,
+  "lat": 49.1985219,
+  "lon": 16.6007629,
+  "tags": {
+    "addr:city": "Brno",
+    "addr:housenumber": "11",
+    "addr:postcode": "60200",
+    "addr:street": "Jaselská",
+    "amenity": "restaurant",
+    "diet:gluten_free": "yes",
+    "diet:vegan": "yes",
+    "diet:vegetarian": "yes",
+    "email": "restaurace@zzbrno.cz",
+    "name": "Zdravý Život",
+    "opening_hours": "Mo-Fr 08:00-18:00",
+    "phone": "+420 549 211 081",
+    "website": "http://www.zzbrno.cz/"
+  }
+},
+{
+  "type": "node",
+  "id": 1193245476,
+  "lat": 49.2067729,
+  "lon": 16.7191787,
+  "tags": {
+    "amenity": "restaurant",
+    "diet:vegan": "yes",
+    "name": "Pilgrim",
+    "opening_hours": "We,Fr 12:00-20:00; Sa 11:00-21:00; Su 11:00-19:00",
+    "outdoor_seating": "yes",
+    "payment:cash": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 1323483185,
+  "lat": 49.1940996,
+  "lon": 16.6126594,
+  "tags": {
+    "addr:city": "Brno",
+    "addr:housenumber": "26",
+    "addr:postcode": "60200",
+    "addr:street": "Orlí",
+    "amenity": "restaurant",
+    "diet:vegan": "yes",
+    "diet:vegetarian": "yes",
+    "name": "Rebio",
+    "opening_hours": "Mo-Fr 08:00-19:00; Sa 10:00-15:00",
+    "smoking": "no",
+    "website": "http://www.rebio.cz/",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 1486367772,
+  "lat": 49.1976130,
+  "lon": 16.6050497,
+  "tags": {
+    "amenity": "cafe",
+    "diet:vegan": "yes",
+    "diet:vegetarian": "yes",
+    "internet_access": "no",
+    "name": "Kofi Kofi",
+    "opening_hours": "Mo-Fr 06:00-20:30; Sa 09:00-17:00",
+    "outdoor_seating": "no",
+    "website": "http://www.kofikofi.cz/",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 1494789738,
+  "lat": 49.1971831,
+  "lon": 16.6012107,
+  "tags": {
+    "addr:city": "Brno",
+    "addr:housenumber": "14",
+    "addr:postcode": "60200",
+    "addr:street": "Marešova",
+    "amenity": "restaurant",
+    "check_date:opening_hours": "2020-10-30",
+    "cuisine": "asian",
+    "diet:vegan": "yes",
+    "diet:vegetarian": "yes",
+    "name": "Zlatá miska",
+    "opening_hours": "Mo-Sa 11:00-22:00; Su 11:00-21:00",
+    "wheelchair": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 1634148105,
+  "lat": 49.2000342,
+  "lon": 16.6021259,
+  "tags": {
+    "addr:city": "Brno",
+    "addr:housenumber": "2",
+    "addr:postcode": "60200",
+    "addr:street": "Slovákova",
+    "amenity": "restaurant",
+    "cuisine": "healthy",
+    "diet:vegan": "yes",
+    "diet:vegetarian": "yes",
+    "name": "Oaza",
+    "opening_hours": "Mo-Fr 07:30-18:00",
+    "wheelchair": "limited"
+  }
+},
+{
+  "type": "node",
+  "id": 2087568906,
+  "lat": 49.1802185,
+  "lon": 16.6045173,
+  "tags": {
+    "addr:city": "Brno",
+    "addr:housenumber": "1",
+    "addr:postcode": "63900",
+    "addr:street": "Holandská",
+    "amenity": "restaurant",
+    "capacity": "86",
+    "contact:website": "http://www.rebio.cz",
+    "diet:vegan": "yes",
+    "diet:vegetarian": "yes",
+    "name": "Rebio",
+    "opening_hours": "Mo-Fr 08:00-18:00",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 2257940938,
+  "lat": 49.1955678,
+  "lon": 16.6065147,
+  "tags": {
+    "addr:city": "Brno",
+    "addr:housenumber": "5",
+    "addr:postcode": "60200",
+    "addr:street": "Česká",
+    "amenity": "restaurant",
+    "cuisine": "regional",
+    "diet:vegan": "yes",
+    "diet:vegetarian": "yes",
+    "name": "Stopkova plzeňská pivnice",
+    "opening_hours": "Mo-Su 11:00-24:00",
+    "phone": "+420 517 070 080",
+    "reservation": "recommended",
+    "website": "https://www.kolkovna.cz/",
+    "wheelchair": "limited",
+    "wikidata": "Q21809707"
+  }
+},
+{
+  "type": "node",
+  "id": 2815481532,
+  "lat": 49.1970797,
+  "lon": 16.6122616,
+  "tags": {
+    "addr:city": "Brno",
+    "addr:housenumber": "9",
+    "addr:postcode": "60200",
+    "addr:street": "Rooseveltova",
+    "amenity": "restaurant",
+    "diet:vegan": "yes",
+    "diet:vegetarian": "yes",
+    "name": "Fabrik Urban House"
+  }
+},
+{
+  "type": "node",
+  "id": 2816946248,
+  "lat": 49.2141794,
+  "lon": 16.6233350,
+  "tags": {
+    "addr:city": "Brno",
+    "addr:housenumber": "40",
+    "addr:postcode": "61300",
+    "addr:street": "Provazníkova",
+    "amenity": "fast_food",
+    "diet:vegan": "yes",
+    "diet:vegetarian": "yes",
+    "name": "Pizzerie U Montyho",
+    "phone": "+420 736 621 591",
+    "website": "http://www.pizzerieumontyho.cz/"
+  }
+},
+{
+  "type": "node",
+  "id": 2918023546,
+  "lat": 49.2036444,
+  "lon": 16.6109277,
+  "tags": {
+    "addr:city": "Brno",
+    "addr:housenumber": "26",
+    "addr:postcode": "60200",
+    "addr:street": "třída Kpt. Jaroše",
+    "amenity": "restaurant",
+    "delivery": "yes",
+    "diet:vegan": "yes",
+    "diet:vegetarian": "only",
+    "email": "info@pilgrims.cz",
+    "name": "Pilgrim",
+    "opening_hours": "Mo-Fr 11:00-20:00",
+    "takeaway": "yes",
+    "website": "http://pilgrims.cz",
+    "wheelchair": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 3163386375,
+  "lat": 49.1956196,
+  "lon": 16.6124839,
+  "tags": {
+    "addr:city": "Brno",
+    "addr:housenumber": "4",
+    "addr:postcode": "60200",
+    "addr:street": "Sukova",
+    "amenity": "bar",
+    "diet:vegan": "yes",
+    "name": "Kabinet Múz",
+    "opening_hours": "Mo-Su 11:00-03:00",
+    "website": "https://www.kabinetmuz.cz/",
+    "wheelchair": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 3163520276,
+  "lat": 49.1931907,
+  "lon": 16.6075100,
+  "tags": {
+    "addr:city": "Brno",
+    "addr:housenumber": "2",
+    "addr:postcode": "60200",
+    "addr:street": "Mečová",
+    "amenity": "restaurant",
+    "diet:vegan": "yes",
+    "diet:vegetarian": "only",
+    "level": "1",
+    "name": "Rebio",
+    "opening_hours": "Mo-Fr 09:00-21:00; Sa 11:00-21:00; Su 11:00-20:00",
+    "smoking": "no",
+    "website": "http://www.rebio.cz/"
+  }
+},
+{
+  "type": "node",
+  "id": 3163520277,
+  "lat": 49.1958818,
+  "lon": 16.6123983,
+  "tags": {
+    "addr:city": "Brno",
+    "addr:housenumber": "2",
+    "addr:postcode": "60200",
+    "addr:street": "Sukova",
+    "amenity": "cafe",
+    "diet:vegan": "yes",
+    "diet:vegetarian": "yes",
+    "internet_access": "wlan",
+    "name": "Jedna báseň",
+    "opening_hours": "Mo-Th 08:00-23:00; Fr 08:00-01:00, Sa 11:30-24:00; Su 11:30-23:00",
+    "outdoor_seating": "yes",
+    "phone": "+420 542 211 444",
+    "website": "http://www.jedna-basen.cz/",
+    "wheelchair": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 3191329839,
+  "lat": 49.1970322,
+  "lon": 16.6061301,
+  "tags": {
+    "addr:city": "Brno",
+    "addr:housenumber": "6",
+    "addr:postcode": "60200",
+    "addr:street": "Solniční",
+    "amenity": "fast_food",
+    "diet:halal": "yes",
+    "diet:vegan": "yes",
+    "diet:vegetarian": "yes",
+    "name": "ABÍR arabská kuchyně",
+    "opening_hours": "Mo 10:00-20:00; Tu-Fr 09:00-20:00",
+    "phone": "+420 777 170 910",
+    "shop": "convenience",
+    "takeaway": "yes",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 3191349082,
+  "lat": 49.1970208,
+  "lon": 16.6008569,
+  "tags": {
+    "addr:city": "Brno",
+    "addr:housenumber": "4",
+    "addr:postcode": "60200",
+    "addr:street": "Údolní",
+    "amenity": "restaurant",
+    "cuisine": "pizza;burger;italian",
+    "diet:vegan": "yes",
+    "diet:vegetarian": "yes",
+    "internet_access": "wlan",
+    "name": "La Famiglia",
+    "opening_hours": "Mo-Sa 11:00-23:00; Su 11:00-22:00",
+    "takeaway": "yes",
+    "website": "https://www.lafamigliabrno.cz",
+    "wheelchair": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 3191349085,
+  "lat": 49.1979147,
+  "lon": 16.6021578,
+  "tags": {
+    "addr:city": "Brno",
+    "addr:housenumber": "2",
+    "addr:postcode": "60200",
+    "addr:street": "Jaselská",
+    "amenity": "restaurant",
+    "cuisine": "burger",
+    "diet:vegan": "yes",
+    "diet:vegetarian": "yes",
+    "internet_access": "wlan",
+    "internet_access:fee": "yes",
+    "name": "East Village",
+    "opening_hours": "Mo-Fr 10:00-02:00, Sa 11:00-02:00, Su 11:00-01:00",
+    "phone": "+420 608 193 627",
+    "website": "https://www.eastvillage.cz/",
+    "wheelchair": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 3256870089,
+  "lat": 49.4876480,
+  "lon": 16.6581375,
+  "tags": {
+    "amenity": "restaurant",
+    "diet:vegan": "yes",
+    "diet:vegetarian": "only",
+    "name": "Klásek - Vegetariánská jídelna",
+    "opening_hours": "Mo-Fr 11:00-14:30",
+    "smoking": "no",
+    "stars": "7",
+    "website": "http://www.jidelnaklasek.cz"
+  }
+},
+{
+  "type": "node",
+  "id": 3319051592,
+  "lat": 49.1939908,
+  "lon": 16.6071856,
+  "tags": {
+    "addr:city": "Brno",
+    "addr:housenumber": "5",
+    "addr:postcode": "60200",
+    "addr:street": "Dominikánské náměstí",
+    "amenity": "cafe",
+    "diet:vegan": "yes",
+    "diet:vegetarian": "only",
+    "internet_access": "wlan",
+    "name": "SKØG Urban Hub",
+    "opening_hours": "Mo-Th 08:00-01:00, Fr 08:00-02:00, Sa 10:00-02:00, Su 12:00-22:00",
+    "phone": "+420 607 098 557",
+    "website": "http://www.skog.cz/",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 3467187412,
+  "lat": 49.1955303,
+  "lon": 16.6084577,
+  "tags": {
+    "addr:city": "Brno",
+    "addr:housenumber": "5",
+    "addr:postcode": "60200",
+    "addr:street": "náměstí Svobody",
+    "amenity": "restaurant",
+    "cuisine": "regional",
+    "diet:vegan": "yes",
+    "diet:vegetarian": "yes",
+    "internet_access": "wlan",
+    "name": "Zlatá loď",
+    "opening_hours": "Mo-Th 11:00-24:00, Fr 11:00-01:00, Sa 11:30-01:00, Su 11:30-23:00",
+    "outdoor_seating": "yes",
+    "phone": "+420 778 420 000",
+    "website": "http://www.zlatalod.com/",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 4180713908,
+  "lat": 49.2026309,
+  "lon": 16.5968611,
+  "tags": {
+    "addr:city": "Brno",
+    "addr:housenumber": "164/6",
+    "addr:postcode": "60200",
+    "addr:street": "Jana Uhra",
+    "amenity": "restaurant",
+    "contact:website": "https://www.facebook.com/pizzapunk.brno",
+    "cuisine": "pizza",
+    "diet:vegan": "yes",
+    "email": "roman@veganlike.me",
+    "name": "Pizzapunk",
+    "opening_hours": "Tu-Fr 12:00-21:00; Sa,Su 14:00-21:00",
+    "outdoor_seating": "yes",
+    "phone": "+420 608 312 369",
+    "takeaway": "yes",
+    "website": "www.pizzapunk.cz"
+  }
+},
+{
+  "type": "node",
+  "id": 4199057389,
+  "lat": 49.1931201,
+  "lon": 16.6105696,
+  "tags": {
+    "addr:city": "Brno",
+    "addr:housenumber": "6",
+    "addr:postcode": "60200",
+    "addr:street": "Orlí",
+    "amenity": "restaurant",
+    "cuisine": "thai",
+    "diet:vegan": "yes",
+    "diet:vegetarian": "yes",
+    "internet_access": "wlan",
+    "name": "Singha",
+    "smoking": "no",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 4225418836,
+  "lat": 49.1959019,
+  "lon": 16.6090385,
+  "tags": {
+    "addr:city": "Brno",
+    "addr:housenumber": "4",
+    "addr:postcode": "60200",
+    "addr:street": "Běhounská",
+    "amenity": "restaurant",
+    "check_date:opening_hours": "2020-09-29",
+    "cuisine": "vietnamese",
+    "diet:vegan": "yes",
+    "diet:vegetarian": "yes",
+    "name": "Gỗ Brno",
+    "opening_hours": "Mo-Sa 11:00-22:00",
+    "outdoor_seating": "yes",
+    "phone": "+420 720 021 575",
+    "wheelchair": "limited"
+  }
+},
+{
+  "type": "node",
+  "id": 4231856489,
+  "lat": 49.2049064,
+  "lon": 16.6101276,
+  "tags": {
+    "amenity": "pub",
+    "contact:email": "info@ponava.cafe",
+    "contact:phone": "+420 739519650",
+    "description": "Vege Bio lokal",
+    "diet:vegan": "yes",
+    "diet:vegetarian": "yes",
+    "internet_access": "wlan",
+    "name": "Ponava",
+    "opening_hours": "Mo-Fr 10:00-22:00; Sa 12:00-22:00; Su 12:00-19:00",
+    "organic": "yes",
+    "outdoor_seating": "yes",
+    "smoking": "outside",
+    "website": "http://ponava.cafe",
+    "wheelchair": "limited"
+  }
+},
+{
+  "type": "node",
+  "id": 4637984545,
+  "lat": 49.2056674,
+  "lon": 16.6052077,
+  "tags": {
+    "amenity": "restaurant",
+    "diet:raw": "yes",
+    "diet:vegan": "yes",
+    "diet:vegetarian": "yes",
+    "email": "brno@secretofraw.cz",
+    "name": "Secret of Raw",
+    "opening_hours": "Mo-Fr 10:00-20:00; Sa, Su 10:00-19:00",
+    "phone": "+420 777 064 222",
+    "website": "https://www.secretofraw.cz/"
+  }
+},
+{
+  "type": "node",
+  "id": 4674341426,
+  "lat": 49.1913818,
+  "lon": 16.6092594,
+  "tags": {
+    "addr:postcode": "60200",
+    "addr:street": "Kapucínské náměstí",
+    "amenity": "cafe",
+    "diet:vegan": "yes",
+    "diet:vegetarian": "yes",
+    "internet_access": "wlan",
+    "name": "Café Pilát",
+    "opening_hours": "Mo-Su 08:00-00:00",
+    "outdoor_seating": "yes",
+    "phone": "+420 603 974 496"
+  }
+},
+{
+  "type": "node",
+  "id": 4757745210,
+  "lat": 49.1997442,
+  "lon": 16.5986505,
+  "tags": {
+    "addr:city": "Brno",
+    "addr:housenumber": "15",
+    "addr:postcode": "60200",
+    "addr:street": "Gorkého",
+    "amenity": "restaurant",
+    "cuisine": "thai;vietnamese",
+    "diet:vegan": "yes",
+    "diet:vegetarian": "yes",
+    "email": "info@suchibrno.cz",
+    "internet_access": "wlan",
+    "name": "Suchi",
+    "opening_hours": "Mo-Fr 11:00-22:00",
+    "phone": "+420 773 947 700",
+    "smoking": "no",
+    "takeaway": "yes",
+    "website": "https://suchibrno.cz/",
+    "wheelchair": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 4833255717,
+  "lat": 49.2027317,
+  "lon": 16.6110428,
+  "tags": {
+    "addr:city": "Brno",
+    "addr:housenumber": "18",
+    "addr:postcode": "60200",
+    "addr:street": "třída Kpt. Jaroše",
+    "amenity": "cafe",
+    "diet:vegan": "yes",
+    "diet:vegetarian": "only",
+    "name": "Tři ocásci",
+    "opening_hours": "Mo-Fr 11:00-24:00; Sa-Su 18:00-24:00",
+    "outdoor_seating": "yes",
+    "phone": "+420 775 702 778",
+    "website": "https://triocasci.cz/",
+    "wheelchair": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 5416415840,
+  "lat": 49.1993937,
+  "lon": 16.6027050,
+  "tags": {
+    "addr:city": "Brno",
+    "addr:housenumber": "10",
+    "addr:postcode": "60200",
+    "addr:street": "Veveří",
+    "amenity": "restaurant",
+    "cuisine": "japanese;ramen",
+    "diet:gluten_free": "yes",
+    "diet:vegan": "yes",
+    "diet:vegetarian": "yes",
+    "name": "Shōyu",
+    "opening_hours": "Mo-Th 11:00-21:00; Fr-Su 11:00-15:00",
+    "phone": "+420 773661060",
+    "website": "https://shoyu.cz/"
+  }
+},
+{
+  "type": "node",
+  "id": 5469844000,
+  "lat": 49.1927146,
+  "lon": 16.6080251,
+  "tags": {
+    "contact:phone": "+420 739665746",
+    "contact:website": "http://www.myraw.cz",
+    "diet:raw": "yes",
+    "diet:vegan": "yes",
+    "level": "1",
+    "name": "My Raw Food",
+    "opening_hours": "Mo-Sa 09:00-19:00",
+    "shop": "deli"
+  }
+},
+{
+  "type": "node",
+  "id": 5645366621,
+  "lat": 49.1909223,
+  "lon": 16.6100787,
+  "tags": {
+    "addr:city": "Brno",
+    "addr:housenumber": "414",
+    "addr:postcode": "60200",
+    "addr:street": "Bašty",
+    "amenity": "fast_food",
+    "diet:vegan": "yes",
+    "diet:vegetarian": "yes",
+    "email": "info@pokecz.cz",
+    "name": "Pokecz",
+    "opening_hours": "Mo-Fr 11:00-21:00; Sa 12:00-20:00; Su 12:00-15:00",
+    "phone": "+420 725 414 007",
+    "takeaway": "yes",
+    "website": "https://www.pokecz.cz/"
+  }
+},
+{
+  "type": "node",
+  "id": 5981702415,
+  "lat": 49.2057386,
+  "lon": 16.5991838,
+  "tags": {
+    "amenity": "restaurant",
+    "diet:vegan": "yes",
+    "diet:vegetarian": "yes",
+    "name": "Restaurace Domov",
+    "opening_hours": "Mo-Th 11:00-22:00; Fr 11:00-23:00; Sa 14:00-22:00",
+    "outdoor_seating": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 5997893486,
+  "lat": 49.1913517,
+  "lon": 16.6216798,
+  "tags": {
+    "addr:city": "Brno",
+    "addr:housenumber": "45",
+    "addr:postcode": "60200",
+    "addr:street": "Křenová",
+    "amenity": "cafe",
+    "diet:lactose_free": "yes",
+    "diet:raw": "yes",
+    "diet:vegan": "yes",
+    "diet:vegetarian": "yes",
+    "email": "veg8cafe@email.cz",
+    "name": "Veg8café",
+    "opening_hours": "Mo-Fr 07:00-16:30",
+    "phone": "+420 776670608",
+    "takeaway": "yes",
+    "website": "http://www.veg8cafe.cz/"
+  }
+},
+{
+  "type": "node",
+  "id": 6147610135,
+  "lat": 49.1888573,
+  "lon": 16.5986287,
+  "tags": {
+    "addr:housenumber": "226/2",
+    "addr:street": "Václavská",
+    "amenity": "cafe",
+    "delivery": "no",
+    "diet:vegan": "yes",
+    "diet:vegetarian": "yes",
+    "internet_access": "wlan",
+    "internet_access:fee": "no",
+    "name": "Ad Alta",
+    "name:cs": "Kavárna Ad Alta",
+    "opening_hours": "Mo-Fr 09:00-21:00; Sa 09:00-18:00",
+    "smoking": "no",
+    "wheelchair": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 7289524346,
+  "lat": 49.3666188,
+  "lon": 16.6451972,
+  "tags": {
+    "amenity": "restaurant",
+    "diet:vegan": "yes",
+    "diet:vegetarian": "only",
+    "email": "karla.pernicova@seznam.cz",
+    "name": "Amrit",
+    "opening_hours": "Mo-Fr 10:00-14:00",
+    "payment:maestro": "yes",
+    "payment:mastercard": "yes",
+    "payment:visa": "yes",
+    "payment:visa_debit": "yes",
+    "payment:visa_electron": "yes",
+    "phone": "+420 608 880 665",
+    "website": "http://www.jogablansko.wz.cz/amrit/html/kontakt.htm",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 7315111201,
+  "lat": 49.2027056,
+  "lon": 16.6138250,
+  "tags": {
+    "amenity": "fast_food",
+    "diet:gluten_free": "yes",
+    "diet:vegan": "yes",
+    "diet:vegetarian": "yes",
+    "email": "info@fabrik.cz",
+    "name": "Fabrik food factory",
+    "opening_hours": "Mo-Fr 09:00-21:00; Sa,Su 10:00-21:00",
+    "payment:maestro": "yes",
+    "payment:mastercard": "yes",
+    "payment:visa": "yes",
+    "payment:visa_debit": "yes",
+    "payment:visa_electron": "yes",
+    "phone": "+420 777 222 241",
+    "website": "https://fabrik.cz/"
+  }
+}
+
+  ]
+}
