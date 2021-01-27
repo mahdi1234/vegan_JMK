@@ -12,9 +12,9 @@ jobs:
     steps:
     - name: Check out this repo
       uses: actions/checkout@v2
-    - name: Fetch latest data
-      run: |-
-        run.sh
+    - name: Display the path
+      run: run.sh
+      shell: bash
     - name: Commit and push if it changed
       run: |-
         git config user.name "Automated"
