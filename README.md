@@ -1,4 +1,4 @@
-# Map of vegan and vegetarian restaurants in Jihomoravsky kraj, Czechia
+# Vegan and vegetarian restaurants in Jihomoravsky kraj, Czechia
 
 The map can be found here: [Vege-JMK map](https://umap.openstreetmap.fr/en/map/vege-jmk_557579)
 
@@ -14,11 +14,13 @@ When restaurant ceases to exist or changes menu it hardly ever gets to my radar.
 I want to make those changes visible and hopefully increase the quality of vegans' and vegetarians' life in Southern Moravia.
 
 ## How to contribute
+
 Are the data no longer accurate? There are some possibilities for you.
 - **The best and recommended**: learn to edit OpenStreetMap. 
 Short yet exhausting summary can be found [here](https://github.com/Rudloff/openvegemap#how-to-contribute).
 - Also working: open New issue and write what has changed and where.
 
 ## Sharing is caring
+
 This and similar maps can be embedded to your website with simple code. See examples on [this webpage](https://befeleme.github.io/).
 Feel free to use this particular map if you like it.
