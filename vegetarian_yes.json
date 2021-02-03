@@ -2,8 +2,8 @@
   "version": 0.6,
   "generator": "Overpass API 0.7.56.7 b85c4387",
   "osm3s": {
-    "timestamp_osm_base": "2021-02-03T13:11:03Z",
-    "timestamp_areas_base": "2021-02-03T11:16:02Z",
+    "timestamp_osm_base": "2021-02-03T16:13:02Z",
+    "timestamp_areas_base": "2021-02-03T13:34:03Z",
     "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
   },
   "elements": [
@@ -717,7 +717,7 @@
     "amenity": "restaurant",
     "cuisine": "grill",
     "diet:vegetarian": "yes",
-    "internet_access": "wifi",
+    "internet_access": "wlan",
     "internet_access:fee": "no",
     "name": "La Bouchée",
     "opening_hours": "Mo-Th 08:00-23:00, Fr-Sa 08:00-24:00, Su 10:00-22:00",
@@ -2162,6 +2162,20 @@
     "name": "Ráj oříšků",
     "opening_hours": "Mo-Fr 08:00-20:00; Sa,Su 08:00-18:00",
     "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 7826700275,
+  "lat": 49.2204695,
+  "lon": 16.5857836,
+  "tags": {
+    "amenity": "cafe",
+    "diet:vegetarian": "yes",
+    "name": "Jadro",
+    "opening_hours": "Mo-Fr 10:00-20:00; Su 13:00-18:00",
+    "website": "https://www.jadrocafe.cz",
+    "wheelchair": "no"
   }
 },
 {
