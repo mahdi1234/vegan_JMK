@@ -388,6 +388,28 @@
 },
 {
   "type": "node",
+  "id": 1514496114,
+  "lat": 49.2018649,
+  "lon": 16.6120342,
+  "tags": {
+    "addr:city": "Brno",
+    "addr:housenumber": "5",
+    "addr:postcode": "60200",
+    "addr:street": "Kudelova",
+    "amenity": "restaurant",
+    "cuisine": "american;burger;steak_house",
+    "diet:vegetarian": "yes",
+    "internet_access": "wlan",
+    "name": "U Starýho Billa",
+    "opening_hours": "Mo-Fr 11:30-00:00; Sa 12:00-00:00; Su 12:00-22:00",
+    "smoking": "no",
+    "takeaway": "yes",
+    "website": "http://www.bill.cz/",
+    "wheelchair": "no"
+  }
+},
+{
+  "type": "node",
   "id": 1526309789,
   "lat": 49.2119821,
   "lon": 16.5784675,

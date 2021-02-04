@@ -1,0 +1,247 @@
+{
+  "version": 0.6,
+  "generator": "Overpass API 0.7.56.8 7d656e78",
+  "osm3s": {
+    "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
+  },
+  "elements": [
+
+{
+  "type": "node",
+  "id": 797334834,
+  "lat": 49.2088991,
+  "lon": 16.5558254,
+  "tags": {
+    "service": "parts",
+    "shop": "health_food",
+    "source": "local knowledge"
+  }
+},
+{
+  "type": "node",
+  "id": 3462485661,
+  "lat": 49.1937796,
+  "lon": 16.6117027,
+  "tags": {
+    "addr:city": "Brno",
+    "addr:housenumber": "17",
+    "addr:postcode": "60200",
+    "addr:street": "Orlí",
+    "bulk_purchase": "yes",
+    "name": "Brána ke zdraví",
+    "opening_hours": "Mo-Fr 07:30-18:00",
+    "phone": "+420 725 065 899",
+    "shop": "health_food",
+    "website": "http://www.branakezdravi.cz/",
+    "wheelchair": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 5387382568,
+  "lat": 49.1948160,
+  "lon": 16.6094720,
+  "tags": {
+    "level": "1",
+    "name": "Zdraví s chutí",
+    "opening_hours": "Mo-Fr 08:00-19:00; Sa 09:00-17:00; Su off",
+    "shop": "health_food"
+  }
+},
+{
+  "type": "node",
+  "id": 5536626371,
+  "lat": 49.2228790,
+  "lon": 16.5949719,
+  "tags": {
+    "contact:email": "pamo@pamo.cz",
+    "contact:phone": "+420 731170110",
+    "contact:website": "http://www.pamo.cz",
+    "name": "PAMO",
+    "opening_hours": "Mo-Fr 09:00-13:00,13:30-18:00",
+    "shop": "health_food"
+  }
+},
+{
+  "type": "node",
+  "id": 5555169889,
+  "lat": 49.2064808,
+  "lon": 16.6757402,
+  "tags": {
+    "addr:city": "Brno - Líšeň",
+    "addr:housenumber": "2407/7",
+    "addr:postcode": "62800",
+    "addr:street": "Masarova",
+    "email": "lisen@sklizeno.cz",
+    "name": "Sklizeno",
+    "opening_hours": "Mo-Fr 08:00-19:30; Sa 8:00-14:00",
+    "operator": "Sklizeno",
+    "payment:cards": "yes",
+    "payment:cash": "yes",
+    "shop": "health_food",
+    "website": "https://www.sklizeno.cz"
+  }
+},
+{
+  "type": "node",
+  "id": 5595684930,
+  "lat": 49.5035258,
+  "lon": 16.5073035,
+  "tags": {
+    "name": "Špajz",
+    "operator": "Soňa Suchá",
+    "shop": "health_food"
+  }
+},
+{
+  "type": "node",
+  "id": 5908393391,
+  "lat": 49.2066287,
+  "lon": 16.6017677,
+  "tags": {
+    "name": "ZDRAVEvBRNE.cz",
+    "opening_hours": "Mo-Fr 09:00-19:00; Sa 08:30-12:00",
+    "phone": "+420 732674275",
+    "shop": "health_food",
+    "website": "http://zdravevbrne.cz"
+  }
+},
+{
+  "type": "node",
+  "id": 6434023771,
+  "lat": 49.2341208,
+  "lon": 16.6256351,
+  "tags": {
+    "name": "Zdravé potraviny",
+    "opening_hours": "Mo-Fr 06:45-18:00;Sa 08:00-12:00",
+    "shop": "health_food"
+  }
+},
+{
+  "type": "node",
+  "id": 7101257214,
+  "lat": 49.2023533,
+  "lon": 16.6079867,
+  "tags": {
+    "email": "obchod@zzbrno.cz",
+    "name": "Zdravý život",
+    "opening_hours": "Mo-Fr 08:00-18:00; Sa 09:00-12:00",
+    "phone": "+420 549 240 056",
+    "shop": "health_food",
+    "website": "http://www.zzbrno.cz/prodejna/prodejna.html",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 7295308520,
+  "lat": 49.4103980,
+  "lon": 16.6397047,
+  "tags": {
+    "email": "klimes.jitka@seznam.cz",
+    "name": "Zdravá výživa NABO",
+    "opening_hours": "Mo-Fr 08:00-12:00,13:00-17:00; Sa 08:00-12:00",
+    "payment:maestro": "yes",
+    "payment:mastercard": "yes",
+    "payment:visa": "yes",
+    "payment:visa_debit": "yes",
+    "payment:visa_electron": "yes",
+    "phone": "+420 739 642 129",
+    "shop": "health_food",
+    "website": "https://www.nabo-rajec.cz/"
+  }
+},
+{
+  "type": "node",
+  "id": 7412535911,
+  "lat": 49.0103130,
+  "lon": 17.1241984,
+  "tags": {
+    "addr:housenumber": "39",
+    "addr:street": "Masarykovo náměstí",
+    "name": "Něha",
+    "phone": "607 054 065",
+    "shop": "health_food"
+  }
+},
+{
+  "type": "node",
+  "id": 7431363120,
+  "lat": 49.0638838,
+  "lon": 17.0293300,
+  "tags": {
+    "email": "violka221@seznam.cz",
+    "name": "Zdravá výživa Violka",
+    "opening_hours": "Mo-Fr 08:00-11:30,13:00-16:30; Sa 08:00-11:00",
+    "phone": "+420 518 633 121",
+    "shop": "health_food",
+    "website": "https://www.bioviolka.cz/"
+  }
+},
+{
+  "type": "node",
+  "id": 7598162405,
+  "lat": 49.1526935,
+  "lon": 16.8765486,
+  "tags": {
+    "name": "Potraviny Zdravísek",
+    "shop": "health_food"
+  }
+},
+{
+  "type": "node",
+  "id": 7637390835,
+  "lat": 49.2779221,
+  "lon": 16.9982112,
+  "tags": {
+    "addr:city": "Vyškov",
+    "addr:housenumber": "4",
+    "addr:postcode": "68201",
+    "addr:street": "Jana Šoupala",
+    "name": "Zdravá výživa - Petra",
+    "opening_hours": "Mo-Fr 08:00-17:00",
+    "payment:cash": "yes",
+    "phone": "+420517347555",
+    "shop": "health_food",
+    "website": "http://www.montops.cz/petra-prodejna/"
+  }
+},
+{
+  "type": "node",
+  "id": 7847668106,
+  "lat": 49.1985015,
+  "lon": 16.5945561,
+  "tags": {
+    "name": "Zdravá výživa",
+    "opening_hours": "Mo-Fr 10:00-12:30,13:00-18:00",
+    "shop": "health_food",
+    "website": "http://www.zdravavyziva-udolni.cz/",
+    "wheelchair": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 7988202820,
+  "lat": 49.1876801,
+  "lon": 16.6429798,
+  "tags": {
+    "shop": "health_food",
+    "survey:date": "2020-10-04"
+  }
+},
+{
+  "type": "node",
+  "id": 8360797357,
+  "lat": 49.2185029,
+  "lon": 16.5529764,
+  "tags": {
+    "email": "z.vyziva.foltyn@seznam.cz",
+    "name": "Zdravá výživa",
+    "opening_hours": "Mo-Fr 09:00-18:00",
+    "phone": "+420721837384",
+    "shop": "health_food"
+  }
+}
+
+  ]
+}
