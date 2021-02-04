@@ -2,8 +2,6 @@
   "version": 0.6,
   "generator": "Overpass API 0.7.56.7 b85c4387",
   "osm3s": {
-    "timestamp_osm_base": "2021-02-04T02:56:03Z",
-    "timestamp_areas_base": "2021-02-04T00:50:02Z",
     "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
   },
   "elements": [
@@ -288,6 +286,7 @@
     "addr:street": "Obilní trh",
     "amenity": "restaurant",
     "cuisine": "regional",
+    "diet:vegan": "no",
     "diet:vegetarian": "yes",
     "internet_access": "wlan",
     "name": "Pivnice U Čápa",
@@ -887,6 +886,27 @@
 },
 {
   "type": "node",
+  "id": 3098348684,
+  "lat": 49.1998261,
+  "lon": 16.5966001,
+  "tags": {
+    "addr:city": "Brno",
+    "addr:housenumber": "1a",
+    "addr:postcode": "60200",
+    "addr:street": "Jiráskova",
+    "amenity": "cafe",
+    "cuisine": "dessert",
+    "diet:vegan": "yes",
+    "diet:vegetarian": "yes",
+    "name": "Tutti Frutti",
+    "opening_hours": "Mo-Su 10:00-18:00",
+    "phone": "+420722944536",
+    "website": "https://cukrarna-tutti-frutti.webnode.cz/",
+    "wheelchair": "limited"
+  }
+},
+{
+  "type": "node",
   "id": 3098671162,
   "lat": 49.2169724,
   "lon": 16.5991492,
@@ -1357,6 +1377,24 @@
     "cuisine": "vietnamese",
     "diet:vegetarian": "yes",
     "name": "SunRice"
+  }
+},
+{
+  "type": "node",
+  "id": 3389141164,
+  "lat": 49.1913946,
+  "lon": 16.6108023,
+  "tags": {
+    "addr:city": "Brno",
+    "addr:housenumber": "34",
+    "addr:postcode": "60200",
+    "addr:street": "Masarykova",
+    "amenity": "fast_food",
+    "cuisine": "pasta",
+    "diet:vegetarian": "yes",
+    "name": "Pasta di gusto",
+    "opening_hours": "Mo-Fr 10:00-20:30; Sa 11:00-20:30",
+    "wheelchair": "no"
   }
 },
 {
@@ -1864,6 +1902,23 @@
 },
 {
   "type": "node",
+  "id": 5303014551,
+  "lat": 49.1917386,
+  "lon": 16.6098013,
+  "tags": {
+    "addr:city": "Brno",
+    "addr:housenumber": "11",
+    "addr:postcode": "60200",
+    "addr:street": "Kapucínské náměstí",
+    "amenity": "cafe",
+    "diet:vegetarian": "yes",
+    "name": "Mada ice cream",
+    "opening_hours": "Mo 09:00-20:00; Tu-Sa 09:00-20:30; Su 10:00-20:00",
+    "wheelchair": "no"
+  }
+},
+{
+  "type": "node",
   "id": 5363094225,
   "lat": 49.2237001,
   "lon": 16.5939656,
@@ -2031,26 +2086,6 @@
 },
 {
   "type": "node",
-  "id": 6238494076,
-  "lat": 49.1997488,
-  "lon": 16.5972431,
-  "tags": {
-    "addr:city": "Brno",
-    "addr:housenumber": "20",
-    "addr:postcode": "60200",
-    "addr:street": "Gorkého",
-    "amenity": "restaurant",
-    "diet:raw": "yes",
-    "diet:vegetarian": "yes",
-    "email": "info@my-kitchen.cz",
-    "name": "My Kitchen",
-    "opening_hours": "Mo-Fr 09:00-18:00",
-    "phone": "+420 731 543 554",
-    "website": "https://www.my-kitchen.cz/"
-  }
-},
-{
-  "type": "node",
   "id": 6810240759,
   "lat": 49.1899719,
   "lon": 16.6138253,
@@ -2096,6 +2131,19 @@
     "name": "Táo Viet Nam Home Cooking & Sushi Bar",
     "opening_hours": "Mo-Fr 11:00-22:00; Sa-Su 12:00-22:00",
     "website": "https://www.facebook.com/T%C3%A1o-Viet-Nam-Home-Cooking-Sushi-Bar-1857934510936812/",
+    "wheelchair": "limited"
+  }
+},
+{
+  "type": "node",
+  "id": 7226682907,
+  "lat": 49.1914158,
+  "lon": 16.6111296,
+  "tags": {
+    "amenity": "fast_food",
+    "diet:vegetarian": "yes",
+    "name": "Taco Bonito",
+    "opening_hours": "Mo-Fr 11:00-22:00; Sa,Su 11:00-20:00",
     "wheelchair": "limited"
   }
 },
