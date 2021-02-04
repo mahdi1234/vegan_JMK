@@ -12,3 +12,12 @@ curl 'https://overpass-api.de/api/interpreter?data=%5Bout%3Ajson%5D%5Btimeout%3A
 sleep 300
 # diet:vegetarian=only IN 'Jihomoravský kraj'
 curl 'https://overpass-api.de/api/interpreter?data=%5Bout%3Ajson%5D%5Btimeout%3A100%5D%3Barea(3600442311)-%3E.searchArea%3B(node%5B%22diet%3Avegetarian%22%3D%22only%22%5D(area.searchArea)%3Bway%5B%22diet%3Avegetarian%22%3D%22only%22%5D(area.searchArea)%3Brelation%5B%22diet%3Avegetarian%22%3D%22only%22%5D(area.searchArea)%3B)%3Bout%20body%3B%3E%3Bout%20skel%20qt%3B' | grep -v timestamp_ > vegetarian_only.json
+sleep 300
+# diet:raw=yes in 'Jihomoravsky kraj'
+curl 'https://overpass-api.de/api/interpreter?data=%5Bout%3Ajson%5D%5Btimeout%3A25%5D%3Barea%283600442311%29%2D%3E%2EsearchArea%3B%28node%5B%22diet%3Araw%22%3D%22yes%22%5D%28area%2EsearchArea%29%3Bway%5B%22diet%3Araw%22%3D%22yes%22%5D%28area%2EsearchArea%29%3Brelation%5B%22diet%3Araw%22%3D%22yes%22%5D%28area%2EsearchArea%29%3B%29%3Bout%3B%3E%3Bout%20skel%20qt%3B%0A' | grep -v timestamp_ > raw_yes.json
+sleep 300
+# shop=health_food in 'Jihomoravsky kraj'
+curl 'https://overpass-api.de/api/interpreter?data=%5Bout%3Ajson%5D%5Btimeout%3A25%5D%3Barea%283600442311%29%2D%3E%2EsearchArea%3B%28node%5B%22shop%22%3D%22health%5Ffood%22%5D%28area%2EsearchArea%29%3Bway%5B%22shop%22%3D%22health%5Ffood%22%5D%28area%2EsearchArea%29%3Brelation%5B%22shop%22%3D%22health%5Ffood%22%5D%28area%2EsearchArea%29%3B%29%3Bout%3B%3E%3Bout%20skel%20qt%3B%0A' | grep -v timestamp_ > health_food.json
+sleep 300
+# bulk_purchase=yes in 'Jihomoravsky kraj'
+curl 'https://overpass-api.de/api/interpreter?data=%5Bout%3Ajson%5D%5Btimeout%3A25%5D%3Barea%283600442311%29%2D%3E%2EsearchArea%3B%28node%5B%22bulk%5Fpurchase%22%3D%22yes%22%5D%28area%2EsearchArea%29%3Bway%5B%22bulk%5Fpurchase%22%3D%22yes%22%5D%28area%2EsearchArea%29%3Brelation%5B%22bulk%5Fpurchase%22%3D%22yes%22%5D%28area%2EsearchArea%29%3B%29%3Bout%3B%3E%3Bout%20skel%20qt%3B%0A' | grep -v timestamp_ > bulk_purchase.json
