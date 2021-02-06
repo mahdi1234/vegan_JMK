@@ -27,6 +27,51 @@
 },
 {
   "type": "node",
+  "id": 603039641,
+  "lat": 49.2003917,
+  "lon": 16.6025416,
+  "tags": {
+    "addr:city": "Brno",
+    "addr:housenumber": "10",
+    "addr:postcode": "60200",
+    "addr:street": "Slovákova",
+    "amenity": "restaurant",
+    "delivery": "yes",
+    "diet:vegan": "yes",
+    "diet:vegetarian": "only",
+    "internet_access": "wlan",
+    "internet_access:fee": "no",
+    "name": "Vegalité",
+    "opening_hours": "Mo-Fr 11:00-01:00, Sa 16:00-01:00; PH off",
+    "smoking": "no",
+    "takeaway": "yes",
+    "website": "http://www.vegalite.cz/",
+    "wheelchair": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 707989273,
+  "lat": 49.1985219,
+  "lon": 16.6007629,
+  "tags": {
+    "addr:city": "Brno",
+    "addr:housenumber": "11",
+    "addr:postcode": "60200",
+    "addr:street": "Jaselská",
+    "amenity": "restaurant",
+    "diet:gluten_free": "yes",
+    "diet:vegan": "yes",
+    "diet:vegetarian": "only",
+    "email": "restaurace@zzbrno.cz",
+    "name": "Zdravý Život",
+    "opening_hours": "Mo-Fr 08:00-18:00",
+    "phone": "+420 549 211 081",
+    "website": "http://www.zzbrno.cz/"
+  }
+},
+{
+  "type": "node",
   "id": 944527185,
   "lat": 49.1901907,
   "lon": 16.5952396,
@@ -40,6 +85,26 @@
     "name": "Avatár",
     "note": "vegetariánská restaurace a cukrárna",
     "opening_hours": "Mo-Fr 11:00-18:00;Sa 11:00-16:00"
+  }
+},
+{
+  "type": "node",
+  "id": 2087568906,
+  "lat": 49.1802185,
+  "lon": 16.6045173,
+  "tags": {
+    "addr:city": "Brno",
+    "addr:housenumber": "1",
+    "addr:postcode": "63900",
+    "addr:street": "Holandská",
+    "amenity": "restaurant",
+    "capacity": "86",
+    "contact:website": "http://www.rebio.cz",
+    "diet:vegan": "yes",
+    "diet:vegetarian": "only",
+    "name": "Rebio",
+    "opening_hours": "Mo-Fr 08:00-18:00",
+    "wheelchair": "yes"
   }
 },
 {
@@ -127,6 +192,25 @@
     "opening_hours": "Mo-Fr 11:00-20:00",
     "takeaway": "yes",
     "website": "http://pilgrims.cz",
+    "wheelchair": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 3098671162,
+  "lat": 49.2169724,
+  "lon": 16.5991492,
+  "tags": {
+    "addr:city": "Brno",
+    "addr:housenumber": "78",
+    "addr:postcode": "61200",
+    "addr:street": "Štefánikova",
+    "amenity": "restaurant",
+    "diet:vegan": "yes",
+    "diet:vegetarian": "only",
+    "name": "Má hostina",
+    "opening_hours": "Mo-Su 11:00-20:00",
+    "outdoor_seating": "no",
     "wheelchair": "no"
   }
 },
@@ -243,7 +327,7 @@
     "addr:postcode": "60200",
     "addr:street": "třída Kpt. Jaroše",
     "amenity": "cafe",
-    "diet:vegan": "yes",
+    "diet:vegan": "only",
     "diet:vegetarian": "only",
     "name": "Tři ocásci",
     "opening_hours": "Mo-Fr 11:00-24:00; Sa-Su 18:00-24:00",
@@ -251,6 +335,29 @@
     "phone": "+420 775 702 778",
     "website": "https://triocasci.cz/",
     "wheelchair": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 5997893486,
+  "lat": 49.1913517,
+  "lon": 16.6216798,
+  "tags": {
+    "addr:city": "Brno",
+    "addr:housenumber": "45",
+    "addr:postcode": "60200",
+    "addr:street": "Křenová",
+    "amenity": "cafe",
+    "diet:lactose_free": "yes",
+    "diet:raw": "yes",
+    "diet:vegan": "yes",
+    "diet:vegetarian": "only",
+    "email": "veg8cafe@email.cz",
+    "name": "Veg8café",
+    "opening_hours": "Mo-Fr 07:00-16:30",
+    "phone": "+420 776670608",
+    "takeaway": "yes",
+    "website": "http://www.veg8cafe.cz/"
   }
 },
 {

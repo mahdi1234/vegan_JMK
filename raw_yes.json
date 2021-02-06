@@ -104,7 +104,7 @@
     "diet:lactose_free": "yes",
     "diet:raw": "yes",
     "diet:vegan": "yes",
-    "diet:vegetarian": "yes",
+    "diet:vegetarian": "only",
     "email": "veg8cafe@email.cz",
     "name": "Veg8café",
     "opening_hours": "Mo-Fr 07:00-16:30",
