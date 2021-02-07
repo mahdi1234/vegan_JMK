@@ -121,20 +121,6 @@
 },
 {
   "type": "node",
-  "id": 1193245476,
-  "lat": 49.2067729,
-  "lon": 16.7191787,
-  "tags": {
-    "amenity": "restaurant",
-    "diet:vegan": "yes",
-    "name": "Pilgrim",
-    "opening_hours": "We,Fr 12:00-20:00; Sa 11:00-21:00; Su 11:00-19:00",
-    "outdoor_seating": "yes",
-    "payment:cash": "yes"
-  }
-},
-{
-  "type": "node",
   "id": 1323483185,
   "lat": 49.1940996,
   "lon": 16.6126594,
@@ -145,7 +131,7 @@
     "addr:street": "Orlí",
     "amenity": "restaurant",
     "diet:vegan": "yes",
-    "diet:vegetarian": "yes",
+    "diet:vegetarian": "only",
     "name": "Rebio",
     "opening_hours": "Mo-Fr 08:00-19:00; Sa 10:00-15:00",
     "smoking": "no",
@@ -203,7 +189,7 @@
     "amenity": "restaurant",
     "cuisine": "healthy",
     "diet:vegan": "yes",
-    "diet:vegetarian": "yes",
+    "diet:vegetarian": "only",
     "name": "Oaza",
     "opening_hours": "Mo-Fr 07:30-18:00",
     "wheelchair": "limited"
@@ -288,28 +274,6 @@
 },
 {
   "type": "node",
-  "id": 2918023546,
-  "lat": 49.2036444,
-  "lon": 16.6109277,
-  "tags": {
-    "addr:city": "Brno",
-    "addr:housenumber": "26",
-    "addr:postcode": "60200",
-    "addr:street": "třída Kpt. Jaroše",
-    "amenity": "restaurant",
-    "delivery": "yes",
-    "diet:vegan": "yes",
-    "diet:vegetarian": "only",
-    "email": "info@pilgrims.cz",
-    "name": "Pilgrim",
-    "opening_hours": "Mo-Fr 11:00-20:00",
-    "takeaway": "yes",
-    "website": "http://pilgrims.cz",
-    "wheelchair": "no"
-  }
-},
-{
-  "type": "node",
   "id": 3098348684,
   "lat": 49.1998261,
   "lon": 16.5966001,
@@ -341,7 +305,7 @@
     "addr:street": "Štefánikova",
     "amenity": "restaurant",
     "diet:vegan": "yes",
-    "diet:vegetarian": "only",
+    "diet:vegetarian": "yes",
     "name": "Má hostina",
     "opening_hours": "Mo-Su 11:00-20:00",
     "outdoor_seating": "no",

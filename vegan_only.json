@@ -8,6 +8,20 @@
 
 {
   "type": "node",
+  "id": 1193245476,
+  "lat": 49.2067729,
+  "lon": 16.7191787,
+  "tags": {
+    "amenity": "restaurant",
+    "diet:vegan": "only",
+    "name": "Pilgrim",
+    "opening_hours": "We,Fr 12:00-20:00; Sa 11:00-21:00; Su 11:00-19:00",
+    "outdoor_seating": "yes",
+    "payment:cash": "yes"
+  }
+},
+{
+  "type": "node",
   "id": 1528351547,
   "lat": 49.1972704,
   "lon": 16.6051337,
@@ -43,6 +57,28 @@
     "phone": "+420 515 908 665",
     "takeaway": "yes",
     "website": "http://www.forkys.eu/"
+  }
+},
+{
+  "type": "node",
+  "id": 2918023546,
+  "lat": 49.2036444,
+  "lon": 16.6109277,
+  "tags": {
+    "addr:city": "Brno",
+    "addr:housenumber": "26",
+    "addr:postcode": "60200",
+    "addr:street": "třída Kpt. Jaroše",
+    "amenity": "restaurant",
+    "delivery": "yes",
+    "diet:vegan": "only",
+    "diet:vegetarian": "yes",
+    "email": "info@pilgrims.cz",
+    "name": "Pilgrim",
+    "opening_hours": "Mo-Fr 11:00-20:00",
+    "takeaway": "yes",
+    "website": "http://pilgrims.cz",
+    "wheelchair": "no"
   }
 },
 {
