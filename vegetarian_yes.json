@@ -417,6 +417,31 @@
 },
 {
   "type": "node",
+  "id": 1607779200,
+  "lat": 49.2206034,
+  "lon": 16.5972626,
+  "tags": {
+    "addr:city": "Brno",
+    "addr:housenumber": "14",
+    "addr:postcode": "61200",
+    "addr:street": "Veleslavínova",
+    "amenity": "restaurant",
+    "cuisine": "indian;lebanese",
+    "diet:vegan": "yes",
+    "diet:vegetarian": "yes",
+    "internet_access": "wlan",
+    "name": "Klub cestovatelů",
+    "opening_hours": "Mo-Fr 11:00-22:00; Sa,Su 12:00-22:00",
+    "operator": "Anexe public relations",
+    "phone": "+420 774 048 589",
+    "smoking": "no",
+    "takeaway": "yes",
+    "website": "https://www.klubcestovatelu.cz/",
+    "wheelchair": "no"
+  }
+},
+{
+  "type": "node",
   "id": 1611767989,
   "lat": 49.2244409,
   "lon": 16.5902086,
