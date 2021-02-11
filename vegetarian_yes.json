@@ -916,6 +916,28 @@
 },
 {
   "type": "node",
+  "id": 3152747857,
+  "lat": 49.2080408,
+  "lon": 16.6043670,
+  "tags": {
+    "addr:city": "Brno",
+    "addr:housenumber": "4",
+    "addr:postcode": "60200",
+    "addr:street": "Štefánikova",
+    "amenity": "fast_food",
+    "cuisine": "gyros",
+    "diet:vegetarian": "yes",
+    "email": "tavernaathenabrno@gmail.com",
+    "name": "Gyros Taverna Athena",
+    "opening_hours": "Mo-Fr 10:30-24:00; Sa 11:00-24:00",
+    "payment:credit_cards": "yes",
+    "phone": "+420 608 613 565",
+    "website": "http://tavernaathena.cz",
+    "wheelchair": "no"
+  }
+},
+{
+  "type": "node",
   "id": 3156028165,
   "lat": 49.2205113,
   "lon": 16.5871535,
