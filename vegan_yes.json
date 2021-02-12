@@ -789,6 +789,20 @@
     "phone": "+420 777 222 241",
     "website": "https://fabrik.cz/"
   }
+},
+{
+  "type": "node",
+  "id": 8415611808,
+  "lat": 49.1992302,
+  "lon": 16.6029747,
+  "tags": {
+    "amenity": "fast_food",
+    "cuisine": "bagel",
+    "diet:vegan": "yes",
+    "diet:vegetarian": "yes",
+    "name": "Celozrnná sváča",
+    "takeaway": "yes"
+  }
 }
 
   ]

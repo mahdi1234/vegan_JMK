@@ -2218,6 +2218,20 @@
   }
 },
 {
+  "type": "node",
+  "id": 8415611808,
+  "lat": 49.1992302,
+  "lon": 16.6029747,
+  "tags": {
+    "amenity": "fast_food",
+    "cuisine": "bagel",
+    "diet:vegan": "yes",
+    "diet:vegetarian": "yes",
+    "name": "Celozrnná sváča",
+    "takeaway": "yes"
+  }
+},
+{
   "type": "way",
   "id": 74059822,
   "nodes": [
