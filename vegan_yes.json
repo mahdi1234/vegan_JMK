@@ -203,6 +203,35 @@
 },
 {
   "type": "node",
+  "id": 1614708473,
+  "lat": 49.2009474,
+  "lon": 16.6003261,
+  "tags": {
+    "addr:city": "Brno",
+    "addr:housenumber": "34",
+    "addr:postcode": "60200",
+    "addr:street": "Veveří",
+    "amenity": "restaurant",
+    "cuisine": "oriental",
+    "diet:vegan": "yes",
+    "diet:vegetarian": "yes",
+    "email": "info@siwaorient.cz",
+    "name": "SIWA Orient Grill",
+    "opening_hours": "Mo-Fr 11:00-15:00,18:00-23:00; Sa 12:00-23:00",
+    "operator": "orient",
+    "payment:maestro": "yes",
+    "payment:mastercard": "yes",
+    "payment:visa": "yes",
+    "payment:visa_debit": "yes",
+    "payment:visa_electron": "yes",
+    "phone": "+420 515 544 362",
+    "source": "survey",
+    "website": "http://www.siwaorient.cz/",
+    "wheelchair": "no"
+  }
+},
+{
+  "type": "node",
   "id": 1634148105,
   "lat": 49.2000342,
   "lon": 16.6021259,
@@ -481,6 +510,25 @@
     "phone": "+420 607 098 557",
     "website": "http://www.skog.cz/",
     "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 3389852552,
+  "lat": 49.1936454,
+  "lon": 16.6082302,
+  "tags": {
+    "addr:city": "Brno",
+    "addr:housenumber": "12",
+    "addr:postcode": "60200",
+    "addr:street": "Panská",
+    "amenity": "restaurant",
+    "diet:vegan": "yes",
+    "diet:vegetarian": "only",
+    "name": "Dhaba Beas",
+    "opening_hours": "Mo-Fr 11:00-21:00; Sa,Su 12:00-20:00",
+    "website": "https://dhababeas.cz/",
+    "wheelchair": "limited"
   }
 },
 {
@@ -802,6 +850,27 @@
     "diet:vegetarian": "yes",
     "name": "Celozrnná sváča",
     "takeaway": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 8418025213,
+  "lat": 49.1996561,
+  "lon": 16.6138001,
+  "tags": {
+    "amenity": "restaurant",
+    "diet:vegan": "yes",
+    "diet:vegetarian": "only",
+    "name": "Restaurace Mayada",
+    "opening_hours": "Mo-Fr 08:00-19:00",
+    "payment:apple_pay": "yes",
+    "payment:diners_club": "yes",
+    "payment:jcb": "yes",
+    "payment:maestro": "yes",
+    "payment:mastercard": "yes",
+    "payment:meal_voucher": "yes",
+    "payment:visa": "yes",
+    "payment:visa_debit": "yes"
   }
 }
 

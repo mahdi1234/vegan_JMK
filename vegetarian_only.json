@@ -82,9 +82,10 @@
     "addr:street": "Mendlovo náměstí",
     "amenity": "restaurant",
     "diet:vegetarian": "only",
-    "name": "Avatár",
+    "name": "Gopal",
     "note": "vegetariánská restaurace a cukrárna",
-    "opening_hours": "Mo-Fr 11:00-18:00;Sa 11:00-16:00"
+    "opening_hours": "Mo-Fr 11:00-15:00",
+    "website": "www.gopal.menu"
   }
 },
 {
@@ -280,6 +281,7 @@
     "addr:postcode": "60200",
     "addr:street": "Panská",
     "amenity": "restaurant",
+    "diet:vegan": "yes",
     "diet:vegetarian": "only",
     "name": "Dhaba Beas",
     "opening_hours": "Mo-Fr 11:00-21:00; Sa,Su 12:00-20:00",
@@ -378,6 +380,27 @@
     "phone": "+420 608 880 665",
     "website": "http://www.jogablansko.wz.cz/amrit/html/kontakt.htm",
     "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 8418025213,
+  "lat": 49.1996561,
+  "lon": 16.6138001,
+  "tags": {
+    "amenity": "restaurant",
+    "diet:vegan": "yes",
+    "diet:vegetarian": "only",
+    "name": "Restaurace Mayada",
+    "opening_hours": "Mo-Fr 08:00-19:00",
+    "payment:apple_pay": "yes",
+    "payment:diners_club": "yes",
+    "payment:jcb": "yes",
+    "payment:maestro": "yes",
+    "payment:mastercard": "yes",
+    "payment:meal_voucher": "yes",
+    "payment:visa": "yes",
+    "payment:visa_debit": "yes"
   }
 }
 

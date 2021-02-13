@@ -185,6 +185,21 @@
     "opening_hours": "Mo-Sa 11:00-20:00; Su 11:30-20:00",
     "wheelchair": "limited"
   }
+},
+{
+  "type": "node",
+  "id": 8418025214,
+  "lat": 49.1923638,
+  "lon": 16.6069022,
+  "tags": {
+    "amenity": "restaurant",
+    "diet:gluten_free": "yes",
+    "diet:vegan": "only",
+    "name": "1. terapeutická restaurace",
+    "opening_hours": "Mo-Su 11:00-17:00",
+    "operator": "Chambre de charme",
+    "takeaway": "yes"
+  }
 }
 
   ]

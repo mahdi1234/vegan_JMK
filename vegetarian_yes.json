@@ -513,6 +513,35 @@
 },
 {
   "type": "node",
+  "id": 1614708473,
+  "lat": 49.2009474,
+  "lon": 16.6003261,
+  "tags": {
+    "addr:city": "Brno",
+    "addr:housenumber": "34",
+    "addr:postcode": "60200",
+    "addr:street": "Veveří",
+    "amenity": "restaurant",
+    "cuisine": "oriental",
+    "diet:vegan": "yes",
+    "diet:vegetarian": "yes",
+    "email": "info@siwaorient.cz",
+    "name": "SIWA Orient Grill",
+    "opening_hours": "Mo-Fr 11:00-15:00,18:00-23:00; Sa 12:00-23:00",
+    "operator": "orient",
+    "payment:maestro": "yes",
+    "payment:mastercard": "yes",
+    "payment:visa": "yes",
+    "payment:visa_debit": "yes",
+    "payment:visa_electron": "yes",
+    "phone": "+420 515 544 362",
+    "source": "survey",
+    "website": "http://www.siwaorient.cz/",
+    "wheelchair": "no"
+  }
+},
+{
+  "type": "node",
   "id": 1809222680,
   "lat": 49.1942448,
   "lon": 16.6352746,
@@ -846,32 +875,6 @@
     "amenity": "restaurant",
     "diet:vegetarian": "yes",
     "name": "Spirála"
-  }
-},
-{
-  "type": "node",
-  "id": 3079093207,
-  "lat": 49.1929543,
-  "lon": 16.6047294,
-  "tags": {
-    "addr:city": "Brno",
-    "addr:housenumber": "13",
-    "addr:postcode": "60200",
-    "addr:street": "Husova",
-    "amenity": "restaurant",
-    "diet:raw": "yes",
-    "diet:vegetarian": "yes",
-    "email": "info@my-kitchen.cz",
-    "internet_access": "wlan",
-    "name": "My Kitchen",
-    "opening_hours": "Mo-Fr 07:30-21:00; Sa,Su 09:00-19:00",
-    "payment:maestro": "yes",
-    "payment:mastercard": "yes",
-    "payment:visa": "yes",
-    "payment:visa_debit": "yes",
-    "payment:visa_electron": "yes",
-    "phone": "+420 731 543 554",
-    "website": "https://www.my-kitchen.cz/"
   }
 },
 {
