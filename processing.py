@@ -16,35 +16,28 @@ mixed = []
 errors = []
 
 
-counter = 0
 for restaurant in restaurants:
     # In some cases the restaurant is added as a "type": "way" instead of "node"
     # Then each node of the way doesn't have separate tags
     if restaurant.get(tags):
-        # counter += 1
         vegan_present = restaurant[tags].get(vegan_key)
         vegetarian_present = restaurant[tags].get(vegetarian_key)
 
         if vegan_present == "only":
             pure_vegan.append(restaurant)
-            counter += 1
         elif vegetarian_present == "only" and vegan_present == "yes":
             pure_vegetarian_with_vegan_options.append(restaurant)
-            counter += 1
         elif vegetarian_present == "only":
             pure_vegetarian.append(restaurant)
-            counter += 1
         elif (
             vegetarian_present == "yes" and vegan_present == "yes"
             or vegan_present == "yes"
             or vegetarian_present == "yes"
         ):
             mixed.append(restaurant)
-            counter += 1
         else:
             errors.append(restaurant)
 
-print(counter)
 
 sorted_restaurants = [
     pure_vegan,
