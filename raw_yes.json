@@ -33,23 +33,6 @@
 },
 {
   "type": "node",
-  "id": 4637984545,
-  "lat": 49.2056674,
-  "lon": 16.6052077,
-  "tags": {
-    "amenity": "restaurant",
-    "diet:raw": "yes",
-    "diet:vegan": "yes",
-    "diet:vegetarian": "yes",
-    "email": "brno@secretofraw.cz",
-    "name": "Secret of Raw",
-    "opening_hours": "Mo-Fr 10:00-20:00; Sa, Su 10:00-19:00",
-    "phone": "+420 777 064 222",
-    "website": "https://www.secretofraw.cz/"
-  }
-},
-{
-  "type": "node",
   "id": 5469844000,
   "lat": 49.1927146,
   "lon": 16.6080251,

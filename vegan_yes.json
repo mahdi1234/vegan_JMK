@@ -141,6 +141,24 @@
 },
 {
   "type": "node",
+  "id": 1371469308,
+  "lat": 49.2062190,
+  "lon": 16.6024915,
+  "tags": {
+    "addr:city": "Brno",
+    "addr:housenumber": "10",
+    "addr:postcode": "60200",
+    "addr:street": "Bayerova",
+    "amenity": "restaurant",
+    "cuisine": "asian",
+    "diet:vegan": "yes",
+    "diet:vegetarian": "yes",
+    "name": "ZO",
+    "wheelchair": "limited"
+  }
+},
+{
+  "type": "node",
   "id": 1486367772,
   "lat": 49.1976130,
   "lon": 16.6050497,
@@ -267,29 +285,6 @@
     "name": "Rebio",
     "opening_hours": "Mo-Fr 08:00-18:00",
     "wheelchair": "yes"
-  }
-},
-{
-  "type": "node",
-  "id": 2257940938,
-  "lat": 49.1955678,
-  "lon": 16.6065147,
-  "tags": {
-    "addr:city": "Brno",
-    "addr:housenumber": "5",
-    "addr:postcode": "60200",
-    "addr:street": "Česká",
-    "amenity": "restaurant",
-    "cuisine": "regional",
-    "diet:vegan": "yes",
-    "diet:vegetarian": "yes",
-    "name": "Stopkova plzeňská pivnice",
-    "opening_hours": "Mo-Su 11:00-24:00",
-    "phone": "+420 517 070 080",
-    "reservation": "recommended",
-    "website": "https://www.kolkovna.cz/",
-    "wheelchair": "limited",
-    "wikidata": "Q21809707"
   }
 },
 {
@@ -533,29 +528,6 @@
 },
 {
   "type": "node",
-  "id": 3467187412,
-  "lat": 49.1955303,
-  "lon": 16.6084577,
-  "tags": {
-    "addr:city": "Brno",
-    "addr:housenumber": "5",
-    "addr:postcode": "60200",
-    "addr:street": "náměstí Svobody",
-    "amenity": "restaurant",
-    "cuisine": "regional",
-    "diet:vegan": "yes",
-    "diet:vegetarian": "yes",
-    "internet_access": "wlan",
-    "name": "Zlatá loď",
-    "opening_hours": "Mo-Th 11:00-24:00, Fr 11:00-01:00, Sa 11:30-01:00, Su 11:30-23:00",
-    "outdoor_seating": "yes",
-    "phone": "+420 778 420 000",
-    "website": "http://www.zlatalod.com/",
-    "wheelchair": "yes"
-  }
-},
-{
-  "type": "node",
   "id": 4199057389,
   "lat": 49.1931201,
   "lon": 16.6105696,
@@ -616,23 +588,6 @@
     "smoking": "outside",
     "website": "http://ponava.cafe",
     "wheelchair": "limited"
-  }
-},
-{
-  "type": "node",
-  "id": 4637984545,
-  "lat": 49.2056674,
-  "lon": 16.6052077,
-  "tags": {
-    "amenity": "restaurant",
-    "diet:raw": "yes",
-    "diet:vegan": "yes",
-    "diet:vegetarian": "yes",
-    "email": "brno@secretofraw.cz",
-    "name": "Secret of Raw",
-    "opening_hours": "Mo-Fr 10:00-20:00; Sa, Su 10:00-19:00",
-    "phone": "+420 777 064 222",
-    "website": "https://www.secretofraw.cz/"
   }
 },
 {

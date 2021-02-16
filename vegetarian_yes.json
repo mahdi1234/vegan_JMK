@@ -236,6 +236,24 @@
 },
 {
   "type": "node",
+  "id": 1371469308,
+  "lat": 49.2062190,
+  "lon": 16.6024915,
+  "tags": {
+    "addr:city": "Brno",
+    "addr:housenumber": "10",
+    "addr:postcode": "60200",
+    "addr:street": "Bayerova",
+    "amenity": "restaurant",
+    "cuisine": "asian",
+    "diet:vegan": "yes",
+    "diet:vegetarian": "yes",
+    "name": "ZO",
+    "wheelchair": "limited"
+  }
+},
+{
+  "type": "node",
   "id": 1385613648,
   "lat": 49.1996298,
   "lon": 16.5980485,
@@ -689,7 +707,6 @@
     "addr:street": "Česká",
     "amenity": "restaurant",
     "cuisine": "regional",
-    "diet:vegan": "yes",
     "diet:vegetarian": "yes",
     "name": "Stopkova plzeňská pivnice",
     "opening_hours": "Mo-Su 11:00-24:00",
@@ -1458,7 +1475,6 @@
     "addr:street": "náměstí Svobody",
     "amenity": "restaurant",
     "cuisine": "regional",
-    "diet:vegan": "yes",
     "diet:vegetarian": "yes",
     "internet_access": "wlan",
     "name": "Zlatá loď",
@@ -1781,23 +1797,6 @@
     "opening_hours": "Mo-We 11:00-23:00; Th-Sa 11:00-24:00; Su 12:00-22:00",
     "phone": "+420530328370",
     "wheelchair": "limited"
-  }
-},
-{
-  "type": "node",
-  "id": 4637984545,
-  "lat": 49.2056674,
-  "lon": 16.6052077,
-  "tags": {
-    "amenity": "restaurant",
-    "diet:raw": "yes",
-    "diet:vegan": "yes",
-    "diet:vegetarian": "yes",
-    "email": "brno@secretofraw.cz",
-    "name": "Secret of Raw",
-    "opening_hours": "Mo-Fr 10:00-20:00; Sa, Su 10:00-19:00",
-    "phone": "+420 777 064 222",
-    "website": "https://www.secretofraw.cz/"
   }
 },
 {
