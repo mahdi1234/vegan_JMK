@@ -656,22 +656,6 @@
 },
 {
   "type": "node",
-  "id": 5469844000,
-  "lat": 49.1927146,
-  "lon": 16.6080251,
-  "tags": {
-    "contact:phone": "+420 739665746",
-    "contact:website": "http://www.myraw.cz",
-    "diet:raw": "yes",
-    "diet:vegan": "yes",
-    "level": "1",
-    "name": "My Raw Food",
-    "opening_hours": "Mo-Sa 09:00-19:00",
-    "shop": "deli"
-  }
-},
-{
-  "type": "node",
   "id": 5645366621,
   "lat": 49.1909223,
   "lon": 16.6100787,
