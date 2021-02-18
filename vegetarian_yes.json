@@ -435,6 +435,22 @@
 },
 {
   "type": "node",
+  "id": 1537175115,
+  "lat": 49.1937020,
+  "lon": 16.6089006,
+  "tags": {
+    "addr:city": "Brno",
+    "addr:housenumber": "1",
+    "addr:postcode": "60200",
+    "addr:street": "Panská",
+    "amenity": "fast_food",
+    "diet:vegetarian": "yes",
+    "name": "The Foodhouse",
+    "wheelchair": "limited"
+  }
+},
+{
+  "type": "node",
   "id": 1607779200,
   "lat": 49.2206034,
   "lon": 16.5972626,
@@ -1428,6 +1444,29 @@
     "name": "Pasta di gusto",
     "opening_hours": "Mo-Fr 10:00-20:30; Sa 11:00-20:30",
     "wheelchair": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 3389155402,
+  "lat": 49.1917451,
+  "lon": 16.6115171,
+  "tags": {
+    "addr:city": "Brno",
+    "addr:housenumber": "21",
+    "addr:postcode": "60200",
+    "addr:street": "Josefská",
+    "amenity": "restaurant",
+    "diet:vegetarian": "yes",
+    "internet_access": "wlan",
+    "name": "Vale",
+    "opening_hours": "Mo-Su 08:00-19:00",
+    "outdoor_seating": "yes",
+    "phone": "+420 542 212 752",
+    "smoking": "no",
+    "takeaway": "no",
+    "website": "http://www.ladolcevita-aida.cz/",
+    "wheelchair": "yes"
   }
 },
 {
