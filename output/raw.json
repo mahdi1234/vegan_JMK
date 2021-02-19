@@ -1,0 +1,74 @@
+{
+  "version": 0.6,
+  "generator": "Overpass API 0.7.56.8 7d656e78",
+  "osm3s": {
+    "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
+  },
+  "elements": [
+
+{
+  "type": "node",
+  "id": 2916528158,
+  "lat": 49.1963816,
+  "lon": 16.6088699,
+  "tags": {
+    "addr:city": "Brno",
+    "addr:housenumber": "109/1",
+    "addr:postcode": "60200",
+    "addr:street": "Jakubské náměstí",
+    "amenity": "restaurant",
+    "capacity": "160",
+    "cuisine": "international",
+    "diet:gluten_free": "yes",
+    "diet:raw": "yes",
+    "diet:vegan": "only",
+    "diet:vegetarian": "only",
+    "name": "Forky's",
+    "opening_hours": "Mo-Th 08:00-21:00; Fr 08:00-22:00; Sa 09:00-22:00; Su 09:00-18:00",
+    "outdoor_seating": "yes",
+    "phone": "+420 515 908 665",
+    "takeaway": "yes",
+    "website": "http://www.forkys.eu/"
+  }
+},
+{
+  "type": "node",
+  "id": 5997893486,
+  "lat": 49.1913517,
+  "lon": 16.6216798,
+  "tags": {
+    "addr:city": "Brno",
+    "addr:housenumber": "45",
+    "addr:postcode": "60200",
+    "addr:street": "Křenová",
+    "amenity": "cafe",
+    "diet:lactose_free": "yes",
+    "diet:raw": "yes",
+    "diet:vegan": "yes",
+    "diet:vegetarian": "only",
+    "email": "veg8cafe@email.cz",
+    "name": "Veg8café",
+    "opening_hours": "Mo-Fr 07:00-16:30",
+    "phone": "+420 776670608",
+    "takeaway": "yes",
+    "website": "http://www.veg8cafe.cz/"
+  }
+},
+{
+  "type": "node",
+  "id": 8429279706,
+  "lat": 49.1810779,
+  "lon": 16.6196178,
+  "tags": {
+    "amenity": "restaurant",
+    "diet:raw": "only",
+    "diet:vegan": "only",
+    "name": "MyRaw Food Bar",
+    "opening_hours": "Mo-Fr 11:00-16:00",
+    "phone": "+420 739 665 746",
+    "website": "https://www.myraw.cz/brno"
+  }
+}
+
+  ]
+}
