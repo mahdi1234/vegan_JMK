@@ -1685,6 +1685,7 @@
         "name": "Azeri Döner Kebab",
         "opening_hours": "24/7",
         "source": "survey",
+        "takeaway": "only",
         "wheelchair": "no"
       }
     },
@@ -1938,6 +1939,7 @@
         "name": "Cosmopolis",
         "opening_hours": "Mo-We 11:00-23:00; Th-Sa 11:00-24:00; Su 12:00-22:00",
         "phone": "+420530328370",
+        "takeaway": "yes",
         "wheelchair": "limited"
       }
     },
