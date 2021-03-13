@@ -1583,6 +1583,7 @@
         "amenity": "fast_food",
         "diet:vegetarian": "yes",
         "name": "TrdloCafé",
+        "opening_hours:signed": "no",
         "wheelchair": "yes"
       }
     },
@@ -2320,6 +2321,18 @@
         "payment:visa_electron": "yes",
         "phone": "+420 777 222 241",
         "website": "https://fabrik.cz/"
+      }
+    },
+    {
+      "type": "node",
+      "id": 7704483630,
+      "lat": 49.1908827,
+      "lon": 16.6130357,
+      "tags": {
+        "amenity": "fast_food",
+        "diet:vegetarian": "yes",
+        "name": "Trdlokafe",
+        "opening_hours:signed": "no"
       }
     },
     {
