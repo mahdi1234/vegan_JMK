@@ -1218,6 +1218,27 @@
     },
     {
       "type": "node",
+      "id": 3159165865,
+      "lat": 49.1944509,
+      "lon": 16.6083313,
+      "tags": {
+        "addr:city": "Brno",
+        "addr:housenumber": "18",
+        "addr:postcode": "60200",
+        "addr:street": "náměstí Svobody",
+        "amenity": "restaurant",
+        "diet:vegetarian": "yes",
+        "email": "info@pellegrini.cz",
+        "internet_access": "wlan",
+        "name": "Pellegrini",
+        "opening_hours": "Mo-Su 09:00-23:00",
+        "phone": "+420 542 210 822",
+        "website": "http://www.cafe-cocktailbar-pizzeria.cz/",
+        "wheelchair": "yes"
+      }
+    },
+    {
+      "type": "node",
       "id": 3159165866,
       "lat": 49.1943978,
       "lon": 16.6077042,
@@ -1580,6 +1601,32 @@
     },
     {
       "type": "node",
+      "id": 3389155409,
+      "lat": 49.1921638,
+      "lon": 16.6122373,
+      "tags": {
+        "addr:city": "Brno",
+        "addr:housenumber": "14",
+        "addr:postcode": "60200",
+        "addr:street": "Josefská",
+        "amenity": "cafe",
+        "brand": "Costa",
+        "brand:wikidata": "Q608845",
+        "brand:wikipedia": "en:Costa Coffee",
+        "check_date:opening_hours": "2020-09-21",
+        "cuisine": "coffee_shop",
+        "diet:vegetarian": "yes",
+        "internet_access": "wlan",
+        "name": "Costa",
+        "opening_hours": "Mo-Fr 07:00-21:00; Sa-Su 08:00-20:00",
+        "smoking": "no",
+        "takeaway": "yes",
+        "website": "http://www.costa-coffee.cz/",
+        "wheelchair": "no"
+      }
+    },
+    {
+      "type": "node",
       "id": 3389594272,
       "lat": 49.1914826,
       "lon": 16.6110182,
@@ -1645,11 +1692,9 @@
         "addr:postcode": "60200",
         "addr:street": "Minoritská",
         "amenity": "fast_food",
-        "cuisine": "burger",
+        "cuisine": "kebab;falafel",
         "diet:vegetarian": "yes",
-        "name": "Hamburger",
-        "opening_hours": "Mo-Sa 08:00-20:00",
-        "wheelchair": "limited"
+        "name": "The House of Kebab"
       }
     },
     {
@@ -1754,6 +1799,19 @@
         "name": "Fresh Pasta",
         "opening_hours": "Mo-Fr 10:30-15:00",
         "wheelchair": "yes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 3873203753,
+      "lat": 49.1923677,
+      "lon": 16.6122082,
+      "tags": {
+        "amenity": "fast_food",
+        "diet:vegetarian": "yes",
+        "name": "Sklizeno.cz - hladové okno",
+        "opening_hours": "Mo-Fr 08:00-18:00; Sa 09:00-15:00",
+        "wheelchair": "no"
       }
     },
     {
