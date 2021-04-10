@@ -1259,6 +1259,23 @@
     },
     {
       "type": "node",
+      "id": 3159184015,
+      "lat": 49.1968907,
+      "lon": 16.6054975,
+      "tags": {
+        "addr:city": "Brno",
+        "addr:housenumber": "25",
+        "addr:postcode": "60200",
+        "addr:street": "Česká",
+        "amenity": "cafe",
+        "diet:vegetarian": "yes",
+        "name": "Diana",
+        "opening_hours": "Mo-Su 09:30-18:00",
+        "wheelchair": "limited"
+      }
+    },
+    {
+      "type": "node",
       "id": 3159225472,
       "lat": 49.1913429,
       "lon": 16.6116589,
