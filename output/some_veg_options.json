@@ -367,18 +367,6 @@
     },
     {
       "type": "node",
-      "id": 1391851211,
-      "lat": 49.1900646,
-      "lon": 16.6105727,
-      "tags": {
-        "amenity": "fast_food",
-        "diet:vegetarian": "yes",
-        "name": "Alen Food",
-        "wheelchair": "yes"
-      }
-    },
-    {
-      "type": "node",
       "id": 1486367772,
       "lat": 49.197613,
       "lon": 16.6050497,
