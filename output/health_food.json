@@ -16,8 +16,9 @@
     "addr:housenumber": "577/3",
     "addr:postcode": "625 00",
     "addr:street": "Dlouhá",
+    "bulk_purchase": "yes",
     "name": "Zvaž to - bezobalový obchod",
-    "opening_hours": "Mo-Fr 12:00-18:00, Sa10:00-14:00",
+    "opening_hours": "Mo-Fr 12:00-18:00, Sa 10:00-14:00",
     "operator": "Zvaž to",
     "payment:cash": "yes",
     "payment:coins": "yes",
@@ -261,6 +262,18 @@
     "name": "Zdravá výživa",
     "opening_hours": "Mo-Fr 09:00-18:00",
     "phone": "+420721837384",
+    "shop": "health_food"
+  }
+},
+{
+  "type": "node",
+  "id": 8635355636,
+  "lat": 49.2031193,
+  "lon": 16.8817098,
+  "tags": {
+    "opening_hours": "Mo-Fr 09:00-12:00; Mo-Fr 14:30-16:30; Sa 09:00-11:00",
+    "operator": "Adéla Mrňková",
+    "phone": "+420 739 338 809",
     "shop": "health_food"
   }
 }

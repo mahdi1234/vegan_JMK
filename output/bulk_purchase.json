@@ -8,6 +8,29 @@
 
 {
   "type": "node",
+  "id": 663040775,
+  "lat": 49.1698728,
+  "lon": 16.5811264,
+  "tags": {
+    "addr:city": "Brno",
+    "addr:housenumber": "577/3",
+    "addr:postcode": "625 00",
+    "addr:street": "Dlouhá",
+    "bulk_purchase": "yes",
+    "name": "Zvaž to - bezobalový obchod",
+    "opening_hours": "Mo-Fr 12:00-18:00, Sa 10:00-14:00",
+    "operator": "Zvaž to",
+    "payment:cash": "yes",
+    "payment:coins": "yes",
+    "payment:credit_cards": "yes",
+    "payment:debit_cards": "yes",
+    "phone": "731 904 806",
+    "shop": "health_food",
+    "website": "https://www.bezobalovyobchod.cz/"
+  }
+},
+{
+  "type": "node",
   "id": 2816542298,
   "lat": 49.2123027,
   "lon": 16.6247439,
