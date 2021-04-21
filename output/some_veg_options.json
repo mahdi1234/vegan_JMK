@@ -955,7 +955,8 @@
         "amenity": "restaurant",
         "diet:vegan": "yes",
         "diet:vegetarian": "yes",
-        "name": "Fabrik Urban House"
+        "name": "Fabrik Urban House",
+        "wheelchair": "no"
       }
     },
     {
