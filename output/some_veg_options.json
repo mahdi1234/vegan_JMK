@@ -1533,6 +1533,24 @@
     },
     {
       "type": "node",
+      "id": 3384077116,
+      "lat": 49.1948721,
+      "lon": 16.6138037,
+      "tags": {
+        "addr:city": "Brno",
+        "addr:housenumber": "6",
+        "addr:postcode": "60200",
+        "addr:street": "Divadelní",
+        "amenity": "fast_food",
+        "cuisine": "asian",
+        "diet:vegetarian": "yes",
+        "name": "Pho Viet nam",
+        "opening_hours": "Mo-Fr 10:00-22:00; Su 11:00-22:00",
+        "wheelchair": "limited"
+      }
+    },
+    {
+      "type": "node",
       "id": 3389127488,
       "lat": 49.1928398,
       "lon": 16.60996,
