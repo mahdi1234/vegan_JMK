@@ -293,7 +293,7 @@
         "cuisine": "burger",
         "diet:vegetarian": "yes",
         "name": "McDonald's",
-        "opening_hours": "Mo-Th 07:00-01:00, Fr-Sa 07:00-03:00, Su 07:00-01:00",
+        "opening_hours": "Mo-Su 07:00-22:00",
         "takeaway": "yes",
         "wheelchair": "yes"
       }
@@ -607,7 +607,10 @@
         "amenity": "restaurant",
         "cuisine": "vietnamese",
         "diet:vegetarian": "yes",
-        "name": "Chilli Tree"
+        "name": "Chilli Tree",
+        "opening_hours:signed": "no",
+        "phone": "+420 608 626 666",
+        "website": "http://www.chillitreevn.com"
       }
     },
     {
