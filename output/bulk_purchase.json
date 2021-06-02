@@ -302,7 +302,7 @@
     "payment:visa_debit": "yes",
     "payment:visa_electron": "yes",
     "ref:ruian:building": "15114881",
-    "shop": "healt_food",
+    "shop": "health_food",
     "smoking": "no",
     "source": "cuzk:ruian",
     "website": "https://www.facebook.com/UVlacku"
@@ -345,7 +345,7 @@
     "payment:visa_electron": "yes",
     "phone": "+420 773 486 652",
     "ref:ruian:building": "54361087",
-    "shop": "healt_food",
+    "shop": "health_food",
     "source": "cuzk:ruian",
     "start_date": "2013-08-05",
     "website": "http://www.julies-bezobalu.cz/"
