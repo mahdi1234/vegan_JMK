@@ -253,6 +253,25 @@
     },
     {
       "type": "node",
+      "id": 584890022,
+      "lat": 49.1917898,
+      "lon": 16.6107821,
+      "tags": {
+        "addr:city": "Brno",
+        "addr:housenumber": "31",
+        "addr:postcode": "60200",
+        "addr:street": "Masarykova",
+        "amenity": "restaurant",
+        "cuisine": "italian",
+        "diet:vegetarian": "yes",
+        "name": "Adria",
+        "opening_hours": "Mo-Fr 07:00-24:00; Sa 07:30-24:00",
+        "outdoor_seating": "yes",
+        "wheelchair": "no"
+      }
+    },
+    {
+      "type": "node",
       "id": 613526571,
       "lat": 49.2033888,
       "lon": 16.5996509,
@@ -1285,6 +1304,27 @@
         "phone": "+420 777 404 124",
         "website": "http://www.himalayarestaurace.cz",
         "wheelchair": "no"
+      }
+    },
+    {
+      "type": "node",
+      "id": 3159225476,
+      "lat": 49.1917025,
+      "lon": 16.6111264,
+      "tags": {
+        "addr:city": "Brno",
+        "addr:housenumber": "25",
+        "addr:postcode": "60200",
+        "addr:street": "Josefská",
+        "amenity": "restaurant",
+        "cuisine": "asian;sushi",
+        "diet:vegetarian": "yes",
+        "internet_access": "wlan",
+        "name": "TaiWan Bento",
+        "opening_hours": "Mo-Su 11:00-22:00",
+        "phone": "+420 542 210 503",
+        "smoking": "no",
+        "wheelchair": "limited"
       }
     },
     {
