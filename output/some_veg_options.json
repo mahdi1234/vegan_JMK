@@ -2542,6 +2542,18 @@
         "name": "Celozrnná sváča",
         "takeaway": "yes"
       }
+    },
+    {
+      "type": "node",
+      "id": 8724984310,
+      "lat": 49.1902136,
+      "lon": 16.6104332,
+      "tags": {
+        "amenity": "fast_food",
+        "cuisine": "pizza",
+        "diet:vegetarian": "yes",
+        "name": "Don Alexo"
+      }
     }
   ]
 }
