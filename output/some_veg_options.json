@@ -423,25 +423,6 @@
     },
     {
       "type": "node",
-      "id": 1512894164,
-      "lat": 49.2245839,
-      "lon": 16.5804912,
-      "tags": {
-        "addr:city": "Brno",
-        "addr:housenumber": "95",
-        "addr:postcode": "61200",
-        "addr:street": "Purkyňova",
-        "amenity": "fast_food",
-        "cuisine": "burger",
-        "diet:vegetarian": "yes",
-        "internet_access": "no",
-        "name": "Original Hotdog",
-        "opening_hours": "Mo 07:00-23:45; Tu-Th 00:00-23:45; Fr 00:00-15:00",
-        "wheelchair": "limited"
-      }
-    },
-    {
-      "type": "node",
       "id": 1514441113,
       "lat": 49.2014417,
       "lon": 16.6105621,
@@ -769,6 +750,7 @@
         "addr:street": "Purkyňova",
         "addr:streetnumber": "80",
         "amenity": "restaurant",
+        "check_date:opening_hours": "2021-06-29",
         "contact:email": "info@napurkynce.cz",
         "diet:vegetarian": "yes",
         "internet_access": "wlan",
