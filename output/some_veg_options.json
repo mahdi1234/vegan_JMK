@@ -245,7 +245,7 @@
         "diet:vegetarian": "yes",
         "internet_access": "wlan",
         "name": "McDonald's",
-        "opening_hours": "Mo-Fr 06:00-24:00; Sa 00:00-02:00,06:00-24:00; Su 00:00-02:00,08:00-24:00",
+        "opening_hours": "Su-Th 06:00-23:00, Fr,Sa 06:00-02:00",
         "smoking": "no",
         "takeaway": "yes",
         "wheelchair": "yes"
@@ -864,6 +864,24 @@
     },
     {
       "type": "node",
+      "id": 2451609644,
+      "lat": 49.1974499,
+      "lon": 16.6058952,
+      "tags": {
+        "addr:city": "Brno",
+        "addr:housenumber": "3",
+        "addr:postcode": "60200",
+        "addr:street": "Joštova",
+        "amenity": "fast_food",
+        "diet:vegetarian": "yes",
+        "name": "Hot Dog",
+        "opening_hours": "24/7",
+        "takeaway": "only",
+        "wheelchair": "yes"
+      }
+    },
+    {
+      "type": "node",
       "id": 2487478366,
       "lat": 49.1908708,
       "lon": 16.6039455,
@@ -1323,6 +1341,19 @@
         "diet:vegetarian": "yes",
         "name": "Turecký kebap",
         "wheelchair": "yes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 3160933284,
+      "lat": 49.1559014,
+      "lon": 16.627346,
+      "tags": {
+        "amenity": "restaurant",
+        "diet:pescetarian": "yes",
+        "diet:vegetarian": "yes",
+        "name": "Restaurace IKEA",
+        "opening_hours": "Mo-Su 08:30-20:00"
       }
     },
     {
@@ -2427,6 +2458,7 @@
       "lon": 16.6128889,
       "tags": {
         "amenity": "fast_food",
+        "check_date:opening_hours": "2021-07-01",
         "cuisine": "pasta",
         "diet:vegetarian": "yes",
         "name": "Spaghetti Parmigiano",
@@ -2481,7 +2513,8 @@
         "amenity": "fast_food",
         "diet:vegetarian": "yes",
         "name": "Trdlokafe",
-        "opening_hours:signed": "no"
+        "opening_hours:signed": "no",
+        "wheelchair": "yes"
       }
     },
     {
@@ -2535,6 +2568,19 @@
         "cuisine": "pizza",
         "diet:vegetarian": "yes",
         "name": "Don Alexo"
+      }
+    },
+    {
+      "type": "node",
+      "id": 8839776114,
+      "lat": 49.191006,
+      "lon": 16.6127243,
+      "tags": {
+        "amenity": "fast_food",
+        "diet:vegetarian": "yes",
+        "name": "Food TIme",
+        "opening_hours": "Mo-Fr 06:00-18:30; Sa,Su 07:00-18:00",
+        "wheelchair": "yes"
       }
     }
   ]
