@@ -1616,6 +1616,9 @@
         "amenity": "fast_food",
         "cuisine": "asian",
         "diet:vegetarian": "yes",
+        "internet_access": "wlan",
+        "internet_access:fee": "customers",
+        "internet_access:ssid": "PHO VIET",
         "name": "Pho Viet nam",
         "opening_hours": "Mo-Fr 10:00-22:00; Su 11:00-22:00",
         "wheelchair": "limited"
