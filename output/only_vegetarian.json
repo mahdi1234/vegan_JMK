@@ -54,6 +54,12 @@
         "diet:vegetarian": "only",
         "name": "Na věčnosti",
         "opening_hours": "Mo-Th 10:30-22:00; Fr 10:30-24:00; Sa 11:00-24:00; Su 11:00-22:00",
+        "payment:jcb": "yes",
+        "payment:maestro": "yes",
+        "payment:mastercard": "yes",
+        "payment:visa": "yes",
+        "payment:visa_debit": "yes",
+        "payment:visa_electron": "yes",
         "ref:ruian:addr": "10985522",
         "website": "http://www.navecnosti.cz/",
         "wifi": "yes"

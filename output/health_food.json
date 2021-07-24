@@ -97,7 +97,7 @@
     "addr:street": "Masarova",
     "email": "lisen@sklizeno.cz",
     "name": "Sklizeno",
-    "opening_hours": "Mo-Fr 08:00-19:30; Sa 8:00-14:00",
+    "opening_hours": "Mo-Fr 08:00-19:00; Sa 08:00-13:00",
     "operator": "Sklizeno",
     "payment:cards": "yes",
     "payment:cash": "yes",
