@@ -173,10 +173,15 @@
       "lon": 16.6138253,
       "tags": {
         "amenity": "fast_food",
+        "delivery": "yes",
         "diet:vegan": "only",
-        "diet:vegetarian": "yes",
+        "diet:vegetarian": "only",
+        "email": "zdenek@mooi.cz",
+        "mobile": "+420 605 004 752",
         "name": "Mooi",
-        "opening_hours": "Mo-Sa 11:00-20:00; Su 11:30-20:00",
+        "opening_hours": "Mo-Sa 11:30-19:00; Su 12:00-18:00",
+        "takeaway": "yes",
+        "website": "https://www.mooi.cz/",
         "wheelchair": "limited"
       }
     },
