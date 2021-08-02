@@ -109,7 +109,6 @@
         "addr:street": "Veveří",
         "addr:streetnumber": "14",
         "amenity": "restaurant",
-        "cuisine": "vegetarian",
         "diet:vegetarian": "yes",
         "internet_access": "wlan",
         "name": "Bistro Franz",
