@@ -1348,11 +1348,16 @@
       "lat": 49.1559014,
       "lon": 16.627346,
       "tags": {
-        "amenity": "restaurant",
+        "amenity": "fast_food",
+        "brand": "IKEA",
+        "brand:wikidata": "Q54078",
+        "brand:wikipedia": "en:IKEA",
+        "cuisine": "swedish",
         "diet:pescetarian": "yes",
         "diet:vegetarian": "yes",
-        "name": "Restaurace IKEA",
-        "opening_hours": "Mo-Su 08:30-20:00"
+        "name": "IKEA Restaurant",
+        "opening_hours": "Mo-Su 08:30-20:00",
+        "takeaway": "yes"
       }
     },
     {
