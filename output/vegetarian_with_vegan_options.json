@@ -150,14 +150,13 @@
       "lon": 16.6581375,
       "tags": {
         "amenity": "restaurant",
-        "cuisine": "vegan;vegetarian",
         "diet:vegan": "yes",
         "diet:vegetarian": "only",
         "name": "Veget - Vegetariánská jídelna",
         "opening_hours": "Mo-Fr 11:00-14:30",
         "smoking": "no",
         "stars": "7",
-        "website": "http://www.jidelnaklasek.cz"
+        "website": "https://www.veget-jidelna.cz/"
       }
     },
     {

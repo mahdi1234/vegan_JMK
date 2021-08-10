@@ -1219,10 +1219,12 @@
         "addr:postcode": "61600",
         "addr:street": "Minská",
         "amenity": "cafe",
+        "check_date:opening_hours": "2021-08-09",
         "diet:vegetarian": "yes",
         "internet_access": "wlan",
         "name": "Cukrárna Bali",
         "opening_hours": "Mo-Fr 10:00-18:00; Sa,Su 14:00-18:00",
+        "website": "http://www.cukrarna-bali.cz",
         "wheelchair": "no"
       }
     },
@@ -1906,6 +1908,22 @@
     },
     {
       "type": "node",
+      "id": 3840679539,
+      "lat": 49.1668706,
+      "lon": 16.7261891,
+      "tags": {
+        "amenity": "cafe",
+        "cuisine": "ice_cream",
+        "diet:vegetarian": "yes",
+        "internet_access": "no",
+        "internet_access:fee": "no",
+        "name": "Cukrárna Cupák",
+        "opening_hours": "Mo-Su 10:00-18:00",
+        "smoking": "no"
+      }
+    },
+    {
+      "type": "node",
       "id": 3873203753,
       "lat": 49.1923677,
       "lon": 16.6122082,
@@ -1991,6 +2009,25 @@
         "takeaway": "yes",
         "website": "http://kocicipelisek.cz/",
         "wheelchair": "yes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4180626909,
+      "lat": 49.200987,
+      "lon": 16.6002541,
+      "tags": {
+        "addr:city": "Brno",
+        "addr:housenumber": "339/34",
+        "addr:postcode": "60200",
+        "addr:street": "Veveří",
+        "amenity": "restaurant",
+        "cuisine": "vietnamese",
+        "diet:vegetarian": "yes",
+        "name": "Oh! Pho",
+        "opening_hours": "Mo-Sa 11:00-22:00; Su 12:00-20:00",
+        "website": "http://www.ohphobrno.g6.cz/",
+        "wheelchair": "no"
       }
     },
     {
@@ -2586,7 +2623,8 @@
         "diet:vegan": "yes",
         "diet:vegetarian": "yes",
         "name": "Celozrnná sváča",
-        "takeaway": "yes"
+        "takeaway": "yes",
+        "wheelchair": "no"
       }
     },
     {
