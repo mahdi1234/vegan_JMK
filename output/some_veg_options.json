@@ -1398,7 +1398,8 @@
         "amenity": "fast_food",
         "diet:vegetarian": "yes",
         "name": "minit",
-        "opening_hours:signed": "no"
+        "opening_hours:signed": "no",
+        "wheelchair": "no"
       }
     },
     {
@@ -2435,6 +2436,7 @@
       "lon": 16.6112952,
       "tags": {
         "amenity": "cafe",
+        "check_date:opening_hours": "2021-08-12",
         "diet:vegetarian": "yes",
         "name": "Le Bon caffe",
         "opening_hours": "Mo-Sa 08:00-21:00; Su 09:00-20:00",
