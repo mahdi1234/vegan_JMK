@@ -1009,11 +1009,15 @@
         "addr:postcode": "60200",
         "addr:street": "Masarykova",
         "amenity": "fast_food",
-        "cuisine": "bagel",
+        "brand": "Bageterie Boulevard",
+        "brand:wikidata": "Q10859823",
+        "brand:wikipedia": "en:Bageterie Boulevard",
+        "cuisine": "sandwich",
         "diet:vegetarian": "yes",
         "name": "Bageterie Boulevard",
         "opening_hours": "Mo-Su 07:00-22:00",
         "operator": "Bageterie Boulevard",
+        "takeaway": "yes",
         "website": "https://www.bb.cz",
         "wheelchair": "no"
       }
