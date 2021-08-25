@@ -863,6 +863,25 @@
     },
     {
       "type": "node",
+      "id": 2322362203,
+      "lat": 49.1989646,
+      "lon": 16.6000859,
+      "tags": {
+        "addr:city": "Brno",
+        "addr:housenumber": "17",
+        "addr:postcode": "60200",
+        "addr:street": "Jaselská",
+        "amenity": "cafe",
+        "amenity_1": "pub",
+        "diet:vegetarian": "yes",
+        "internet_access": "yes",
+        "name": "Limbo",
+        "opening_hours": "Mo-Th 09:00-23:00; Fr 09:00-24:00; Su 16:00-23:00",
+        "wheelchair": "no"
+      }
+    },
+    {
+      "type": "node",
       "id": 2451609644,
       "lat": 49.1974499,
       "lon": 16.6058952,
@@ -1071,6 +1090,33 @@
         "opening_hours": "Mo-Su 11:00-20:00",
         "outdoor_seating": "no",
         "wheelchair": "no"
+      }
+    },
+    {
+      "type": "node",
+      "id": 3099390085,
+      "lat": 49.1918203,
+      "lon": 16.6127044,
+      "tags": {
+        "amenity": "fast_food",
+        "diet:vegetarian": "yes",
+        "level": "0",
+        "name": "Sun Food",
+        "wheelchair": "yes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 3099390086,
+      "lat": 49.191877,
+      "lon": 16.6124445,
+      "tags": {
+        "amenity": "fast_food",
+        "diet:vegetarian": "yes",
+        "level": "0",
+        "name": "Bamboo",
+        "opening_hours": "Mo-Su 07:00-24:00",
+        "wheelchair": "yes"
       }
     },
     {
@@ -1617,6 +1663,23 @@
     },
     {
       "type": "node",
+      "id": 3384075884,
+      "lat": 49.1952266,
+      "lon": 16.6106,
+      "tags": {
+        "addr:city": "Brno",
+        "addr:housenumber": "9",
+        "addr:postcode": "60200",
+        "addr:street": "Kobližná",
+        "amenity": "fast_food",
+        "diet:vegetarian": "yes",
+        "name": "Big Food Point",
+        "opening_hours": "24/7",
+        "wheelchair": "yes"
+      }
+    },
+    {
+      "type": "node",
       "id": 3384077116,
       "lat": 49.1948721,
       "lon": 16.6138037,
@@ -1633,6 +1696,28 @@
         "internet_access:ssid": "PHO VIET",
         "name": "Pho Viet nam",
         "opening_hours": "Mo-Fr 10:00-22:00; Su 11:00-22:00",
+        "wheelchair": "limited"
+      }
+    },
+    {
+      "type": "node",
+      "id": 3384130449,
+      "lat": 49.1941189,
+      "lon": 16.6108044,
+      "tags": {
+        "addr:city": "Brno",
+        "addr:housenumber": "4",
+        "addr:postcode": "60200",
+        "addr:street": "Minoritská",
+        "amenity": "cafe",
+        "diet:vegetarian": "yes",
+        "internet_access": "wlan",
+        "name": "Café Placzek",
+        "opening_hours": "Mo-Su 08:00-20:00",
+        "outdoor_seating": "yes",
+        "phone": "+420 602 205 555",
+        "smoking": "no",
+        "website": "http://www.cafeplaczek.cz/",
         "wheelchair": "limited"
       }
     },
@@ -2223,6 +2308,24 @@
         "name:cs": "Pizza La Strada",
         "opening_hours": "Mo-Sa 14:00-22:00; Su 12:00-20:00",
         "takeaway": "yes",
+        "wheelchair": "no"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4757745209,
+      "lat": 49.1990659,
+      "lon": 16.5999648,
+      "tags": {
+        "addr:city": "Brno",
+        "addr:housenumber": "19",
+        "addr:postcode": "60200",
+        "addr:street": "Jaselská",
+        "amenity": "cafe",
+        "cuisine": "pancake",
+        "diet:vegetarian": "yes",
+        "name": "Panksy",
+        "opening_hours": "Mo-Fr 09:00-23:00; Sa 10:00-23:00; Su 10:00-20:00",
         "wheelchair": "no"
       }
     },

@@ -68,8 +68,8 @@
     {
       "type": "node",
       "id": 3775719870,
-      "lat": 49.1918497,
-      "lon": 16.6125685,
+      "lat": 49.1918319,
+      "lon": 16.6125639,
       "tags": {
         "amenity": "cafe",
         "diet:vegetarian": "only",
