@@ -921,32 +921,6 @@
     },
     {
       "type": "node",
-      "id": 2724376026,
-      "lat": 49.1961316,
-      "lon": 16.6122454,
-      "tags": {
-        "addr:city": "Brno",
-        "addr:housenumber": "2",
-        "addr:postcode": "60200",
-        "addr:street": "Sukova",
-        "amenity": "restaurant",
-        "changing_table:fee": "no",
-        "cuisine": "italian;pizza",
-        "diet:vegetarian": "yes",
-        "email": "info@leonessa.cz",
-        "internet_access": "wlan",
-        "name": "Ristorante Pizzeria Leonessa",
-        "opening_hours": "Tu-Th 11:30-23:00; Fr 11:30-24:00; Sa 12:00-24:00",
-        "operator": "Solo Pizza s.r.o.",
-        "outdoor_seating": "yes",
-        "phone": "+420 542 212 236",
-        "smoking": "separated",
-        "website": "http://leonessa.cz",
-        "wheelchair": "no"
-      }
-    },
-    {
-      "type": "node",
       "id": 2770900428,
       "lat": 49.1893386,
       "lon": 16.6029599,
