@@ -194,8 +194,11 @@
         "amenity": "restaurant",
         "diet:vegan": "yes",
         "diet:vegetarian": "only",
+        "internet_access": "wlan",
+        "internet_access:fee": "no",
         "name": "Dhaba Beas",
         "opening_hours": "Mo-Fr 11:00-21:00; Sa,Su 12:00-20:00",
+        "outdoor_seating": "yes",
         "website": "https://dhababeas.cz/",
         "wheelchair": "limited"
       }

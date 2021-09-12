@@ -205,7 +205,8 @@
     "payment:visa_electron": "yes",
     "phone": "+ 420 776 166 926",
     "shop": "convenience",
-    "website": "https://www.facebook.com/NOsacek/"
+    "website": "https://www.facebook.com/NOsacek/",
+    "zero_waste": "yes"
   }
 },
 {
@@ -271,6 +272,26 @@
     "payment:visa_debit": "yes",
     "payment:visa_electron": "yes",
     "shop": "convenience"
+  }
+},
+{
+  "type": "node",
+  "id": 9081651781,
+  "lat": 49.2017899,
+  "lon": 16.6022354,
+  "tags": {
+    "bulk_purchase": "yes",
+    "name": "Bezobalový obchod NOsáček",
+    "opening_hours": "Mo-Fr 09:00-19:00; Sa 10:00-12:00,14:00-16:00",
+    "organic": "yes",
+    "payment:maestro": "yes",
+    "payment:mastercard": "yes",
+    "payment:visa": "yes",
+    "payment:visa_debit": "yes",
+    "payment:visa_electron": "yes",
+    "shop": "convenience",
+    "website": "https://www.facebook.com/NOsacek/",
+    "zero_waste": "yes"
   }
 },
 {
