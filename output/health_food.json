@@ -278,6 +278,27 @@
   }
 },
 {
+  "type": "node",
+  "id": 9088219022,
+  "lat": 49.2091477,
+  "lon": 16.6873713,
+  "tags": {
+    "addr:city": "Brno-Líšeň",
+    "addr:housenumber": "1b",
+    "addr:postcode": "62800",
+    "addr:street": "Bednaříkova",
+    "email": "vega@vegaproject.cz",
+    "name": "VEGA shop & coffee",
+    "opening_hours": "Mo-Fr 09:00-19:00; Sa 09:00-13:00",
+    "operator": "Vega project s.r.o.",
+    "payment:cards": "yes",
+    "payment:cash": "yes",
+    "phone": "+420 608 828 328",
+    "shop": "health_food",
+    "website": "https://www.vega-shop.cz/"
+  }
+},
+{
   "type": "way",
   "id": 253974427,
   "nodes": [
