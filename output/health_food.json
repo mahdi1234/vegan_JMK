@@ -42,6 +42,25 @@
 },
 {
   "type": "node",
+  "id": 3243778864,
+  "lat": 49.1923551,
+  "lon": 16.6047142,
+  "tags": {
+    "addr:city": "Brno",
+    "addr:housenumber": "2",
+    "addr:postcode": "60200",
+    "addr:street": "Pekařská",
+    "email": "awprodejna.brno@tvaruzky.cz",
+    "name": "Prodejna Olomouckých tvarůžků",
+    "opening_hours": "Mo-Fr 08:30-18:00; Sa 8:30-12:30",
+    "operator": "A. W. spol. s r. o.",
+    "phone": "+420 539 011 444",
+    "shop": "health_food",
+    "website": "https://www.tvaruzky.cz/prodejna-brno"
+  }
+},
+{
+  "type": "node",
   "id": 3462485661,
   "lat": 49.1937796,
   "lon": 16.6117027,
@@ -56,6 +75,22 @@
     "phone": "+420 725 065 899",
     "shop": "health_food",
     "website": "http://www.branakezdravi.cz/",
+    "wheelchair": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 3505188494,
+  "lat": 49.1984114,
+  "lon": 16.6014093,
+  "tags": {
+    "addr:city": "Brno",
+    "addr:housenumber": "8",
+    "addr:postcode": "60200",
+    "addr:street": "Jaselská",
+    "name": "Zlatý Klíček",
+    "opening_hours:signed": "no",
+    "shop": "health_food",
     "wheelchair": "no"
   }
 },
