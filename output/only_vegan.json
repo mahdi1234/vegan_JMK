@@ -2,6 +2,29 @@
   "elements": [
     {
       "type": "node",
+      "id": 950717682,
+      "lat": 49.2073769,
+      "lon": 16.4839073,
+      "tags": {
+        "addr:city": "Brno",
+        "addr:housenumber": "12",
+        "addr:postcode": "64100",
+        "addr:street": "Ríšova",
+        "amenity": "restaurant",
+        "diet:kosher": "no",
+        "diet:vegan": "only",
+        "diet:vegetarian": "only",
+        "internet_access": "wlan",
+        "microbrewery": "yes",
+        "name": "U Richarda",
+        "opening_hours": "Su-Th 11:00-22:00; PH,Fr,Sa 11:00-23:00",
+        "smoking": "separated",
+        "website": "http://www.uricharda.eu/",
+        "wheelchair": "yes"
+      }
+    },
+    {
+      "type": "node",
       "id": 1193245476,
       "lat": 49.2067729,
       "lon": 16.7191787,
