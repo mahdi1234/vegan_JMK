@@ -1,3 +1,220 @@
 {
-  "elements": []
+  "elements": [
+    {
+      "type": "node",
+      "id": 1193245476,
+      "lat": 49.2067729,
+      "lon": 16.7191787,
+      "tags": {
+        "amenity": "restaurant",
+        "diet:vegan": "only",
+        "name": "Pilgrim",
+        "opening_hours": "We,Fr 12:00-20:00; Sa 11:00-21:00; Su 11:00-19:00",
+        "outdoor_seating": "yes",
+        "payment:cash": "yes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1528351547,
+      "lat": 49.1972704,
+      "lon": 16.6051337,
+      "tags": {
+        "amenity": "fast_food",
+        "diet:vegan": "only",
+        "diet:vegetarian": "yes",
+        "name": "Fryends",
+        "opening_hours": "Mo-Sa 11:00-20:00; Fr 11:00-24:00",
+        "wheelchair": "yes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2916528158,
+      "lat": 49.1963816,
+      "lon": 16.6088699,
+      "tags": {
+        "addr:city": "Brno",
+        "addr:housenumber": "109/1",
+        "addr:postcode": "60200",
+        "addr:street": "Jakubské náměstí",
+        "amenity": "restaurant",
+        "capacity": "160",
+        "cuisine": "international",
+        "diet:gluten_free": "yes",
+        "diet:raw": "yes",
+        "diet:vegan": "only",
+        "diet:vegetarian": "only",
+        "name": "Forky's",
+        "opening_hours": "Mo-Th 08:00-21:00; Fr 08:00-22:00; Sa 09:00-22:00; Su 09:00-18:00",
+        "outdoor_seating": "yes",
+        "phone": "+420 515 908 665",
+        "takeaway": "yes",
+        "website": "http://www.forkys.eu/",
+        "wheelchair": "yes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2918023546,
+      "lat": 49.2036444,
+      "lon": 16.6109277,
+      "tags": {
+        "addr:city": "Brno",
+        "addr:housenumber": "26",
+        "addr:postcode": "60200",
+        "addr:street": "třída Kpt. Jaroše",
+        "amenity": "restaurant",
+        "delivery": "yes",
+        "diet:vegan": "only",
+        "diet:vegetarian": "yes",
+        "email": "info@pilgrims.cz",
+        "name": "Pilgrim",
+        "opening_hours": "Mo-Fr 11:00-20:00",
+        "takeaway": "yes",
+        "website": "http://pilgrims.cz",
+        "wheelchair": "no"
+      }
+    },
+    {
+      "type": "node",
+      "id": 3098329532,
+      "lat": 49.1989831,
+      "lon": 16.593014,
+      "tags": {
+        "addr:city": "Brno",
+        "addr:housenumber": "83/39",
+        "addr:postcode": "60200",
+        "addr:street": "Gorkého",
+        "diet:vegan": "only",
+        "name": "Tři ocásci",
+        "opening_hours": "Mo-Fr 09:00-20:00; Sa-Su 10:00-20:00",
+        "payment:coins": "yes",
+        "payment:notes": "yes",
+        "shop": "pastry"
+      }
+    },
+    {
+      "type": "node",
+      "id": 3163386375,
+      "lat": 49.1956196,
+      "lon": 16.6124839,
+      "tags": {
+        "addr:city": "Brno",
+        "addr:housenumber": "4",
+        "addr:postcode": "60200",
+        "addr:street": "Sukova",
+        "amenity": "bar",
+        "diet:vegan": "only",
+        "name": "Kabinet Múz",
+        "opening_hours": "Mo-Su 11:00-03:00",
+        "website": "https://www.kabinetmuz.cz/",
+        "wheelchair": "no"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4180713908,
+      "lat": 49.2026309,
+      "lon": 16.5968611,
+      "tags": {
+        "addr:city": "Brno",
+        "addr:housenumber": "164/6",
+        "addr:postcode": "60200",
+        "addr:street": "Jana Uhra",
+        "amenity": "restaurant",
+        "contact:website": "https://www.facebook.com/pizzapunk.brno",
+        "cuisine": "pizza",
+        "diet:vegan": "only",
+        "name": "Pizzapunk",
+        "opening_hours": "Tu-Fr 12:00-21:00; Sa,Su 14:00-21:00",
+        "outdoor_seating": "yes",
+        "phone": "+420 608 312 369",
+        "takeaway": "yes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4833255717,
+      "lat": 49.2027317,
+      "lon": 16.6110428,
+      "tags": {
+        "addr:city": "Brno",
+        "addr:housenumber": "18",
+        "addr:postcode": "60200",
+        "addr:street": "třída Kpt. Jaroše",
+        "amenity": "cafe",
+        "diet:vegan": "only",
+        "diet:vegetarian": "only",
+        "name": "Tři ocásci",
+        "opening_hours": "Mo-Fr 11:00-24:00; Sa-Su 18:00-24:00",
+        "outdoor_seating": "yes",
+        "phone": "+420 775 702 778",
+        "website": "https://triocasci.cz/",
+        "wheelchair": "no"
+      }
+    },
+    {
+      "type": "node",
+      "id": 5116080503,
+      "lat": 49.1945175,
+      "lon": 16.613442,
+      "tags": {
+        "amenity": "cafe",
+        "diet:vegan": "only",
+        "name": "Vegan Food & Sweet Bar",
+        "opening_hours": "Mo-Fr 08:00-20:00; Sa 10:00-19:00",
+        "wheelchair": "yes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6810240759,
+      "lat": 49.1899719,
+      "lon": 16.6138253,
+      "tags": {
+        "amenity": "fast_food",
+        "delivery": "yes",
+        "diet:vegan": "only",
+        "diet:vegetarian": "only",
+        "email": "zdenek@mooi.cz",
+        "mobile": "+420 605 004 752",
+        "name": "Mooi",
+        "opening_hours": "Mo-Sa 11:30-19:00; Su 12:00-18:00",
+        "takeaway": "yes",
+        "website": "https://www.mooi.cz/",
+        "wheelchair": "limited"
+      }
+    },
+    {
+      "type": "node",
+      "id": 8418025214,
+      "lat": 49.1923638,
+      "lon": 16.6069022,
+      "tags": {
+        "amenity": "restaurant",
+        "diet:gluten_free": "yes",
+        "diet:vegan": "only",
+        "name": "1. terapeutická restaurace",
+        "opening_hours": "Mo-Su 11:00-17:00",
+        "operator": "Chambre de charme",
+        "takeaway": "yes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 8429279706,
+      "lat": 49.1810779,
+      "lon": 16.6196178,
+      "tags": {
+        "amenity": "restaurant",
+        "diet:raw": "only",
+        "diet:vegan": "only",
+        "name": "MyRaw Food Bar",
+        "opening_hours": "Mo-Fr 11:00-16:00",
+        "phone": "+420 739 665 746",
+        "website": "https://www.myraw.cz/brno"
+      }
+    }
+  ]
 }
