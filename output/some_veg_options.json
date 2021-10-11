@@ -1699,6 +1699,23 @@
     },
     {
       "type": "node",
+      "id": 3283640058,
+      "lat": 49.2110817,
+      "lon": 16.5836165,
+      "tags": {
+        "addr:city": "Brno",
+        "addr:housenumber": "41",
+        "addr:postcode": "61600",
+        "addr:street": "Minská",
+        "amenity": "cafe",
+        "diet:vegetarian": "yes",
+        "name": "Kavárna U Mlsných koček",
+        "opening_hours": "Mo-Th 10:00-21:00; Fr 10:00-22:00; Sa 17:00-22:00",
+        "wheelchair": "no"
+      }
+    },
+    {
+      "type": "node",
       "id": 3384075884,
       "lat": 49.1952266,
       "lon": 16.6106,
@@ -2589,6 +2606,7 @@
         "addr:postcode": "60200",
         "addr:street": "Bašty",
         "amenity": "fast_food",
+        "cuisine": "hawaiian",
         "diet:vegan": "yes",
         "diet:vegetarian": "yes",
         "email": "info@pokecz.cz",
@@ -2596,7 +2614,8 @@
         "opening_hours": "Mo-Fr 11:00-21:00; Sa 12:00-20:00; Su 12:00-15:00",
         "phone": "+420 725 414 007",
         "takeaway": "yes",
-        "website": "https://www.pokecz.cz/"
+        "website": "https://www.pokecz.cz/",
+        "wheelchair": "no"
       }
     },
     {
