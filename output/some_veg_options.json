@@ -1415,6 +1415,23 @@
     },
     {
       "type": "node",
+      "id": 3159240517,
+      "lat": 49.1927475,
+      "lon": 16.6095819,
+      "tags": {
+        "amenity": "cafe",
+        "check_date:opening_hours": "2020-12-14",
+        "diet:vegetarian": "yes",
+        "internet_access": "wlan",
+        "name": "Cosmopolis Café",
+        "opening_hours": "Mo-Su 08:00-23:00",
+        "outdoor_seating": "yes",
+        "phone": "+420 542 106 080",
+        "wheelchair": "yes"
+      }
+    },
+    {
+      "type": "node",
       "id": 3160933284,
       "lat": 49.1559014,
       "lon": 16.627346,
