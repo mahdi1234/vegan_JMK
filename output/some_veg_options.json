@@ -2868,6 +2868,19 @@
     },
     {
       "type": "node",
+      "id": 7982126357,
+      "lat": 49.1954891,
+      "lon": 16.6074541,
+      "tags": {
+        "amenity": "fast_food",
+        "diet:vegetarian": "yes",
+        "name": "deli BOX",
+        "opening_hours": "Mo-Su 11:00-21:00",
+        "wheelchair": "yes"
+      }
+    },
+    {
+      "type": "node",
       "id": 8415611808,
       "lat": 49.1992302,
       "lon": 16.6029747,

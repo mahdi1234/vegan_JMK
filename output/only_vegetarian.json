@@ -43,7 +43,8 @@
         "payment:visa_debit": "yes",
         "payment:visa_electron": "yes",
         "takeaway": "yes",
-        "website": "https://gopal.menu/"
+        "website": "https://gopal.menu/",
+        "wheelchair": "no"
       }
     },
     {
