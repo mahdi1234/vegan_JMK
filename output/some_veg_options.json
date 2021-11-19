@@ -2934,6 +2934,20 @@
         "website": "https://donuter.cz/",
         "wheelchair": "no"
       }
+    },
+    {
+      "type": "node",
+      "id": 9263674083,
+      "lat": 49.2016466,
+      "lon": 16.6015849,
+      "tags": {
+        "amenity": "restaurant",
+        "diet:kosher": "no",
+        "diet:vegan": "no",
+        "diet:vegetarian": "yes",
+        "name": "Garden Food Concept",
+        "opening_hours": "Mo-Sa 11:00-22:00"
+      }
     }
   ]
 }
