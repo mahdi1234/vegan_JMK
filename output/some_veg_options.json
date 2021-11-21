@@ -1439,6 +1439,7 @@
         "cuisine": "kebab",
         "diet:vegetarian": "yes",
         "name": "Turecký kebap",
+        "opening_hours": "Mo,Tu 09:00-01:00, We 09:00-04:00, Th 09:00-01:00, Fr,Sa 09:00-04:00, Su 01:00-24:00",
         "wheelchair": "yes"
       }
     },
@@ -1836,22 +1837,6 @@
         "name": "Pizza Hot",
         "opening_hours": "Mo-Sa 09:00-24:00, Su 10:00-20:00",
         "wheelchair": "no"
-      }
-    },
-    {
-      "type": "node",
-      "id": 3389127496,
-      "lat": 49.192236,
-      "lon": 16.6103154,
-      "tags": {
-        "addr:city": "Brno",
-        "addr:housenumber": "22",
-        "addr:postcode": "60200",
-        "addr:street": "Masarykova",
-        "amenity": "restaurant",
-        "cuisine": "vietnamese",
-        "diet:vegetarian": "yes",
-        "name": "SunRice"
       }
     },
     {
@@ -2425,10 +2410,15 @@
       "lon": 16.6123858,
       "tags": {
         "amenity": "fast_food",
+        "branch": "Freshbar",
+        "brand": "UGO",
+        "brand:wikidata": "Q108126892",
+        "cuisine": "juice",
         "diet:vegetarian": "yes",
         "level": "1",
-        "name": "UGO Freshbar",
+        "name": "UGO",
         "opening_hours": "Mo-Fr 07:30-20:00; Sa 09:00-18:00; Su 10:00-18:00",
+        "takeaway": "yes",
         "wheelchair": "yes"
       }
     },
