@@ -310,6 +310,14 @@
     "name": "Zdravá výživa",
     "opening_hours": "Mo-Fr 09:00-12:00; Mo-Fr 14:30-16:30; Sa 09:00-11:00",
     "operator": "Adéla Mrňková",
+    "payment:diners_club": "yes",
+    "payment:discover_card": "yes",
+    "payment:jcb": "yes",
+    "payment:maestro": "yes",
+    "payment:mastercard": "yes",
+    "payment:visa": "yes",
+    "payment:visa_debit": "yes",
+    "payment:visa_electron": "yes",
     "phone": "+420 739 338 809",
     "shop": "health_food"
   }
