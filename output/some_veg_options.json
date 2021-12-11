@@ -2938,6 +2938,32 @@
         "name": "Garden Food Concept",
         "opening_hours": "Mo-Sa 11:00-22:00"
       }
+    },
+    {
+      "type": "node",
+      "id": 9322163766,
+      "lat": 49.2031476,
+      "lon": 16.881796,
+      "tags": {
+        "amenity": "fast_food",
+        "cuisine": "burger;pizza",
+        "delivery": "yes",
+        "diet:vegetarian": "yes",
+        "mobile": "+420 777 585 686",
+        "name": "Il mondo",
+        "opening_hours": "Mo-Su 11:00-21:45",
+        "payment:american_express": "yes",
+        "payment:diners_club": "yes",
+        "payment:jcb": "yes",
+        "payment:maestro": "yes",
+        "payment:mastercard": "yes",
+        "payment:visa": "yes",
+        "payment:visa_debit": "yes",
+        "payment:visa_electron": "yes",
+        "phone": "info@ilmondo.cz",
+        "takeaway": "yes",
+        "website": "https://ilmondo.cz/rousinov/"
+      }
     }
   ]
 }
