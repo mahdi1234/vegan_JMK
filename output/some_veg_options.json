@@ -1502,23 +1502,6 @@
     },
     {
       "type": "node",
-      "id": 3174839440,
-      "lat": 49.1927075,
-      "lon": 16.6101116,
-      "tags": {
-        "addr:city": "Brno",
-        "addr:housenumber": "12",
-        "addr:postcode": "60200",
-        "addr:street": "Masarykova",
-        "amenity": "fast_food",
-        "diet:vegetarian": "yes",
-        "name": "minit",
-        "opening_hours:signed": "no",
-        "wheelchair": "no"
-      }
-    },
-    {
-      "type": "node",
       "id": 3188485943,
       "lat": 49.2023666,
       "lon": 16.6080301,
