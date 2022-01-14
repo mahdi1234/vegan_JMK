@@ -312,6 +312,8 @@
         "contact:phone": "+420 549 240005",
         "contact:website": "https://lastrada-brno.cz",
         "cuisine": "italian",
+        "diet:halal": "no",
+        "diet:kosher": "no",
         "diet:vegan": "yes",
         "diet:vegetarian": "yes",
         "internet_access": "wlan",
