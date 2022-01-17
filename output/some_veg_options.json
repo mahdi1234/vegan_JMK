@@ -2898,21 +2898,6 @@
     },
     {
       "type": "node",
-      "id": 8946534726,
-      "lat": 49.1934486,
-      "lon": 16.6076624,
-      "tags": {
-        "amenity": "fast_food",
-        "cuisine": "donut",
-        "diet:vegetarian": "yes",
-        "name": "Donuter",
-        "opening_hours": "Mo-Fr 09:00-20:00; Sa,Su 10:00-20:00",
-        "website": "https://donuter.cz/",
-        "wheelchair": "no"
-      }
-    },
-    {
-      "type": "node",
       "id": 9263674083,
       "lat": 49.2016466,
       "lon": 16.6015849,
