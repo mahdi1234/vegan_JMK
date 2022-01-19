@@ -1986,27 +1986,6 @@
     },
     {
       "type": "node",
-      "id": 3498298188,
-      "lat": 49.1971015,
-      "lon": 16.6091241,
-      "tags": {
-        "addr:city": "Brno",
-        "addr:housenumber": "20",
-        "addr:postcode": "60200",
-        "addr:street": "Běhounská",
-        "amenity": "fast_food",
-        "cuisine": "potato",
-        "diet:vegetarian": "yes",
-        "name": "Love Patatas",
-        "opening_hours": "Mo 11:00-21:00; Tu-We 11:00-15:00; Th 11:00-21:00; Fr 11:00-23:00",
-        "phone": "+420 736 110 158",
-        "smoking": "no",
-        "takeaway": "yes",
-        "wheelchair": "limited"
-      }
-    },
-    {
-      "type": "node",
       "id": 3498314545,
       "lat": 49.1955276,
       "lon": 16.6075364,
