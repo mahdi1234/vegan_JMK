@@ -155,6 +155,7 @@
   "lon": 16.5668389,
   "tags": {
     "bulk_purchase": "yes",
+    "check_date:opening_hours": "2022-01-20",
     "email": "info@jen-zdrave.cz",
     "fair_trade": "yes",
     "name": "Jen zdravě",
