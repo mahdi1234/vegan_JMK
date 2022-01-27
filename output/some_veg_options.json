@@ -1045,7 +1045,8 @@
         "name": "Pizzerie U Montyho",
         "opening_hours:signed": "no",
         "phone": "+420 736 621 591",
-        "website": "http://www.pizzerieumontyho.cz/"
+        "website": "http://www.pizzerieumontyho.cz/",
+        "wheelchair": "no"
       }
     },
     {
