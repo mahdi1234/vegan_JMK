@@ -43,6 +43,8 @@
     "addr:postcode": "60200",
     "addr:street": "Křenová",
     "amenity": "cafe",
+    "diet:halal": "no",
+    "diet:kosher": "no",
     "diet:lactose_free": "yes",
     "diet:raw": "yes",
     "diet:vegan": "yes",
@@ -52,7 +54,8 @@
     "opening_hours": "Mo-Fr 07:00-16:30",
     "phone": "+420 776670608",
     "takeaway": "yes",
-    "website": "http://www.veg8cafe.cz/"
+    "website": "http://www.veg8cafe.cz/",
+    "wheelchair": "no"
   }
 },
 {
