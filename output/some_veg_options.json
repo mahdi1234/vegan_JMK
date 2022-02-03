@@ -2723,6 +2723,7 @@
       "lon": 16.6111296,
       "tags": {
         "amenity": "fast_food",
+        "cuisine": "mexican",
         "diet:vegetarian": "yes",
         "name": "Taco Bonito",
         "opening_hours": "Mo-Fr 11:00-22:00; Sa,Su 11:00-20:00",
