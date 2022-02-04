@@ -1651,28 +1651,6 @@
     },
     {
       "type": "node",
-      "id": 3221039429,
-      "lat": 49.2239827,
-      "lon": 16.5933387,
-      "tags": {
-        "addr:city": "Brno",
-        "addr:housenumber": "8a",
-        "addr:postcode": "61200",
-        "addr:street": "Husitská",
-        "amenity": "restaurant",
-        "cuisine": "regional",
-        "diet:vegetarian": "yes",
-        "name": "Krčma u svatého Václava",
-        "opening_hours": "Mo-Fr 11:00-23:00",
-        "phone": "+420 721 665 602",
-        "smoking": "no",
-        "takeaway": "yes",
-        "website": "http://www.krcmausvatehovaclava.cz/",
-        "wheelchair": "no"
-      }
-    },
-    {
-      "type": "node",
       "id": 3221039438,
       "lat": 49.2235675,
       "lon": 16.5934728,
