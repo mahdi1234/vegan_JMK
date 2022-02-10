@@ -2607,6 +2607,8 @@
       "lon": 16.5991838,
       "tags": {
         "amenity": "restaurant",
+        "diet:halal": "no",
+        "diet:kosher": "no",
         "diet:vegan": "yes",
         "diet:vegetarian": "yes",
         "name": "Restaurace Domov",
