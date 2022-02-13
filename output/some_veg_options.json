@@ -2477,6 +2477,7 @@
         "addr:postcode": "60200",
         "addr:street": "náměstí Svobody",
         "amenity": "restaurant",
+        "check_date:opening_hours": "2022-02-11",
         "cuisine": "vietnamese",
         "diet:vegetarian": "yes",
         "name": "Diandi",
