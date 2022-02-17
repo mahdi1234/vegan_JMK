@@ -20,6 +20,7 @@
         "amenity": "fast_food",
         "building": "yes",
         "building:ruian:type": "19",
+        "check_date:opening_hours": "2022-02-16",
         "diet:vegetarian": "yes",
         "name": "Circus",
         "opening_hours": "Mo-Fr 07:00-19:00",
