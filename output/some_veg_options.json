@@ -564,6 +564,7 @@
         "cuisine": "kebab",
         "diet:vegetarian": "yes",
         "name": "The Foodhouse",
+        "opening_hours:signed": "no",
         "wheelchair": "limited"
       }
     },
