@@ -2,24 +2,6 @@
   "elements": [
     {
       "type": "node",
-      "id": 944527185,
-      "lat": 49.1901907,
-      "lon": 16.5952396,
-      "tags": {
-        "addr:city": "Brno",
-        "addr:housenumber": "10",
-        "addr:postcode": "60300",
-        "addr:street": "Mendlovo náměstí",
-        "amenity": "restaurant",
-        "diet:vegetarian": "only",
-        "name": "Gopal",
-        "note": "vegetariánská restaurace a cukrárna",
-        "opening_hours": "Mo-Fr 11:00-15:00",
-        "website": "www.gopal.menu"
-      }
-    },
-    {
-      "type": "node",
       "id": 1514495833,
       "lat": 49.2012751,
       "lon": 16.6112275,

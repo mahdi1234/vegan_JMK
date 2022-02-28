@@ -1096,6 +1096,7 @@
         "addr:street": "Jiráskova",
         "amenity": "cafe",
         "cuisine": "dessert",
+        "diet:raw": "yes",
         "diet:vegan": "yes",
         "diet:vegetarian": "yes",
         "name": "Tutti Frutti",
@@ -1983,6 +1984,27 @@
         "takeaway": "no",
         "website": "http://www.statlbrno.cz/",
         "wheelchair": "yes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 3505137763,
+      "lat": 49.190579,
+      "lon": 16.5939745,
+      "tags": {
+        "addr:city": "Brno",
+        "addr:housenumber": "18",
+        "addr:postcode": "60300",
+        "addr:street": "Mendlovo náměstí",
+        "amenity": "cafe",
+        "diet:gluten_free": "yes",
+        "diet:raw": "yes",
+        "diet:vegan": "yes",
+        "diet:vegetarian": "yes",
+        "name": "Tutti Frutti",
+        "opening_hours": "Mo-Fr 06:30-18:30; Sa-Su 09:00-18:00",
+        "phone": "+420 727 965 707",
+        "website": "https://www.tuttifrutti.cz/"
       }
     },
     {
