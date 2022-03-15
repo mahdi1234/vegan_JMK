@@ -193,28 +193,6 @@
     },
     {
       "type": "node",
-      "id": 393217282,
-      "lat": 49.1605232,
-      "lon": 16.7286093,
-      "tags": {
-        "access": "private",
-        "addr:conscriptionnumber": "706",
-        "addr:housenumber": "706/87",
-        "addr:place": "Šlapanice",
-        "addr:postcode": "66451",
-        "addr:street": "Nádražní",
-        "addr:streetnumber": "87",
-        "diet:vegetarian": "yes",
-        "leisure": "playground",
-        "name": "TJ Sokol Šlapanice",
-        "ref:ruian:addr": "24084379",
-        "source": "mvcr:adresa",
-        "sport": "multi",
-        "wheelchair": "yes"
-      }
-    },
-    {
-      "type": "node",
       "id": 452326805,
       "lat": 49.2091127,
       "lon": 16.6009335,
