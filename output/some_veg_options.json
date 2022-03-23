@@ -816,7 +816,7 @@
         "delivery": "yes",
         "diet:vegetarian": "yes",
         "name": "Subway",
-        "opening_hours": "Mo-Fr 08:00-23:00; Sa-Su 09:00-23:00",
+        "opening_hours": "Mo-Fr 08:00-22:00; Sa,Su 09:00-22:00",
         "payment:bitcoin": "yes",
         "payment:litecoin": "yes",
         "smoking": "no",
@@ -1795,7 +1795,7 @@
         "cuisine": "pasta",
         "diet:vegetarian": "yes",
         "name": "Pasta di gusto",
-        "opening_hours": "Mo-Fr 10:00-20:30; Sa 11:00-20:30",
+        "opening_hours": "Mo-Fr 10:00-20:00; Sa,Su 11:00-20:00",
         "wheelchair": "no"
       }
     },
@@ -2504,7 +2504,7 @@
         "amenity": "cafe",
         "diet:vegetarian": "yes",
         "name": "Mada ice cream",
-        "opening_hours": "Mo 09:00-20:00; Tu-Sa 09:00-20:30; Su 10:00-20:00",
+        "opening_hours": "Mo-Su 09:30-21:00",
         "wheelchair": "no"
       }
     },
