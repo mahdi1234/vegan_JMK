@@ -2986,6 +2986,27 @@
         "takeaway": "yes",
         "website": "https://ilmondo.cz/rousinov/"
       }
+    },
+    {
+      "type": "node",
+      "id": 9632898838,
+      "lat": 48.8544459,
+      "lon": 16.0469793,
+      "tags": {
+        "addr:city": "Znojmo",
+        "addr:country": "CZ",
+        "addr:housenumber": "466/7",
+        "addr:postcode": "66902",
+        "addr:street": "Mikulášské náměstí",
+        "amenity": "restaurant",
+        "cuisine": "indian;asian;nepalese",
+        "diet:vegan": "yes",
+        "diet:vegetarian": "yes",
+        "name": "OM - indická a nepálská restaurace",
+        "opening_hours": "Mo-Sa 11:00-22:00; Su 11:00-21:00",
+        "phone": "+420 731 947 236",
+        "website": "http://www.om-indicka.cz"
+      }
     }
   ]
 }
