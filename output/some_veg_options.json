@@ -2032,6 +2032,25 @@
     },
     {
       "type": "node",
+      "id": 3645725518,
+      "lat": 49.2032195,
+      "lon": 16.6049271,
+      "tags": {
+        "addr:city": "Brno",
+        "addr:housenumber": "45",
+        "addr:postcode": "60200",
+        "addr:street": "Smetanova",
+        "amenity": "cafe",
+        "diet:vegan": "yes",
+        "diet:vegetarian": "yes",
+        "name": "Kafe Friedrich",
+        "opening_hours": "Mo-Fr 07:30-21:00; Sa 09:00-19:00",
+        "website": "http://kafefriedrich.cz/",
+        "wheelchair": "no"
+      }
+    },
+    {
+      "type": "node",
       "id": 3660667044,
       "lat": 49.197785,
       "lon": 16.605617,
