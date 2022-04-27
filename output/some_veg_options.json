@@ -61,8 +61,10 @@
         "building:ruian:type": "15",
         "cuisine": "asian",
         "diet:vegetarian": "yes",
+        "indoor_seating": "yes",
         "name": "Orient V.",
         "opening_hours": "Mo-Su 08:00-21:00",
+        "outdoor_seating": "yes",
         "ref:ruian:building": "30719992",
         "roof:levels": "0",
         "roof:shape": "flat",
@@ -273,7 +275,7 @@
         "indoor_seating": "yes",
         "name": "Adria",
         "opening_hours": "Mo-Fr 07:00-24:00; Sa 07:30-24:00",
-        "outdoor_seating": "yes",
+        "outdoor_seating": "sidewalk",
         "wheelchair": "no"
       }
     },
@@ -1439,9 +1441,11 @@
         "amenity": "restaurant",
         "cuisine": "asian;sushi",
         "diet:vegetarian": "yes",
+        "indoor_seating": "yes",
         "internet_access": "wlan",
         "name": "TaiWan Bento",
         "opening_hours": "Mo-Su 11:00-22:00",
+        "outdoor_seating": "sidewalk",
         "phone": "+420 542 210 503",
         "smoking": "no",
         "wheelchair": "limited"
@@ -1859,7 +1863,7 @@
         "internet_access": "wlan",
         "name": "Vale",
         "opening_hours": "Mo-Su 08:00-19:00",
-        "outdoor_seating": "yes",
+        "outdoor_seating": "sidewalk",
         "phone": "+420 542 212 752",
         "smoking": "no",
         "takeaway": "no",
@@ -1924,8 +1928,11 @@
         "addr:street": "Starobrněnská",
         "amenity": "fast_food",
         "diet:vegetarian": "yes",
+        "indoor_seating": "no",
         "name": "TrdloCafé",
         "opening_hours:signed": "no",
+        "outdoor_seating": "no",
+        "takeaway": "only",
         "wheelchair": "yes"
       }
     },
@@ -2365,9 +2372,10 @@
         "amenity": "restaurant",
         "cuisine": "italian",
         "diet:vegetarian": "yes",
+        "indoor_seating": "yes",
         "name": "TEFITI",
         "opening_hours": "Mo-Th 11:00-23:00, Fr 11:00-24:00, Sa 09:00-24:00, Su 09:00-20:00",
-        "outdoor_seating": "yes",
+        "outdoor_seating": "street",
         "phone": "+420 601 150 000",
         "smoking": "outside",
         "website": "http://www.tefiti.cz/",
@@ -2877,7 +2885,7 @@
         "indoor_seating": "yes",
         "name": "Jadro",
         "opening_hours": "Mo-Fr 10:00-20:00; Su 13:00-18:00",
-        "outdoor_seating": "yes",
+        "outdoor_seating": "sidewalk",
         "website": "https://www.jadrocafe.cz",
         "wheelchair": "no"
       }
