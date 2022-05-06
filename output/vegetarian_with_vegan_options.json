@@ -254,14 +254,17 @@
     {
       "type": "node",
       "id": 8418025213,
-      "lat": 49.1996561,
-      "lon": 16.6138001,
+      "lat": 49.1996186,
+      "lon": 16.613609,
       "tags": {
         "amenity": "restaurant",
+        "contact:facebook": "https://www.facebook.com/MAYADA.ghazal123/",
         "diet:vegan": "yes",
         "diet:vegetarian": "only",
-        "name": "Restaurace Mayada",
-        "opening_hours": "Mo-Fr 08:00-19:00",
+        "level": "1",
+        "mobile": "+420 774 635 137",
+        "name": "Mayada",
+        "opening_hours": "Mo-Fr 08:00-15:00",
         "payment:apple_pay": "yes",
         "payment:diners_club": "yes",
         "payment:jcb": "yes",
@@ -269,7 +272,9 @@
         "payment:mastercard": "yes",
         "payment:meal_voucher": "yes",
         "payment:visa": "yes",
-        "payment:visa_debit": "yes"
+        "payment:visa_debit": "yes",
+        "takeaway": "yes",
+        "wheelchair": "yes"
       }
     }
   ]

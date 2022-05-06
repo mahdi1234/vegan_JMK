@@ -251,9 +251,11 @@
         "brand:wikipedia": "en:McDonald's",
         "cuisine": "burger",
         "diet:vegetarian": "yes",
+        "indoor_seating": "yes",
         "internet_access": "wlan",
         "name": "McDonald's",
         "opening_hours": "Mo-Sa 06:00-23:00; Su 08:00-23:00",
+        "outdoor_seating": "no",
         "smoking": "no",
         "takeaway": "yes",
         "wheelchair": "yes"
@@ -650,8 +652,10 @@
         "amenity": "restaurant",
         "cuisine": "vietnamese",
         "diet:vegetarian": "yes",
+        "indoor_seating": "yes",
         "name": "Chilli Tree",
         "opening_hours:signed": "no",
+        "outdoor_seating": "parklet",
         "phone": "+420 608 626 666",
         "website": "http://www.chillitreevn.com",
         "wheelchair": "limited"
@@ -1100,6 +1104,7 @@
       "tags": {
         "amenity": "restaurant",
         "diet:vegetarian": "yes",
+        "level": "1",
         "name": "Spirála"
       }
     },
@@ -1915,8 +1920,11 @@
         "addr:street": "Masarykova",
         "amenity": "fast_food",
         "diet:vegetarian": "yes",
+        "indoor_seating": "no",
         "name": "Big Food Point",
         "opening_hours": "24/7",
+        "outdoor_seating": "no",
+        "takeaway": "only",
         "wheelchair": "limited"
       }
     },
@@ -2585,8 +2593,10 @@
         "addr:street": "Kapucínské náměstí",
         "amenity": "cafe",
         "diet:vegetarian": "yes",
+        "indoor_seating": "yes",
         "name": "Mada ice cream",
         "opening_hours": "Mo-Su 09:30-21:00",
+        "outdoor_seating": "sidewalk",
         "wheelchair": "no"
       }
     },
@@ -2786,8 +2796,10 @@
         "amenity": "fast_food",
         "cuisine": "mexican",
         "diet:vegetarian": "yes",
+        "indoor_seating": "yes",
         "name": "Taco Bonito",
         "opening_hours": "Mo-Fr 11:00-22:00; Sa,Su 11:00-20:00",
+        "outdoor_seating": "no",
         "wheelchair": "limited"
       }
     },
