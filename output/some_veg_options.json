@@ -342,10 +342,10 @@
         "addr:housenumber": "2",
         "addr:postcode": "60200",
         "addr:street": "Jakubské náměstí",
-        "amenity": "restaurant",
         "cuisine": "international",
         "delivery": "yes",
         "diet:vegetarian": "yes",
+        "disused:amenity": "restaurant",
         "internet_access": "wlan",
         "name": "St. Patrick Irish Pub",
         "opening_hours": "Mo-Th 11:00-24:00; Fr 11:00-02:00; Sa 12:00-02:00; Su 12:00-23:00",
@@ -2904,19 +2904,6 @@
         "outdoor_seating": "sidewalk",
         "website": "https://www.jadrocafe.cz",
         "wheelchair": "no"
-      }
-    },
-    {
-      "type": "node",
-      "id": 7982126357,
-      "lat": 49.1954891,
-      "lon": 16.6074541,
-      "tags": {
-        "amenity": "fast_food",
-        "diet:vegetarian": "yes",
-        "name": "deli BOX",
-        "opening_hours": "Mo-Su 11:00-21:00",
-        "wheelchair": "yes"
       }
     },
     {

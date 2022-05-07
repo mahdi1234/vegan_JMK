@@ -1,6 +1,6 @@
 {
   "version": 0.6,
-  "generator": "Overpass API 0.7.57 93a4d346",
+  "generator": "Overpass API 0.7.57.2 48842a1b",
   "osm3s": {
     "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
   },
@@ -74,7 +74,8 @@
     "payment:visa_electron": "yes",
     "phone": "+420 774 020 892",
     "shop": "convenience",
-    "website": "https://www.nasypsi.cz/"
+    "website": "https://www.nasypsi.cz/",
+    "wheelchair": "yes"
   }
 },
 {
