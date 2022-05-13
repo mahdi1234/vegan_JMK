@@ -11,6 +11,8 @@
         "addr:postcode": "60200",
         "addr:street": "Lužánecká",
         "amenity": "restaurant",
+        "check_date:opening_hours": "2022-05-12",
+        "diet:halal": "no",
         "diet:vegan": "yes",
         "diet:vegetarian": "only",
         "name": "Haribol",
