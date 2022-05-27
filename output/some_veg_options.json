@@ -283,33 +283,6 @@
     },
     {
       "type": "node",
-      "id": 613526571,
-      "lat": 49.2033888,
-      "lon": 16.5996509,
-      "tags": {
-        "addr:city": "Brno",
-        "addr:housenumber": "53",
-        "addr:postcode": "60200",
-        "addr:street": "Kounicova",
-        "amenity": "restaurant",
-        "contact:email": "info@lastrada-brno.cz",
-        "contact:phone": "+420 549 240005",
-        "contact:website": "https://lastrada-brno.cz",
-        "cuisine": "italian",
-        "diet:halal": "no",
-        "diet:kosher": "no",
-        "diet:vegan": "yes",
-        "diet:vegetarian": "yes",
-        "internet_access": "wlan",
-        "name": "La Strada",
-        "opening_hours": "Su-Th 11:00-23:00; Fr-Sa 11:00-00:00",
-        "smoking": "separated",
-        "source": "survey",
-        "wheelchair": "no"
-      }
-    },
-    {
-      "type": "node",
       "id": 636090240,
       "lat": 49.1947358,
       "lon": 16.607922,
