@@ -156,19 +156,6 @@
     },
     {
       "type": "node",
-      "id": 5116080503,
-      "lat": 49.1945175,
-      "lon": 16.613442,
-      "tags": {
-        "amenity": "cafe",
-        "diet:vegan": "only",
-        "name": "Vegan Food & Sweet Bar",
-        "opening_hours": "Mo-Fr 08:00-20:00; Sa 10:00-19:00",
-        "wheelchair": "yes"
-      }
-    },
-    {
-      "type": "node",
       "id": 6810240759,
       "lat": 49.1899719,
       "lon": 16.6138253,
