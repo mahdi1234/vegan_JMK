@@ -887,27 +887,6 @@
     },
     {
       "type": "node",
-      "id": 2287742311,
-      "lat": 49.1969203,
-      "lon": 16.6091793,
-      "tags": {
-        "addr:city": "Brno",
-        "addr:housenumber": "18",
-        "addr:postcode": "60200",
-        "addr:street": "Běhounská",
-        "cuisine": "grill",
-        "diet:vegetarian": "yes",
-        "disused:amenity": "restaurant",
-        "name": "La Bouchée",
-        "opening_hours": "Mo-Th 08:00-23:00, Fr-Sa 08:00-24:00, Su 10:00-22:00",
-        "outdoor_seating": "yes",
-        "smoking": "no",
-        "website": "https://www.labouchee.cz/",
-        "wheelchair": "limited"
-      }
-    },
-    {
-      "type": "node",
       "id": 2322362203,
       "lat": 49.1989646,
       "lon": 16.6000859,
