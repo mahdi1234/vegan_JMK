@@ -2931,6 +2931,22 @@
     },
     {
       "type": "node",
+      "id": 9159992217,
+      "lat": 49.169181,
+      "lon": 16.725314,
+      "tags": {
+        "amenity": "fast_food",
+        "diet:vegan": "no",
+        "diet:vegetarian": "yes",
+        "name": "Pizza & Kebab Atip",
+        "opening_hours": "Mo-Sa 09:00-21:00",
+        "payment:credit_cards": "yes",
+        "payment:debit_cards": "yes",
+        "wheelchair": "no"
+      }
+    },
+    {
+      "type": "node",
       "id": 9263674083,
       "lat": 49.2016466,
       "lon": 16.6015849,
