@@ -92,8 +92,8 @@
     {
       "type": "node",
       "id": 4590387590,
-      "lat": 49.1902379,
-      "lon": 16.6103628,
+      "lat": 49.1902681,
+      "lon": 16.6103574,
       "tags": {
         "amenity": "fast_food",
         "diet:vegetarian": "only",
