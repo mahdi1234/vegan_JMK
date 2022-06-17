@@ -2774,22 +2774,6 @@
     },
     {
       "type": "node",
-      "id": 7289524345,
-      "lat": 49.3598407,
-      "lon": 16.6421782,
-      "tags": {
-        "amenity": "restaurant",
-        "diet:vegan": "limited",
-        "diet:vegetarian": "yes",
-        "email": "jidelnauhoracku@gmail.com",
-        "name": "U Horáčků",
-        "opening_hours": "Mo-Fr 10:00-15:00",
-        "phone": "+420 +516 413 237",
-        "website": "https://jidelnauhoracku-cz.webnode.cz/"
-      }
-    },
-    {
-      "type": "node",
       "id": 7315111201,
       "lat": 49.2027056,
       "lon": 16.613825,
