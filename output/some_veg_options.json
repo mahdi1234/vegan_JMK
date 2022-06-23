@@ -1461,6 +1461,7 @@
         "diet:pescetarian": "yes",
         "diet:vegetarian": "yes",
         "name": "IKEA Restaurant",
+        "name:ru": "Ресторан ИКЕА",
         "opening_hours": "Mo-Su 08:30-20:00",
         "takeaway": "yes"
       }
@@ -1849,6 +1850,7 @@
         "check_date:opening_hours": "2020-09-21",
         "cuisine": "coffee_shop",
         "diet:vegetarian": "yes",
+        "drive_through": "yes",
         "indoor_seating": "yes",
         "internet_access": "wlan",
         "name": "Costa",
