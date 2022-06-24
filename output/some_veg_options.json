@@ -692,9 +692,11 @@
         "diet:vegan": "yes",
         "diet:vegetarian": "yes",
         "email": "info@siwaorient.cz",
+        "indoor_seating": "yes",
         "name": "SIWA Orient Grill",
         "opening_hours": "Mo-Fr 11:00-15:00,18:00-23:00; Sa 12:00-23:00",
         "operator": "orient",
+        "outdoor_seating": "sidewalk",
         "payment:maestro": "yes",
         "payment:mastercard": "yes",
         "payment:visa": "yes",
@@ -1363,8 +1365,10 @@
         "addr:street": "Česká",
         "amenity": "cafe",
         "diet:vegetarian": "yes",
+        "indoor_seating": "yes",
         "name": "Diana",
         "opening_hours": "Mo-Su 09:30-18:00",
+        "outdoor_seating": "no",
         "wheelchair": "limited"
       }
     },
@@ -2221,8 +2225,10 @@
         "amenity": "restaurant",
         "cuisine": "vietnamese",
         "diet:vegetarian": "yes",
+        "indoor_seating": "yes",
         "name": "Oh! Pho",
         "opening_hours": "Mo-Sa 11:00-22:00; Su 12:00-20:00",
+        "outdoor_seating": "sidewalk",
         "website": "http://www.ohphobrno.g6.cz/",
         "wheelchair": "no"
       }
