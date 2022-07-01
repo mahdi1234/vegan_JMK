@@ -908,6 +908,34 @@
     },
     {
       "type": "node",
+      "id": 2363346360,
+      "lat": 49.1912868,
+      "lon": 16.6113702,
+      "tags": {
+        "addr:city": "Brno",
+        "addr:housenumber": "39",
+        "addr:postcode": "60200",
+        "addr:street": "Masarykova",
+        "alt_name": "Kentucky Fried Chicken",
+        "amenity": "fast_food",
+        "brand": "KFC",
+        "brand:wikidata": "Q524757",
+        "brand:wikipedia": "en:KFC",
+        "cuisine": "chicken",
+        "diet:vegan": "yes",
+        "diet:vegetarian": "yes",
+        "indoor_seating": "yes",
+        "internet_access": "wlan",
+        "name": "KFC",
+        "opening_hours": "Sa,Su 08:00-23:00; Mo-Fr 07:00-23:00",
+        "operator": "KFC",
+        "outdoor_seating": "no",
+        "takeaway": "yes",
+        "wheelchair": "no"
+      }
+    },
+    {
+      "type": "node",
       "id": 2451609644,
       "lat": 49.1974499,
       "lon": 16.6058952,
@@ -1123,10 +1151,14 @@
       "lon": 16.6124445,
       "tags": {
         "amenity": "fast_food",
+        "diet:vegan": "yes",
         "diet:vegetarian": "yes",
+        "indoor_seating": "no",
         "level": "0",
         "name": "Bamboo",
         "opening_hours": "Mo-Su 07:00-24:00",
+        "outdoor_seating": "no",
+        "takeaway": "only",
         "wheelchair": "yes"
       }
     },
@@ -1429,8 +1461,11 @@
         "amenity": "fast_food",
         "cuisine": "kebab",
         "diet:vegetarian": "yes",
+        "indoor_seating": "no",
         "name": "Turecký kebap",
         "opening_hours": "Mo,Tu 09:00-01:00, We 09:00-04:00, Th 09:00-01:00, Fr,Sa 09:00-04:00, Su 01:00-24:00",
+        "outdoor_seating": "no",
+        "takeaway": "only",
         "wheelchair": "yes"
       }
     },
@@ -1764,10 +1799,11 @@
         "addr:street": "Minoritská",
         "amenity": "cafe",
         "diet:vegetarian": "yes",
+        "indoor_seating": "yes",
         "internet_access": "wlan",
         "name": "Café Placzek",
         "opening_hours": "Mo-Su 08:00-20:00",
-        "outdoor_seating": "yes",
+        "outdoor_seating": "pedestrian_zone",
         "phone": "+420 602 205 555",
         "smoking": "no",
         "website": "http://www.cafeplaczek.cz/",
@@ -2174,10 +2210,12 @@
         "brand:wikipedia": "en:Starbucks",
         "cuisine": "coffee_shop",
         "diet:vegetarian": "yes",
+        "indoor_seating": "yes",
         "internet_access": "wlan",
         "name": "Starbucks",
         "official_name": "Starbucks Coffee",
         "opening_hours": "Mo-Fr 07:00-22:00; Sa,Su 08:00-22:00",
+        "outdoor_seating": "pedestrian_zone",
         "phone": "+420 727 946 501",
         "takeaway": "yes",
         "website": "http://www.starbuckscoffee.cz/",
@@ -2247,9 +2285,11 @@
         "cuisine": "thai",
         "diet:vegan": "yes",
         "diet:vegetarian": "yes",
+        "indoor_seating": "yes",
         "internet_access": "wlan",
         "name": "Singha",
         "opening_hours": "Mo-Sa 11:00-20:00",
+        "outdoor_seating": "yes",
         "smoking": "no",
         "wheelchair": "yes"
       }
@@ -2391,25 +2431,6 @@
         "opening_hours": "Mo-Su 08:00-00:00",
         "outdoor_seating": "yes",
         "phone": "+420 603 974 496"
-      }
-    },
-    {
-      "type": "node",
-      "id": 4713992742,
-      "lat": 49.1918565,
-      "lon": 16.6123858,
-      "tags": {
-        "amenity": "fast_food",
-        "branch": "Freshbar",
-        "brand": "UGO",
-        "brand:wikidata": "Q108126892",
-        "cuisine": "juice",
-        "diet:vegetarian": "yes",
-        "level": "1",
-        "name": "UGO",
-        "opening_hours": "Mo-Fr 07:30-20:00; Sa 09:00-18:00; Su 10:00-18:00",
-        "takeaway": "yes",
-        "wheelchair": "yes"
       }
     },
     {
@@ -2676,8 +2697,10 @@
         "amenity": "cafe",
         "check_date:opening_hours": "2021-08-12",
         "diet:vegetarian": "yes",
+        "indoor_seating": "yes",
         "name": "Le Bon caffe",
         "opening_hours": "Mo-Sa 08:00-21:00; Su 09:00-20:00",
+        "outdoor_seating": "pedestrian_zone",
         "payment:american_express": "yes",
         "payment:diners_club": "yes",
         "payment:discover_card": "yes",
@@ -2723,8 +2746,10 @@
         "amenity": "restaurant",
         "cuisine": "regional",
         "diet:vegetarian": "yes",
+        "indoor_seating": "yes",
         "name": "U Mamlasů",
         "opening_hours": "Mo-Sa 11:00-01:00; Su 11:00-23:00",
+        "outdoor_seating": "pedestrian_zone",
         "wheelchair": "yes"
       }
     },
