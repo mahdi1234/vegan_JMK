@@ -1419,6 +1419,7 @@
         "amenity": "restaurant",
         "cuisine": "indian;nepalese",
         "diet:vegetarian": "yes",
+        "indoor_seating": "yes",
         "name": "The Himalaya",
         "opening_hours": "Mo-Fr 11:00-22:00; Sa 12:00-22:00",
         "outdoor_seating": "no",
