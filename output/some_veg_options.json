@@ -73,33 +73,6 @@
       }
     },
     {
-      "type": "way",
-      "id": 161463690,
-      "center": {
-        "lat": 49.1901899,
-        "lon": 16.6131305
-      },
-      "nodes": [
-        1734286808,
-        1734286811,
-        1734286809,
-        1734286805,
-        1734286808
-      ],
-      "tags": {
-        "amenity": "fast_food",
-        "building": "civic",
-        "building:levels": "1",
-        "building:ruian:type": "15",
-        "cuisine": "chicken",
-        "diet:vegetarian": "yes",
-        "name": "Grilovaná kuřata",
-        "ref:ruian:building": "41253108",
-        "roof:shape": "flat",
-        "source": "cuzk:ruian"
-      }
-    },
-    {
       "type": "node",
       "id": 296608120,
       "lat": 49.1969623,
