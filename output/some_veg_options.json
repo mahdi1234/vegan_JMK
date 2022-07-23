@@ -1041,8 +1041,10 @@
         "amenity": "fast_food",
         "diet:vegan": "yes",
         "diet:vegetarian": "yes",
+        "indoor_seating": "yes",
         "name": "Pizzerie U Montyho",
         "opening_hours:signed": "no",
+        "outdoor_seating": "no",
         "phone": "+420 736 621 591",
         "website": "http://www.pizzerieumontyho.cz/",
         "wheelchair": "no"
