@@ -196,6 +196,7 @@
         "addr:street": "Hrnčířská",
         "amenity": "restaurant",
         "capacity": "130",
+        "check_date:opening_hours": "2022-07-20",
         "cuisine": "italian;pasta;pizza",
         "diet:vegan": "yes",
         "diet:vegetarian": "yes",
