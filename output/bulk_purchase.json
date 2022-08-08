@@ -152,14 +152,14 @@
 {
   "type": "node",
   "id": 5935167079,
-  "lat": 49.1775549,
-  "lon": 16.5668389,
+  "lat": 49.1776173,
+  "lon": 16.5668383,
   "tags": {
     "bulk_purchase": "yes",
     "check_date:opening_hours": "2022-01-20",
     "email": "info@jen-zdrave.cz",
     "fair_trade": "yes",
-    "level": "1",
+    "level": "0",
     "name": "Jen zdravě",
     "opening_hours": "Mo-Fr 08:00-20:00; Sa,Su 09:00-20:00",
     "organic": "only",
