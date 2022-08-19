@@ -106,8 +106,10 @@
         "addr:street": "Sukova",
         "amenity": "bar",
         "diet:vegan": "only",
+        "level": "0",
         "name": "Kabinet Múz",
-        "opening_hours": "Mo-Su 11:00-03:00",
+        "opening_hours": "Mo-Fr 11:00-22:00; Sa 12:00-22:00",
+        "toilets": "yes",
         "website": "https://www.kabinetmuz.cz/",
         "wheelchair": "no"
       }
