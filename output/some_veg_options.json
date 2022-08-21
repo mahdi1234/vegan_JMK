@@ -2383,16 +2383,21 @@
         "addr:postcode": "60200",
         "addr:street": "Zelný trh",
         "amenity": "restaurant",
-        "cuisine": "italian",
+        "cuisine": "regional",
         "diet:vegetarian": "yes",
         "indoor_seating": "yes",
-        "name": "TEFITI",
-        "opening_hours": "Mo-Th 11:00-23:00, Fr 11:00-24:00, Sa 09:00-24:00, Su 09:00-20:00",
-        "outdoor_seating": "street",
-        "phone": "+420 601 150 000",
+        "level": "0",
+        "microbrewery": "yes",
+        "name": "Efi pivovar",
+        "opening_hours": "Mo-Fr 11:00-24:00, Sa-Su 10:00-24:00",
+        "operator": "EFI Hostinec",
+        "outdoor_seating": "yes",
+        "phone": "+420 061150000",
         "smoking": "outside",
-        "website": "http://www.tefiti.cz/",
-        "wheelchair": "limited"
+        "toilets": "yes",
+        "toilets:access": "yes",
+        "toilets:wheelchair": "limited",
+        "wheelchair": "yes"
       }
     },
     {
