@@ -216,21 +216,6 @@
 },
 {
   "type": "node",
-  "id": 8097341207,
-  "lat": 49.2016206,
-  "lon": 16.5941013,
-  "tags": {
-    "addr:housenumber": "28/21",
-    "addr:place": "Veveří",
-    "addr:postcode": "60200",
-    "addr:street": "Čápkova",
-    "addr:streetnumber": "21",
-    "bulk_purchase": "yes",
-    "disused:shop": "yes"
-  }
-},
-{
-  "type": "node",
   "id": 8174560735,
   "lat": 49.2106451,
   "lon": 16.6006150,

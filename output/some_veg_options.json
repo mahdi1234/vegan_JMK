@@ -1270,6 +1270,7 @@
         "addr:postcode": "61600",
         "addr:street": "Minská",
         "amenity": "cafe",
+        "check_date:opening_hours": "2022-09-12",
         "diet:vegetarian": "yes",
         "name": "Cukrářství Bukovský",
         "opening_hours": "Mo-Su 09:00-20:00",
