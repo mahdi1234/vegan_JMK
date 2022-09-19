@@ -306,6 +306,22 @@
     },
     {
       "type": "node",
+      "id": 1168857294,
+      "lat": 49.1694001,
+      "lon": 16.7268835,
+      "tags": {
+        "amenity": "cafe",
+        "cuisine": "ice_cream",
+        "diet:vegetarian": "yes",
+        "internet_access": "no",
+        "internet_access:fee": "no",
+        "name": "Cukrárna",
+        "opening_hours": "Mo-Su 09:00-18:00",
+        "smoking": "no"
+      }
+    },
+    {
+      "type": "node",
       "id": 1371469303,
       "lat": 49.2061208,
       "lon": 16.6025452,
