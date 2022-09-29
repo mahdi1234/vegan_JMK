@@ -1512,6 +1512,8 @@
         "cuisine": "swedish",
         "diet:pescetarian": "yes",
         "diet:vegetarian": "yes",
+        "kids_area": "yes",
+        "kids_area:indoor": "yes",
         "name": "IKEA Restaurant",
         "name:ru": "Ресторан ИКЕА",
         "opening_hours": "Mo-Su 08:30-20:00",
