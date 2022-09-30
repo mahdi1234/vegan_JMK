@@ -2902,12 +2902,15 @@
       "lat": 49.1907374,
       "lon": 16.612676,
       "tags": {
+        "alt_name": "Oříšek",
         "amenity": "fast_food",
         "diet:vegetarian": "yes",
         "indoor_seating": "no",
         "name": "Ráj oříšků",
         "opening_hours": "Mo-Fr 08:00-20:00; Sa,Su 08:00-18:00",
         "outdoor_seating": "no",
+        "payment:credit_cards": "yes",
+        "payment:debit_cards": "yes",
         "takeaway": "only",
         "wheelchair": "yes"
       }
