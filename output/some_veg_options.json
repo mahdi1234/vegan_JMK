@@ -846,7 +846,6 @@
         "diet:vegetarian": "yes",
         "name": "Subway",
         "opening_hours": "Mo-Fr 08:00-22:00; Sa,Su 09:00-22:00",
-        "payment:bitcoin": "yes",
         "payment:litecoin": "yes",
         "smoking": "no",
         "takeaway": "yes",
