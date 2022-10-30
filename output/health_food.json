@@ -374,6 +374,23 @@
   }
 },
 {
+  "type": "node",
+  "id": 10137947813,
+  "lat": 49.2049766,
+  "lon": 16.6198702,
+  "tags": {
+    "name": "Sellka",
+    "opening_hours": "Mo-Fr 09:00-12:00,12:30-18:00; Sa 09:00-12:00",
+    "payment:contactless": "yes",
+    "payment:maestro": "yes",
+    "payment:mastercard": "yes",
+    "payment:visa": "yes",
+    "payment:visa_debit": "yes",
+    "payment:visa_electron": "yes",
+    "shop": "health_food"
+  }
+},
+{
   "type": "way",
   "id": 253974427,
   "nodes": [
