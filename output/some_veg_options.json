@@ -1091,18 +1091,6 @@
     },
     {
       "type": "node",
-      "id": 3028521167,
-      "lat": 49.1995026,
-      "lon": 16.6136149,
-      "tags": {
-        "amenity": "restaurant",
-        "diet:vegetarian": "yes",
-        "level": "1",
-        "name": "Spirála"
-      }
-    },
-    {
-      "type": "node",
       "id": 3098348684,
       "lat": 49.1998261,
       "lon": 16.5966001,
