@@ -108,6 +108,21 @@
         "takeaway": "only",
         "wheelchair": "yes"
       }
+    },
+    {
+      "type": "node",
+      "id": 10231314684,
+      "lat": 49.1994983,
+      "lon": 16.6136485,
+      "tags": {
+        "amenity": "restaurant",
+        "diet:vegetarian": "only",
+        "level": "0",
+        "name": "spirála",
+        "opening_hours": "Mo-Fr 09:00-14:00",
+        "outdoor_seating": "yes",
+        "wheelchair": "yes"
+      }
     }
   ]
 }
