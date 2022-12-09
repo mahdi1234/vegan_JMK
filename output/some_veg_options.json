@@ -2804,11 +2804,11 @@
         "addr:postcode": "61600",
         "addr:street": "Horova",
         "amenity": "restaurant",
+        "contact:facebook": "https://www.facebook.com/profile.php?id=100052407085921",
         "cuisine": "vietnamese;sushi",
         "diet:vegetarian": "yes",
         "name": "Táo Viet Nam Home Cooking & Sushi Bar",
         "opening_hours": "Mo-Fr 11:00-22:00; Sa-Su 12:00-22:00",
-        "website": "https://www.facebook.com/T%C3%A1o-Viet-Nam-Home-Cooking-Sushi-Bar-1857934510936812/",
         "wheelchair": "limited"
       }
     },
