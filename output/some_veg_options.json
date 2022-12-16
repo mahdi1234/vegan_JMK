@@ -2126,6 +2126,7 @@
         "addr:postcode": "60200",
         "addr:street": "Pekařská",
         "amenity": "fast_food",
+        "check_date:opening_hours": "2022-12-13",
         "cuisine": "italian_pizza",
         "diet:vegetarian": "yes",
         "name": "Fresh Pasta",
