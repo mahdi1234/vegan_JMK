@@ -20,9 +20,12 @@
       "lat": 49.1972704,
       "lon": 16.6051337,
       "tags": {
+        "addr:city": "Brno",
+        "addr:housenumber": "31",
+        "addr:postcode": "602 00",
+        "addr:street": "Česká",
         "amenity": "fast_food",
         "diet:vegan": "only",
-        "diet:vegetarian": "yes",
         "name": "Fryends",
         "opening_hours": "Mo-Sa 11:00-20:00; Fr 11:00-24:00",
         "wheelchair": "yes"
