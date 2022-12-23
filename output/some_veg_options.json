@@ -331,6 +331,7 @@
         "addr:postcode": "60200",
         "addr:street": "Bayerova",
         "amenity": "restaurant",
+        "contact:facebook": "https://www.facebook.com/restauracehoamai",
         "cuisine": "vietnamese",
         "diet:vegetarian": "yes",
         "internet_access": "wlan",
@@ -339,7 +340,6 @@
         "outdoor_seating": "yes",
         "phone": "+420 530 346 490",
         "smoking": "no",
-        "website": "http://www.facebook.com/hoamaibrno/",
         "wheelchair": "yes"
       }
     },
