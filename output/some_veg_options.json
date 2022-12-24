@@ -1726,6 +1726,7 @@
         "addr:postcode": "60200",
         "addr:street": "Štefánikova",
         "amenity": "restaurant",
+        "check_date:opening_hours": "2022-12-23",
         "cuisine": "indian",
         "diet:vegetarian": "yes",
         "name": "Light of India",
