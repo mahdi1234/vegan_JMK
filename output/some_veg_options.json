@@ -3029,6 +3029,7 @@
       "lon": 16.881796,
       "tags": {
         "amenity": "fast_food",
+        "contact:email": "info@ilmondo.cz",
         "cuisine": "burger;pizza",
         "delivery": "yes",
         "diet:vegetarian": "yes",
@@ -3043,7 +3044,6 @@
         "payment:visa": "yes",
         "payment:visa_debit": "yes",
         "payment:visa_electron": "yes",
-        "phone": "info@ilmondo.cz",
         "takeaway": "yes",
         "website": "https://ilmondo.cz/rousinov/"
       }
