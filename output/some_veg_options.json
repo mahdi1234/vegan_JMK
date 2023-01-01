@@ -653,6 +653,7 @@
       "tags": {
         "amenity": "fast_food",
         "check_date:opening_hours": "2021-08-30",
+        "contact:facebook": "https://www.facebook.com/KebapBrno",
         "cuisine": "kebab",
         "diet:vegetarian": "yes",
         "email": "bestkebapp@gmail.com",
@@ -666,7 +667,6 @@
         "payment:visa_debit": "yes",
         "payment:visa_electron": "yes",
         "phone": "+420 608 555 494",
-        "website": "https://www.facebook.com/KebapBrno",
         "wheelchair": "no"
       }
     },
