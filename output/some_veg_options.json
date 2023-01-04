@@ -281,31 +281,6 @@
     },
     {
       "type": "node",
-      "id": 670215923,
-      "lat": 49.1962455,
-      "lon": 16.6081614,
-      "tags": {
-        "addr:city": "Brno",
-        "addr:housenumber": "2",
-        "addr:postcode": "60200",
-        "addr:street": "Jakubské náměstí",
-        "cuisine": "international",
-        "delivery": "yes",
-        "diet:vegetarian": "yes",
-        "disused:amenity": "restaurant",
-        "internet_access": "wlan",
-        "name": "St. Patrick Irish Pub",
-        "opening_hours": "Mo-Th 11:00-24:00; Fr 11:00-02:00; Sa 12:00-02:00; Su 12:00-23:00",
-        "outdoor_seating": "yes",
-        "phone": "+420731815744",
-        "smoking": "isolated",
-        "takeaway": "yes",
-        "website": "http://saintpatrickpub.cz/",
-        "wheelchair": "limited"
-      }
-    },
-    {
-      "type": "node",
       "id": 1168857294,
       "lat": 49.1694001,
       "lon": 16.7268835,
