@@ -2289,12 +2289,17 @@
       "lon": 16.6081105,
       "tags": {
         "amenity": "fast_food",
+        "check_date": "2023-01-08",
         "cuisine": "salad",
         "diet:vegetarian": "yes",
+        "drive_through": "no",
         "indoor_seating": "yes",
         "name": "Ugova salaterie",
         "opening_hours": "Mo-Fr 08:00-18:00; Sa,Su 10:00-18:00",
         "outdoor_seating": "no",
+        "payment:cards": "yes",
+        "payment:contactless": "yes",
+        "takeaway": "yes",
         "website": "http://www.ugo.cz/",
         "wheelchair": "limited"
       }

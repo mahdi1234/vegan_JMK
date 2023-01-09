@@ -144,13 +144,14 @@
         "addr:postcode": "60200",
         "addr:street": "Mečová",
         "amenity": "restaurant",
+        "cuisine": "vegan;vegetarian",
         "diet:vegan": "yes",
         "diet:vegetarian": "only",
         "kids_area": "yes",
         "kids_area:indoor": "yes",
         "level": "1",
         "name": "Rebio",
-        "opening_hours": "Mo-Fr 09:00-21:00; Sa 11:00-21:00; Su 11:00-20:00",
+        "opening_hours": "Mo-Fr 10:30-21:00; Sa 11:00-21:00; Su 11:00-18:00",
         "smoking": "no",
         "website": "http://www.rebio.cz/"
       }
