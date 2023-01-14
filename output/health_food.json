@@ -98,6 +98,20 @@
 },
 {
   "type": "node",
+  "id": 3719886343,
+  "lat": 49.1890917,
+  "lon": 16.5941707,
+  "tags": {
+    "addr:city": "Brno",
+    "addr:housenumber": "8a",
+    "addr:postcode": "60300",
+    "addr:street": "Křížová",
+    "name": "Zdravá výživa",
+    "shop": "health_food"
+  }
+},
+{
+  "type": "node",
   "id": 5387382568,
   "lat": 49.1948160,
   "lon": 16.6094720,
