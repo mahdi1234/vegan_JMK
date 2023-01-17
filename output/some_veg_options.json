@@ -2507,6 +2507,7 @@
         "addr:postcode": "60200",
         "addr:street": "Bratislavská",
         "amenity": "cafe",
+        "contact:facebook": "https://www.facebook.com/cafeintheghetto/",
         "description": "jsme polyfunkční prostor alternativnějšího typu. jsme kavárna, bar, galerie, dílna, obchod",
         "diet:vegan": "yes",
         "diet:vegetarian": "yes",
@@ -2516,8 +2517,7 @@
         "name": "Café In The Ghetto",
         "opening_hours": "Mo-Sa 16:00-22:22; Sa 18:00-22:22",
         "phone": "+420 725 965 570",
-        "smoking": "outside",
-        "website": "https://www.facebook.com/pg/cafeintheghetto"
+        "smoking": "outside"
       }
     },
     {
