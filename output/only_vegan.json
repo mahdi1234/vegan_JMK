@@ -2,33 +2,18 @@
   "elements": [
     {
       "type": "node",
-      "id": 1193245476,
-      "lat": 49.2067729,
-      "lon": 16.7191787,
-      "tags": {
-        "amenity": "restaurant",
-        "diet:vegan": "only",
-        "name": "Pilgrim",
-        "opening_hours": "We,Fr 12:00-20:00; Sa 11:00-21:00; Su 11:00-19:00",
-        "outdoor_seating": "yes",
-        "payment:cash": "yes"
-      }
-    },
-    {
-      "type": "node",
-      "id": 1528351547,
-      "lat": 49.1972704,
-      "lon": 16.6051337,
+      "id": 1528351545,
+      "lat": 49.1971969,
+      "lon": 16.6051919,
       "tags": {
         "addr:city": "Brno",
         "addr:housenumber": "31",
-        "addr:postcode": "602 00",
+        "addr:postcode": "60200",
         "addr:street": "Česká",
-        "amenity": "fast_food",
+        "amenity": "restaurant",
         "diet:vegan": "only",
         "name": "Fryends",
-        "opening_hours": "Mo-Sa 11:00-20:00; Fr 11:00-24:00",
-        "wheelchair": "yes"
+        "wheelchair": "no"
       }
     },
     {
@@ -78,24 +63,6 @@
         "takeaway": "yes",
         "website": "http://pilgrims.cz",
         "wheelchair": "no"
-      }
-    },
-    {
-      "type": "node",
-      "id": 3098329532,
-      "lat": 49.1989831,
-      "lon": 16.593014,
-      "tags": {
-        "addr:city": "Brno",
-        "addr:housenumber": "83/39",
-        "addr:postcode": "60200",
-        "addr:street": "Gorkého",
-        "diet:vegan": "only",
-        "name": "Tři ocásci",
-        "opening_hours": "Mo-Fr 09:00-20:00; Sa-Su 10:00-20:00",
-        "payment:coins": "yes",
-        "payment:notes": "yes",
-        "shop": "pastry"
       }
     },
     {
