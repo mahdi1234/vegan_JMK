@@ -195,6 +195,22 @@
 },
 {
   "type": "node",
+  "id": 7101257214,
+  "lat": 49.2023533,
+  "lon": 16.6079867,
+  "tags": {
+    "bulk_purchase": "yes",
+    "email": "obchod@zzbrno.cz",
+    "name": "Zdravý život",
+    "opening_hours": "Mo-Fr 08:00-18:00; Sa 09:00-12:00",
+    "phone": "+420 549 240 056",
+    "shop": "health_food",
+    "website": "http://www.zzbrno.cz/prodejna/prodejna.html",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
   "id": 8097341206,
   "lat": 49.2005181,
   "lon": 16.6127629,

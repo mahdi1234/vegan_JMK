@@ -1472,29 +1472,6 @@
     },
     {
       "type": "node",
-      "id": 3188485943,
-      "lat": 49.2023666,
-      "lon": 16.6080301,
-      "tags": {
-        "addr:city": "Brno",
-        "addr:housenumber": "26",
-        "addr:postcode": "60200",
-        "addr:street": "Lidická",
-        "amenity": "restaurant",
-        "diet:vegetarian": "yes",
-        "name": "Golden Nepal",
-        "opening_hours": "Mo-Th 10:00-22:00; Fr 10:00-23:00; Sa,Su 11:00-22:00",
-        "payment:maestro": "yes",
-        "payment:mastercard": "yes",
-        "payment:visa": "yes",
-        "payment:visa_debit": "yes",
-        "payment:visa_electron": "yes",
-        "phone": "+420 720 940 504",
-        "wheelchair": "yes"
-      }
-    },
-    {
-      "type": "node",
       "id": 3191329839,
       "lat": 49.1970322,
       "lon": 16.6061301,

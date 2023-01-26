@@ -198,6 +198,7 @@
   "lat": 49.2023533,
   "lon": 16.6079867,
   "tags": {
+    "bulk_purchase": "yes",
     "email": "obchod@zzbrno.cz",
     "name": "Zdravý život",
     "opening_hours": "Mo-Fr 08:00-18:00; Sa 09:00-12:00",
