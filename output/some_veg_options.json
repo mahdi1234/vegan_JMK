@@ -914,11 +914,13 @@
         "addr:postcode": "60200",
         "addr:street": "Kopečná",
         "amenity": "cafe",
+        "check_date": "2023-01-28",
         "diet:vegetarian": "yes",
         "internet_access": "wlan",
         "name": "Flexaret",
         "opening_hours": "Mo-Su 13:00-23:30",
         "outdoor_seating": "yes",
+        "payment:cards": "no",
         "phone": "+420 530 341 628",
         "smoking": "no",
         "wheelchair": "no"
