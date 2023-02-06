@@ -1421,12 +1421,15 @@
       "lon": 16.6095819,
       "tags": {
         "amenity": "cafe",
+        "check_date": "2023-02-05",
         "check_date:opening_hours": "2020-12-14",
         "diet:vegetarian": "yes",
         "internet_access": "wlan",
         "name": "Cosmopolis Café",
         "opening_hours": "Mo-Su 08:00-23:00",
         "outdoor_seating": "yes",
+        "payment:cards": "yes",
+        "payment:contactless": "yes",
         "phone": "+420 542 106 080",
         "wheelchair": "yes"
       }

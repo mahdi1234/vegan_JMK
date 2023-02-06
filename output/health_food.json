@@ -401,7 +401,7 @@
   "lon": 16.6198702,
   "tags": {
     "name": "Sellka",
-    "opening_hours": "Mo-Fr 09:00-12:00,12:30-18:00; Sa 09:00-12:00",
+    "opening_hours": "Mo-Fr 09:00-12:00,12:30-18:00",
     "payment:contactless": "yes",
     "payment:maestro": "yes",
     "payment:mastercard": "yes",
