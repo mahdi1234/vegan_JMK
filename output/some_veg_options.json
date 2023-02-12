@@ -2941,10 +2941,10 @@
       "tags": {
         "amenity": "fast_food",
         "contact:email": "info@ilmondo.cz",
+        "contact:mobile": "+420 777 585 686",
         "cuisine": "burger;pizza",
         "delivery": "yes",
         "diet:vegetarian": "yes",
-        "mobile": "+420 777 585 686",
         "name": "Il mondo",
         "opening_hours": "Mo-Su 11:00-21:45",
         "payment:american_express": "yes",
