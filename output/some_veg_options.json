@@ -1139,12 +1139,14 @@
         "addr:street": "Svatopluka Čecha",
         "amenity": "restaurant",
         "check_date:opening_hours": "2022-06-08",
+        "contact:facebook": "100086457531132",
         "cuisine": "curry;indian",
         "diet:vegetarian": "yes",
-        "name": "Taste of India",
+        "email": "royalnepalbrno2022@gmail.com",
+        "name": "Royal Nepal",
         "opening_hours": "Mo-Su 11:00-22:00",
-        "phone": "+420792223009",
-        "website": "https://www.taste-of-india.cz/",
+        "phone": "+420 773 782 075",
+        "website": "https://www.royalnepal.cz/",
         "wheelchair": "no"
       }
     },
