@@ -1,15 +1,493 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN"
-    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
-<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
-<head>
-  <meta http-equiv="content-type" content="text/html; charset=utf-8" lang="en"/>
-  <title>OSM3S Response</title>
-</head>
-<body>
+{
+  "version": 0.6,
+  "osm3s": {
+    "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
+  },
+  "elements": [
 
-<p>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</p>
-<p><strong style="color:#FF0000">Error</strong>: runtime error: The dispatcher (i.e. the database management system) is turned off. </p>
+{
+  "type": "node",
+  "id": 663040775,
+  "lat": 49.1698728,
+  "lon": 16.5811264,
+  "tags": {
+    "addr:city": "Brno",
+    "addr:housenumber": "577/3",
+    "addr:postcode": "625 00",
+    "addr:street": "Dlouhá",
+    "bulk_purchase": "yes",
+    "check_date:opening_hours": "2022-11-09",
+    "name": "Zvaž to - bezobalový obchod",
+    "opening_hours": "Mo-Fr 12:00-18:00; Sa 10:00-14:00",
+    "operator": "Zvaž to",
+    "payment:cash": "yes",
+    "payment:coins": "yes",
+    "payment:credit_cards": "yes",
+    "payment:debit_cards": "yes",
+    "phone": "731 904 806",
+    "shop": "health_food",
+    "website": "https://www.bezobalovyobchod.cz/",
+    "zero_waste": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 2816695807,
+  "lat": 49.1998287,
+  "lon": 16.5933769,
+  "tags": {
+    "addr:city": "Brno",
+    "addr:housenumber": "84",
+    "addr:postcode": "60200",
+    "addr:street": "Úvoz",
+    "bulk_purchase": "yes",
+    "check_date:opening_hours": "2021-11-30",
+    "email": "nasypsi@gmail.com",
+    "name": "Nasyp si",
+    "opening_hours": "Mo-Fr 09:00-12:00,12:30-19:00; Sa 09:00-14:00",
+    "organic": "yes",
+    "payment:diners_club": "yes",
+    "payment:discover_card": "yes",
+    "payment:jcb": "yes",
+    "payment:maestro": "yes",
+    "payment:mastercard": "yes",
+    "payment:visa": "yes",
+    "payment:visa_debit": "yes",
+    "payment:visa_electron": "yes",
+    "phone": "+420 774 020 892",
+    "shop": "convenience",
+    "website": "https://www.nasypsi.cz/",
+    "wheelchair": "yes",
+    "zero_waste": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 3157685884,
+  "lat": 49.2009167,
+  "lon": 16.6005528,
+  "tags": {
+    "addr:city": "Brno",
+    "addr:housenumber": "1",
+    "addr:postcode": "60200",
+    "addr:street": "Smetanova",
+    "bulk_purchase": "yes",
+    "name": "Bezobalový obchod NOsáček",
+    "opening_hours": "Mo-Fr 09:00-19:00; Sa 10:00-12:00,14:00-16:00",
+    "organic": "yes",
+    "phone": "+ 420 776 166 926",
+    "shop": "convenience",
+    "website": "https://www.facebook.com/NOsacek/",
+    "zero_waste": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 3462485661,
+  "lat": 49.1937796,
+  "lon": 16.6117027,
+  "tags": {
+    "addr:city": "Brno",
+    "addr:housenumber": "17",
+    "addr:postcode": "60200",
+    "addr:street": "Orlí",
+    "bulk_purchase": "yes",
+    "check_date": "2023-01-26",
+    "name": "Brána ke zdraví",
+    "opening_hours": "Mo-Fr 07:30-18:00",
+    "payment:cards": "yes",
+    "payment:contactless": "yes",
+    "phone": "+420 725 065 899",
+    "shop": "health_food",
+    "website": "http://www.branakezdravi.cz/",
+    "wheelchair": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 4597934387,
+  "lat": 49.2027772,
+  "lon": 16.6587241,
+  "tags": {
+    "addr:city": "Brno",
+    "addr:postcode": "62800",
+    "addr:street": "Bořetická",
+    "bulk_purchase": "yes",
+    "name": "Vážím si - Bezobalový obchůdek Brno Vinohrady",
+    "opening_hours": "Mo-Th 09:00-12:00,14:00-17:30",
+    "shop": "convenience",
+    "zero_waste": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 4822475799,
+  "lat": 49.2040942,
+  "lon": 16.6043214,
+  "tags": {
+    "addr:city": "Brno",
+    "addr:housenumber": "17b",
+    "addr:postcode": "60200",
+    "addr:street": "Cihlářská",
+    "bulk_purchase": "yes",
+    "name": "Čočkův BioJarmark",
+    "opening_hours": "Mo-Fr 15:00-19:00",
+    "organic": "only",
+    "shop": "convenience",
+    "website": "http://cockuvbiojarmark.org/"
+  }
+},
+{
+  "type": "node",
+  "id": 5935167079,
+  "lat": 49.1776173,
+  "lon": 16.5668383,
+  "tags": {
+    "bulk_purchase": "yes",
+    "check_date:opening_hours": "2022-01-20",
+    "email": "info@jen-zdrave.cz",
+    "fair_trade": "yes",
+    "level": "0",
+    "name": "Jen zdravě",
+    "opening_hours": "Mo-Fr 08:00-20:00; Sa,Su 09:00-20:00",
+    "organic": "only",
+    "phone": "+420 777 805 527",
+    "shop": "convenience",
+    "website": "http://www.jen-zdrave.cz/"
+  }
+},
+{
+  "type": "node",
+  "id": 6002853750,
+  "lat": 49.2250712,
+  "lon": 16.6263395,
+  "tags": {
+    "addr:city": "Brno",
+    "addr:housenumber": "4",
+    "addr:postcode": "63800",
+    "addr:street": "Nezvalova",
+    "bulk_purchase": "yes",
+    "email": "info@bezobalovyobchod.cz",
+    "name": "Zvaž to - bezobalový obchod",
+    "opening_hours": "Mo-Fr 10:00-13:00,14:00-18:00",
+    "phone": "+420 721354084",
+    "shop": "convenience",
+    "website": "https://www.bezobalovyobchod.cz/",
+    "wheelchair": "no",
+    "zero_waste": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 7101257214,
+  "lat": 49.2023533,
+  "lon": 16.6079867,
+  "tags": {
+    "bulk_purchase": "yes",
+    "email": "obchod@zzbrno.cz",
+    "name": "Zdravý život",
+    "opening_hours": "Mo-Fr 08:00-18:00; Sa 09:00-12:00",
+    "phone": "+420 549 240 056",
+    "shop": "health_food",
+    "website": "http://www.zzbrno.cz/prodejna/prodejna.html",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 8097341206,
+  "lat": 49.2005181,
+  "lon": 16.6127629,
+  "tags": {
+    "addr:conscriptionnumber": "329",
+    "addr:housenumber": "329/24",
+    "addr:postcode": "60200",
+    "addr:street": "Milady Horákové",
+    "addr:streetnumber": "24",
+    "bulk_purchase": "yes",
+    "name": "Bezobalový obchod NOsáček",
+    "opening_hours": "Mo-Fr 09:00-19:00; Tu,Th 11:00-19:00; Sa 10:00-12:00,14:14-16:00",
+    "organic": "yes",
+    "payment:diners_club": "yes",
+    "payment:discover_card": "yes",
+    "payment:jcb": "yes",
+    "payment:maestro": "yes",
+    "payment:mastercard": "yes",
+    "payment:visa": "yes",
+    "payment:visa_debit": "yes",
+    "payment:visa_electron": "yes",
+    "phone": "+ 420 776 166 926",
+    "shop": "convenience",
+    "website": "https://www.facebook.com/NOsacek/",
+    "zero_waste": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 8174560735,
+  "lat": 49.2106451,
+  "lon": 16.6006150,
+  "tags": {
+    "bulk_purchase": "yes",
+    "email": "info@cukr-ryze.com",
+    "name": "Haná bezobalová prodejna",
+    "opening_hours": "Mo-Fr 09:00-18:00; We 12:00-18:00; Sa 10:00-13:00",
+    "organic": "yes",
+    "payment:maestro": "yes",
+    "payment:mastercard": "yes",
+    "payment:visa": "yes",
+    "payment:visa_debit": "yes",
+    "payment:visa_electron": "yes",
+    "phone": "+420 777 649 884",
+    "shop": "convenience",
+    "website": "https://www.cukr-ryze.com"
+  }
+},
+{
+  "type": "node",
+  "id": 8297639891,
+  "lat": 49.1843775,
+  "lon": 16.5948654,
+  "tags": {
+    "bulk_purchase": "yes",
+    "email": "obchod@bezz.eu",
+    "name": "BEZz Bezobalový obchod",
+    "opening_hours": "Mo-Fr 09:00-19:00; Sa 10:00-18:00",
+    "organic": "yes",
+    "payment:maestro": "yes",
+    "payment:mastercard": "yes",
+    "payment:visa": "yes",
+    "payment:visa_debit": "yes",
+    "payment:visa_electron": "yes",
+    "shop": "convenience",
+    "zero_waste": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 9227869423,
+  "lat": 49.2029170,
+  "lon": 16.6191659,
+  "tags": {
+    "bulk_purchase": "yes",
+    "email": "jezekbezobalu@seznam.cz",
+    "mobile": "+420 737 750 549",
+    "name": "Ježek bez obalu",
+    "opening_hours": "Mo-Fr 10:00-18:00",
+    "payment:maestro": "yes",
+    "payment:mastercard": "yes",
+    "payment:visa": "yes",
+    "payment:visa_debit": "yes",
+    "payment:visa_electron": "yes",
+    "shop": "convenience",
+    "website": "https://www.jezekbezobalu.cz/",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "way",
+  "id": 253974427,
+  "nodes": [
+    2598209677,
+    4835533302,
+    7537688392,
+    7537688391,
+    2598209675,
+    2598209671,
+    2598209677
+  ],
+  "tags": {
+    "amenity": "cafe",
+    "building": "commercial",
+    "building:ruian:type": "10",
+    "bulk_purchase": "yes",
+    "email": "uvlacku@email.cz",
+    "name": "U Vláčku",
+    "opening_hours": "Mo-Fr 07:00-19:00; Sa 09:00-12:00",
+    "payment:diners_club": "yes",
+    "payment:discover_card": "yes",
+    "payment:jcb": "yes",
+    "payment:maestro": "yes",
+    "payment:mastercard": "yes",
+    "payment:visa": "yes",
+    "payment:visa_debit": "yes",
+    "payment:visa_electron": "yes",
+    "ref:ruian:building": "15114881",
+    "shop": "health_food",
+    "smoking": "no",
+    "source": "cuzk:ruian",
+    "website": "https://www.facebook.com/UVlacku"
+  }
+},
+{
+  "type": "way",
+  "id": 253974442,
+  "nodes": [
+    7537688380,
+    2598209663,
+    2598209668,
+    7537688379,
+    2598209670,
+    7537688378,
+    2598209672,
+    7537688377,
+    2598209679,
+    7537688376,
+    7537688375,
+    2598209678,
+    7537688374,
+    7537688373,
+    2598209676,
+    7537688380
+  ],
+  "tags": {
+    "amenity": "cafe",
+    "building": "yes",
+    "building:levels": "2",
+    "building:ruian:type": "20",
+    "bulk_purchase": "yes",
+    "email": "info@julies-bezobalu.cz",
+    "name": "Julie's cafe",
+    "opening_hours": "Mo-Fr 08:00-18:00; Su 13:00-18:00",
+    "payment:maestro": "yes",
+    "payment:mastercard": "yes",
+    "payment:visa": "yes",
+    "payment:visa_debit": "yes",
+    "payment:visa_electron": "yes",
+    "phone": "+420 773 486 652",
+    "ref:ruian:building": "54361087",
+    "shop": "health_food",
+    "source": "cuzk:ruian",
+    "start_date": "2013-08-05",
+    "website": "http://www.julies-bezobalu.cz/"
+  }
+},
+{
+  "type": "node",
+  "id": 2598209663,
+  "lat": 49.3605451,
+  "lon": 16.6411776
+},
+{
+  "type": "node",
+  "id": 2598209668,
+  "lat": 49.3605926,
+  "lon": 16.6411013
+},
+{
+  "type": "node",
+  "id": 2598209670,
+  "lat": 49.3606043,
+  "lon": 16.6410981
+},
+{
+  "type": "node",
+  "id": 2598209671,
+  "lat": 49.3606076,
+  "lon": 16.6416424
+},
+{
+  "type": "node",
+  "id": 2598209672,
+  "lat": 49.3606145,
+  "lon": 16.6411071
+},
+{
+  "type": "node",
+  "id": 2598209675,
+  "lat": 49.3606563,
+  "lon": 16.6417985
+},
+{
+  "type": "node",
+  "id": 2598209676,
+  "lat": 49.3606713,
+  "lon": 16.6413517
+},
+{
+  "type": "node",
+  "id": 2598209677,
+  "lat": 49.3606834,
+  "lon": 16.6415889
+},
+{
+  "type": "node",
+  "id": 2598209678,
+  "lat": 49.3606885,
+  "lon": 16.6413461
+},
+{
+  "type": "node",
+  "id": 2598209679,
+  "lat": 49.3606941,
+  "lon": 16.6413221
+},
+{
+  "type": "node",
+  "id": 4835533302,
+  "lat": 49.3607310,
+  "lon": 16.6417427
+},
+{
+  "type": "node",
+  "id": 7537688373,
+  "lat": 49.3606776,
+  "lon": 16.6413528
+},
+{
+  "type": "node",
+  "id": 7537688374,
+  "lat": 49.3606833,
+  "lon": 16.6413505
+},
+{
+  "type": "node",
+  "id": 7537688375,
+  "lat": 49.3606921,
+  "lon": 16.6413390
+},
+{
+  "type": "node",
+  "id": 7537688376,
+  "lat": 49.3606942,
+  "lon": 16.6413300
+},
+{
+  "type": "node",
+  "id": 7537688377,
+  "lat": 49.3606928,
+  "lon": 16.6413142
+},
+{
+  "type": "node",
+  "id": 7537688378,
+  "lat": 49.3606095,
+  "lon": 16.6411008
+},
+{
+  "type": "node",
+  "id": 7537688379,
+  "lat": 49.3605983,
+  "lon": 16.6410984
+},
+{
+  "type": "node",
+  "id": 7537688380,
+  "lat": 49.3606647,
+  "lon": 16.6413465
+},
+{
+  "type": "node",
+  "id": 7537688391,
+  "lat": 49.3607306,
+  "lon": 16.6417462
+},
+{
+  "type": "node",
+  "id": 7537688392,
+  "lat": 49.3607297,
+  "lon": 16.6417438
+}
 
-</body>
-</html>
+  ]
+}
