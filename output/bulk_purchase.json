@@ -158,27 +158,6 @@
 },
 {
   "type": "node",
-  "id": 6002853750,
-  "lat": 49.2250712,
-  "lon": 16.6263395,
-  "tags": {
-    "addr:city": "Brno",
-    "addr:housenumber": "4",
-    "addr:postcode": "63800",
-    "addr:street": "Nezvalova",
-    "bulk_purchase": "yes",
-    "email": "info@bezobalovyobchod.cz",
-    "name": "Zvaž to - bezobalový obchod",
-    "opening_hours": "Mo-Fr 10:00-13:00,14:00-18:00",
-    "phone": "+420 721354084",
-    "shop": "convenience",
-    "website": "https://www.bezobalovyobchod.cz/",
-    "wheelchair": "no",
-    "zero_waste": "yes"
-  }
-},
-{
-  "type": "node",
   "id": 7101257214,
   "lat": 49.2023533,
   "lon": 16.6079867,
