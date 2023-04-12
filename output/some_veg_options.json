@@ -3004,6 +3004,28 @@
         "phone": "+420 733 388 692",
         "website": "https://www.mashbro.cz/"
       }
+    },
+    {
+      "type": "node",
+      "id": 10802668081,
+      "lat": 49.1507207,
+      "lon": 17.0035334,
+      "tags": {
+        "amenity": "restaurant",
+        "cuisine": "burger;pizza",
+        "diet:vegan": "limited",
+        "diet:vegetarian": "yes",
+        "email": "info@booburger.cz",
+        "mobile": "+420 737 349 224",
+        "name": "Boo burger",
+        "opening_hours": "Mo 11:00-20:00; Tu-Th 11:00-22:00; Fr 11:00-24:00; Sa 00:00-01:00,11:00-24:00; Su 00:00-01:00,11:00-20:00",
+        "payment:maestro": "yes",
+        "payment:mastercard": "yes",
+        "payment:visa": "yes",
+        "payment:visa_debit": "yes",
+        "payment:visa_electron": "yes",
+        "website": "https://booburger.cz/"
+      }
     }
   ]
 }
