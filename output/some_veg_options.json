@@ -2910,6 +2910,26 @@
     },
     {
       "type": "node",
+      "id": 9156132437,
+      "lat": 49.2095348,
+      "lon": 16.6035232,
+      "tags": {
+        "addr:city": "Brno",
+        "addr:housenumber": "20",
+        "addr:postcode": "60200",
+        "addr:street": "Štefánikova",
+        "amenity": "fast_food",
+        "cuisine": "mexican",
+        "diet:non-vegetarian": "yes",
+        "diet:vegetarian": "yes",
+        "email": "bistrobastardo@gmail.com",
+        "name": "Bistro Bastardo",
+        "opening_hours": "Mo-Fr 11:00-22:00, Sa 12:00-22:00",
+        "phone": "+420 605 454 040"
+      }
+    },
+    {
+      "type": "node",
       "id": 9159992217,
       "lat": 49.169181,
       "lon": 16.725314,
