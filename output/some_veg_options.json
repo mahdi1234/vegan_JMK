@@ -175,12 +175,16 @@
       "lon": 16.6009335,
       "tags": {
         "addr:city": "Brno",
+        "addr:housenumber": "22",
         "addr:postcode": "60200",
+        "addr:street": "Dřevařská",
         "amenity": "restaurant",
-        "cuisine": "regional",
+        "diet:meat": "yes",
         "diet:vegetarian": "yes",
-        "name": "U Dřeváka",
+        "email": "info@udrevaka.cz",
+        "name": "U Dřeváka Beer & Grill",
         "opening_hours": "Mo-Th 11:00-00:00; Fr 11:00-01:00; Sa 11:30-01:00; Su 11:30-00:00",
+        "phone": "+420 724 000 723",
         "website": "https://www.udrevaka.cz/"
       }
     },
@@ -2612,6 +2616,26 @@
         "uir_adr:ADRESA_KOD": "19094108",
         "website": "http://www.atelierbar.cz/",
         "wheelchair": "yes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 5509464888,
+      "lat": 49.1949378,
+      "lon": 16.6071498,
+      "tags": {
+        "addr:city": "Brno",
+        "addr:housenumber": "92/21",
+        "addr:postcode": "60200",
+        "addr:street": "náměstí Svobody",
+        "amenity": "fast_food",
+        "cuisine": "mexican",
+        "diet:non-vegetarian": "yes",
+        "diet:vegetarian": "yes",
+        "name": "Bistro Bastardo",
+        "opening_hours": "Mo-Fr 11:00-22:00,Sa-Su 12:00-22:00",
+        "phone": "+420 605 454 040",
+        "website": "https://www.facebook.com/bistrobastardo"
       }
     },
     {
