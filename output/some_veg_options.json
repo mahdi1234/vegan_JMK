@@ -2130,6 +2130,20 @@
     },
     {
       "type": "node",
+      "id": 3929613034,
+      "lat": 49.2163115,
+      "lon": 16.6275301,
+      "tags": {
+        "amenity": "fast_food",
+        "cuisine": "kebab",
+        "diet:vegetarian": "yes",
+        "drive_through": "no",
+        "name": "Roj Kebab",
+        "payment:cash": "yes"
+      }
+    },
+    {
+      "type": "node",
       "id": 3987013005,
       "lat": 49.1955326,
       "lon": 16.6082684,
