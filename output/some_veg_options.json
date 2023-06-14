@@ -333,6 +333,7 @@
         "addr:postcode": "60200",
         "addr:street": "Bayerova",
         "amenity": "restaurant",
+        "check_date": "2023-06-12",
         "cuisine": "asian",
         "diet:vegan": "yes",
         "diet:vegetarian": "yes",
