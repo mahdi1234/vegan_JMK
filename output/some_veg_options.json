@@ -3096,6 +3096,30 @@
         "payment:visa_electron": "yes",
         "website": "https://booburger.cz/"
       }
+    },
+    {
+      "type": "node",
+      "id": 10976239974,
+      "lat": 48.9398538,
+      "lon": 16.7350203,
+      "tags": {
+        "addr:city": "Hustopeče",
+        "addr:housenumber": "465/18",
+        "addr:postcode": "69301",
+        "addr:street": "Bratislavská",
+        "amenity": "restaurant",
+        "contact:facebook": "https://www.facebook.com/profile.php?id=100063502782380",
+        "cuisine": "kebab",
+        "diet:meat": "yes",
+        "diet:vegetarian": "yes",
+        "name": "Dervis KEBAB",
+        "opening_hours": "Mo 10:00-20:00; Tu-Th 10:00-22:00; Fr 10:00-20:00",
+        "payment:cash": "yes",
+        "payment:credit_cards": "yes",
+        "payment:debit_cards": "yes",
+        "phone": "+420 777 732 703",
+        "toilets": "no"
+      }
     }
   ]
 }
