@@ -2742,6 +2742,24 @@
     },
     {
       "type": "node",
+      "id": 6711950050,
+      "lat": 49.2016881,
+      "lon": 16.6372312,
+      "tags": {
+        "addr:city": "Brno",
+        "addr:housenumber": "11",
+        "addr:postcode": "61500",
+        "addr:street": "Bubeníčkova",
+        "amenity": "restaurant",
+        "cuisine": "steak_house",
+        "diet:vegetarian": "yes",
+        "name": "Steak House K1",
+        "phone": "+420 545 245 429",
+        "website": "http://www.steakhousek1.cz"
+      }
+    },
+    {
+      "type": "node",
       "id": 7087007170,
       "lat": 49.1945203,
       "lon": 16.6089173,
