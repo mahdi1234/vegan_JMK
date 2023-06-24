@@ -136,7 +136,7 @@
         "addr:postcode": "61500",
         "addr:street": "Táborská",
         "amenity": "restaurant",
-        "check_date:opening_hours": "2021-11-07",
+        "check_date:opening_hours": "2023-06-23",
         "cuisine": "pizza;burger",
         "delivery": "yes",
         "diet:vegan": "no",
@@ -159,6 +159,7 @@
         "addr:postcode": "63600",
         "addr:street": "Táborská",
         "amenity": "restaurant",
+        "check_date:opening_hours": "2023-06-23",
         "contact:email": "info@namaskar.cz",
         "contact:facebook": "https://www.facebook.com/Namaskarbrno",
         "contact:website": "https://www.namaskar.cz",
@@ -691,25 +692,6 @@
         "opening_hours": "Mo-Su 10:00-22:00",
         "ref:ruian:addr": "10139915",
         "website": "https://uhroznu.cz/"
-      }
-    },
-    {
-      "type": "node",
-      "id": 1809222680,
-      "lat": 49.1942448,
-      "lon": 16.6352746,
-      "tags": {
-        "amenity": "restaurant",
-        "cuisine": "indian",
-        "diet:vegan": "no",
-        "diet:vegetarian": "yes",
-        "email": "info@restaurant-goa.cz",
-        "name": "Indická restaurace GOA",
-        "opening_hours": "Mo-Su 11:00-22:00; Fr 11:00-23:00",
-        "phone": "+420602505551",
-        "source": "survey",
-        "website": "http://www.restaurant-goa.cz/",
-        "wheelchair": "no"
       }
     },
     {
@@ -2751,11 +2733,14 @@
         "addr:postcode": "61500",
         "addr:street": "Bubeníčkova",
         "amenity": "restaurant",
-        "cuisine": "steak_house",
+        "cuisine": "steak_house;italian",
         "diet:vegetarian": "yes",
+        "internet_access": "wlan",
+        "internet_access:ssid": "K1-FREEWIFI",
         "name": "Steak House K1",
-        "phone": "+420 545 245 429",
-        "website": "http://www.steakhousek1.cz"
+        "outdoor_seating": "yes",
+        "payment:cash": "yes",
+        "phone": "+420 545 245 429"
       }
     },
     {
