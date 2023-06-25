@@ -64,6 +64,7 @@
     "addr:postcode": "60300",
     "addr:street": "Mendlovo náměstí",
     "amenity": "cafe",
+    "check_date:opening_hours": "2023-06-24",
     "diet:gluten_free": "yes",
     "diet:raw": "yes",
     "diet:vegan": "yes",
