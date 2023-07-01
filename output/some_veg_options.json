@@ -496,6 +496,7 @@
         "addr:postcode": "61200",
         "addr:street": "Veleslavínova",
         "amenity": "restaurant",
+        "check_date:opening_hours": "2023-06-30",
         "cuisine": "indian;lebanese",
         "diet:vegan": "yes",
         "diet:vegetarian": "yes",
