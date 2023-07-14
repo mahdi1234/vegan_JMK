@@ -428,6 +428,25 @@
   }
 },
 {
+  "type": "node",
+  "id": 11045268759,
+  "lat": 49.2091888,
+  "lon": 16.6305489,
+  "tags": {
+    "name": "Pí-centrum",
+    "opening_hours": "Mo-Fr 08:30-17:00",
+    "payment:maestro": "yes",
+    "payment:mastercard": "yes",
+    "payment:visa": "yes",
+    "payment:visa_debit": "yes",
+    "payment:visa_electron": "yes",
+    "phone": "+420 776 176 457",
+    "shop": "health_food",
+    "website": "https://bioapetit.cz/",
+    "wheelchair": "yes"
+  }
+},
+{
   "type": "way",
   "id": 253974427,
   "nodes": [
