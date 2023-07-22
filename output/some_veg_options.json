@@ -1321,8 +1321,10 @@
         "amenity": "restaurant",
         "cuisine": "regional",
         "diet:vegetarian": "yes",
+        "indoor_seating": "yes",
         "name": "NOK NOK Restaurant",
         "opening_hours": "Mo-Tu 11:00-23:00; We-Th 11:00-24:00; Fr-Sa 11:00-01:00, Su 11:00-22:00",
+        "outdoor_seating": "yes",
         "phone": "+420 513 035 030",
         "website": "https://www.noknokrestaurant.cz/",
         "wheelchair": "limited"
@@ -2253,6 +2255,8 @@
         "payment:cards": "yes",
         "payment:contactless": "yes",
         "takeaway": "yes",
+        "toilets": "yes",
+        "toilets:wheelchair": "yes",
         "website": "http://www.ugo.cz/",
         "wheelchair": "limited"
       }
