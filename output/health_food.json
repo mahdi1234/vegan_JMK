@@ -416,6 +416,10 @@
   "lat": 49.1954549,
   "lon": 16.5397149,
   "tags": {
+    "addr:city": "Brno - Kohoutovice",
+    "addr:housenumber": "579/2",
+    "addr:postcode": "62300",
+    "addr:street": "Libušina třída",
     "currency:XBT": "yes",
     "name": "Kokoloniál",
     "opening_hours": "Mo-Fr 09:00-18:00",
