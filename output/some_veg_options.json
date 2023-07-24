@@ -2677,13 +2677,15 @@
       "lat": 49.2057386,
       "lon": 16.5991838,
       "tags": {
+        "addr:housenumber": "9",
+        "addr:street": "Tučkova",
         "amenity": "restaurant",
         "diet:halal": "no",
         "diet:kosher": "no",
         "diet:vegan": "yes",
         "diet:vegetarian": "yes",
         "name": "Restaurace Domov",
-        "opening_hours": "Mo-Fr 16:00-22:00; Su 15:00-22:00",
+        "opening_hours": "Mo-Th 11:00-22:00; Fr 11:00-23:00",
         "outdoor_seating": "yes"
       }
     },

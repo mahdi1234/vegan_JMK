@@ -424,7 +424,7 @@
     "name": "Kokoloniál",
     "opening_hours": "Mo-Fr 09:00-18:00",
     "payment:lightning": "yes",
-    "payment:onchain": "yes",
+    "payment:onchain": "no",
     "phone": "+420778144778",
     "shop": "health_food",
     "survey:date": "2023-03-27",
