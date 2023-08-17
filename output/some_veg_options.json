@@ -2127,8 +2127,11 @@
         "cuisine": "kebab",
         "diet:vegetarian": "yes",
         "drive_through": "no",
+        "indoor_seating": "no",
         "name": "Roj Kebab",
-        "payment:cash": "yes"
+        "outdoor_seating": "no",
+        "payment:cash": "yes",
+        "takeaway": "only"
       }
     },
     {
