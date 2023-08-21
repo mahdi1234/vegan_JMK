@@ -1451,7 +1451,6 @@
         "kids_area": "yes",
         "kids_area:indoor": "yes",
         "name": "IKEA Restaurant",
-        "name:ru": "Ресторан ИКЕА",
         "opening_hours": "Mo-Su 10:00-19:30",
         "takeaway": "yes"
       }
