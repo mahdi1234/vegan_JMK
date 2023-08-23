@@ -161,12 +161,16 @@
 {
   "type": "node",
   "id": 5595684930,
-  "lat": 49.5035258,
-  "lon": 16.5073035,
+  "lat": 49.5035251,
+  "lon": 16.5072230,
   "tags": {
+    "email": "spajz.plny.dobrot@gmail.com",
+    "mobile": "+420 773 335 325",
     "name": "Špajz",
+    "opening_hours": "Mo-Fr 08:30-12:00,13:00-17:00; Sa 07:30-12:00",
     "operator": "Soňa Suchá",
-    "shop": "health_food"
+    "shop": "health_food",
+    "website": "https://spajz-plny-dobrot.webnode.cz/"
   }
 },
 {
