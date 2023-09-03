@@ -1638,7 +1638,7 @@
         "cuisine": "indian",
         "diet:vegetarian": "yes",
         "name": "Annapurna",
-        "opening_hours": "Mo-Fr 11:00-23:00; Sa,Su 12:00-23:00",
+        "opening_hours": "Mo-Fr 11:00-22:00; Sa,Su 12:00-22:00",
         "outdoor_seating": "no",
         "phone": "+420 776 024 396",
         "takeaway": "yes",
@@ -1822,7 +1822,7 @@
         "brand:wikidata": "Q608845",
         "brand:wikipedia": "en:Costa Coffee",
         "check_date": "2022-09-16",
-        "check_date:opening_hours": "2020-09-21",
+        "check_date:opening_hours": "2023-09-02",
         "cuisine": "coffee_shop",
         "diet:vegetarian": "yes",
         "drive_through": "yes",
@@ -1830,7 +1830,7 @@
         "internet_access": "wlan",
         "internet_access:fee": "customers",
         "name": "Costa",
-        "opening_hours": "Mo-Fr 07:00-21:00; Sa-Su 08:00-20:00",
+        "opening_hours": "Mo-Fr 07:00-20:00; Sa,Su 08:00-19:00",
         "outdoor_seating": "no",
         "payment:credit_cards": "yes",
         "payment:maestro": "yes",
@@ -2103,7 +2103,7 @@
         "amenity": "fast_food",
         "diet:vegetarian": "yes",
         "name": "Sklizeno.cz - hladové okno",
-        "opening_hours": "Mo-Fr 08:00-18:00; Sa 09:00-15:00",
+        "opening_hours": "Mo-Fr 07:30-19:00; Sa 09:30-14:30",
         "wheelchair": "no"
       }
     },
@@ -2812,22 +2812,6 @@
         "diet:vegetarian": "yes",
         "name": "Táo Viet Nam Home Cooking & Sushi Bar",
         "opening_hours": "Mo-Fr 11:00-22:00; Sa-Su 12:00-22:00",
-        "wheelchair": "limited"
-      }
-    },
-    {
-      "type": "node",
-      "id": 7226682907,
-      "lat": 49.1914158,
-      "lon": 16.6111296,
-      "tags": {
-        "amenity": "fast_food",
-        "cuisine": "mexican",
-        "diet:vegetarian": "yes",
-        "indoor_seating": "yes",
-        "name": "Taco Bonito",
-        "opening_hours": "Mo-Fr 11:00-22:00; Sa,Su 11:00-20:00",
-        "outdoor_seating": "no",
         "wheelchair": "limited"
       }
     },
