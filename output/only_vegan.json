@@ -87,6 +87,21 @@
     },
     {
       "type": "node",
+      "id": 3667914024,
+      "lat": 48.805281,
+      "lon": 16.6348522,
+      "tags": {
+        "amenity": "restaurant",
+        "check_date:opening_hours": "2023-09-03",
+        "diet:vegan": "only",
+        "name": "VeggieDick",
+        "opening_hours": "Tu-Sa 11:00-15:00,17:00-20:00; Su 11:00-15:00",
+        "phone": "+420 702 033 393",
+        "source": "survey"
+      }
+    },
+    {
+      "type": "node",
       "id": 4180713908,
       "lat": 49.2026309,
       "lon": 16.5968611,
