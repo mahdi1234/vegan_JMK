@@ -825,30 +825,6 @@
     },
     {
       "type": "node",
-      "id": 2257940938,
-      "lat": 49.1955678,
-      "lon": 16.6065147,
-      "tags": {
-        "addr:city": "Brno",
-        "addr:housenumber": "5",
-        "addr:postcode": "60200",
-        "addr:street": "Česká",
-        "amenity": "restaurant",
-        "cuisine": "regional",
-        "diet:vegetarian": "yes",
-        "indoor_seating": "yes",
-        "name": "Stopkova plzeňská pivnice",
-        "opening_hours": "Mo-Su 11:00-24:00",
-        "outdoor_seating": "pedestrian_zone",
-        "phone": "+420 517 070 080",
-        "reservation": "recommended",
-        "website": "https://www.kolkovna.cz/",
-        "wheelchair": "limited",
-        "wikidata": "Q21809707"
-      }
-    },
-    {
-      "type": "node",
       "id": 2322362203,
       "lat": 49.1989646,
       "lon": 16.6000859,
