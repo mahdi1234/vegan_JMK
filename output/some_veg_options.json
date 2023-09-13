@@ -3119,6 +3119,27 @@
         "phone": "+420 777 732 703",
         "toilets": "no"
       }
+    },
+    {
+      "type": "node",
+      "id": 11186431754,
+      "lat": 49.1962671,
+      "lon": 16.6018228,
+      "tags": {
+        "addr:housenumber": "223/7",
+        "addr:street": "Údolní",
+        "amenity": "restaurant",
+        "check_date": "2023-09-12",
+        "diet:vegan": "yes",
+        "name": "Blue Demon Bistro",
+        "opening_hours": "Mo-Fr 09:00-23:00; Sa 10:00-23:00",
+        "payment:maestro": "yes",
+        "payment:mastercard": "yes",
+        "payment:visa": "yes",
+        "payment:visa_debit": "yes",
+        "payment:visa_electron": "yes",
+        "wheelchair": "no"
+      }
     }
   ]
 }
