@@ -2956,6 +2956,23 @@
     },
     {
       "type": "node",
+      "id": 9111447105,
+      "lat": 49.1973412,
+      "lon": 16.6079138,
+      "tags": {
+        "amenity": "fast_food",
+        "cuisine": "burger",
+        "diet:vegetarian": "yes",
+        "email": "smashburgersbrno@gmail.com",
+        "mobile": "+420 724 722 151",
+        "name": "Smash Burgers",
+        "opening_hours": "Mo-Th 11:00-20:00; Fr,Sa 11:00-22:00; Su 12:00-20:00",
+        "outdoor_seating": "yes",
+        "wheelchair": "no"
+      }
+    },
+    {
+      "type": "node",
       "id": 9156132437,
       "lat": 49.2095348,
       "lon": 16.6035232,
@@ -3130,15 +3147,37 @@
         "addr:street": "Údolní",
         "amenity": "restaurant",
         "check_date": "2023-09-12",
+        "contact:facebook": "https://www.facebook.com/bluedemonbistro",
+        "cuisine": "mexican",
         "diet:vegan": "yes",
+        "email": "bluedemonbistro@gmail.com",
+        "mobile": "+420 773 690 790",
         "name": "Blue Demon Bistro",
         "opening_hours": "Mo-Fr 09:00-23:00; Sa 10:00-23:00",
+        "outdoor_seating": "yes",
         "payment:maestro": "yes",
         "payment:mastercard": "yes",
         "payment:visa": "yes",
         "payment:visa_debit": "yes",
         "payment:visa_electron": "yes",
         "wheelchair": "no"
+      }
+    },
+    {
+      "type": "node",
+      "id": 11196531513,
+      "lat": 49.1649131,
+      "lon": 16.5612404,
+      "tags": {
+        "amenity": "restaurant",
+        "cuisine": "mongolian",
+        "delivery": "yes",
+        "diet:vegetarian": "yes",
+        "email": "knedlicky@arslanbuuz.cz",
+        "mobile": "+420 778 516 743",
+        "name": "Arslan Buuz",
+        "opening_hours": "Tu-Su 11:00-15:00,16:00-20:00",
+        "website": "http://www.arslanbuuz.cz/"
       }
     }
   ]
