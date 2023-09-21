@@ -2,6 +2,32 @@
   "elements": [
     {
       "type": "node",
+      "id": 603039641,
+      "lat": 49.2003917,
+      "lon": 16.6025416,
+      "tags": {
+        "addr:city": "Brno",
+        "addr:conscriptionnumber": "359",
+        "addr:country": "CZ",
+        "addr:housenumber": "10",
+        "addr:postcode": "60200",
+        "addr:street": "Slovákova",
+        "amenity": "restaurant",
+        "delivery": "yes",
+        "diet:gluten_free": "yes",
+        "diet:vegan": "only",
+        "internet_access": "wlan",
+        "internet_access:fee": "no",
+        "name": "Vegalité",
+        "opening_hours": "Mo-Fr 11:00-23:00; Sa 16:00-23:00",
+        "smoking": "no",
+        "takeaway": "yes",
+        "website": "https://vegalite.cz",
+        "wheelchair": "no"
+      }
+    },
+    {
+      "type": "node",
       "id": 1528351545,
       "lat": 49.1971969,
       "lon": 16.6051919,
@@ -32,7 +58,6 @@
         "diet:gluten_free": "yes",
         "diet:raw": "yes",
         "diet:vegan": "only",
-        "diet:vegetarian": "only",
         "name": "Forky's",
         "opening_hours": "Mo-Fr 11:00-21:00; Sa 12:00-21:00; Su 12:00-18:00",
         "outdoor_seating": "yes",
@@ -123,6 +148,29 @@
     },
     {
       "type": "node",
+      "id": 4802919780,
+      "lat": 49.2004353,
+      "lon": 16.6228758,
+      "tags": {
+        "addr:city": "Brno",
+        "addr:housenumber": "65",
+        "addr:postcode": "60200",
+        "addr:street": "Bratislavská",
+        "amenity": "cafe",
+        "contact:facebook": "https://www.facebook.com/cafeintheghetto/",
+        "description": "jsme polyfunkční prostor alternativnějšího typu. jsme kavárna, bar, galerie, dílna, obchod",
+        "diet:vegan": "only",
+        "internet_access": "yes",
+        "internet_access:fee": "no",
+        "internet_access:ssid": "CAFEINTHEGHETTO",
+        "name": "Café In The Ghetto",
+        "opening_hours": "Mo-Fr 11:30-22:00",
+        "phone": "+420 725 965 570",
+        "smoking": "outside"
+      }
+    },
+    {
+      "type": "node",
       "id": 4833255717,
       "lat": 49.2027317,
       "lon": 16.6110428,
@@ -144,42 +192,14 @@
     },
     {
       "type": "node",
-      "id": 6810240759,
-      "lat": 49.1899719,
-      "lon": 16.6138253,
+      "id": 7139181552,
+      "lat": 49.2041929,
+      "lon": 16.6232325,
       "tags": {
-        "addr:city": "Brno",
-        "addr:housenumber": "404/4",
-        "addr:postcode": "60200",
-        "addr:street": "Dornych",
-        "amenity": "fast_food",
-        "contact:mobile": "+420 605 004 752",
-        "delivery": "yes",
+        "amenity": "cafe",
         "diet:vegan": "only",
-        "diet:vegetarian": "only",
-        "email": "zdenek@mooi.cz",
-        "indoor_seating": "yes",
-        "name": "Mooi",
-        "opening_hours": "Mo-Sa 11:30-19:00; Su 12:00-18:00",
-        "outdoor_seating": "yes",
-        "takeaway": "yes",
-        "website": "https://www.mooi.cz/",
-        "wheelchair": "limited"
-      }
-    },
-    {
-      "type": "node",
-      "id": 8418025214,
-      "lat": 49.1923638,
-      "lon": 16.6069022,
-      "tags": {
-        "amenity": "restaurant",
-        "diet:gluten_free": "yes",
-        "diet:vegan": "only",
-        "name": "1. terapeutická restaurace",
-        "opening_hours": "Mo-Su 11:00-17:00",
-        "operator": "Chambre de charme",
-        "takeaway": "yes"
+        "name": "Lákava",
+        "opening_hours": "Mo-Fr 07:30-18:00"
       }
     },
     {

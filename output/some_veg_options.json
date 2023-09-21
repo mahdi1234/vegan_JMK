@@ -2452,8 +2452,10 @@
         "amenity": "cafe",
         "cuisine": "pancake",
         "diet:vegetarian": "yes",
+        "indoor_seating": "yes",
         "name": "Panksy",
         "opening_hours": "Mo-Fr 09:00-23:00; Sa 10:00-23:00; Su 10:00-20:00",
+        "outdoor_seating": "yes",
         "wheelchair": "no"
       }
     },
@@ -2481,30 +2483,6 @@
         "takeaway": "yes",
         "website": "https://suchibrno.cz/",
         "wheelchair": "no"
-      }
-    },
-    {
-      "type": "node",
-      "id": 4802919780,
-      "lat": 49.2004353,
-      "lon": 16.6228758,
-      "tags": {
-        "addr:city": "Brno",
-        "addr:housenumber": "65",
-        "addr:postcode": "60200",
-        "addr:street": "Bratislavská",
-        "amenity": "cafe",
-        "contact:facebook": "https://www.facebook.com/cafeintheghetto/",
-        "description": "jsme polyfunkční prostor alternativnějšího typu. jsme kavárna, bar, galerie, dílna, obchod",
-        "diet:vegan": "yes",
-        "diet:vegetarian": "yes",
-        "internet_access": "yes",
-        "internet_access:fee": "no",
-        "internet_access:ssid": "CAFEINTHEGHETTO",
-        "name": "Café In The Ghetto",
-        "opening_hours": "Mo-Sa 16:00-22:22; Sa 18:00-22:22",
-        "phone": "+420 725 965 570",
-        "smoking": "outside"
       }
     },
     {
