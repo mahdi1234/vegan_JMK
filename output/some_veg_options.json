@@ -2350,6 +2350,12 @@
         "level": "0",
         "name": "La Corrida",
         "opening_hours": "Mo-Th 11:00-23:00; Fr 11:00-23:30; Sa,Su 11:00-23:00",
+        "outdoor_seating": "yes",
+        "payment:maestro": "yes",
+        "payment:mastercard": "yes",
+        "payment:visa": "yes",
+        "payment:visa_debit": "yes",
+        "payment:visa_electron": "yes",
         "toilets:wheelchair": "limited",
         "wheelchair": "yes",
         "wheelchair:description": "Prahy ok. WC není zvlášť se speciálním vybavením, ale přesto relativně prostorné."
