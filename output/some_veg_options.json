@@ -2951,6 +2951,23 @@
     },
     {
       "type": "node",
+      "id": 8677626547,
+      "lat": 49.1895425,
+      "lon": 16.6163734,
+      "tags": {
+        "amenity": "restaurant",
+        "cuisine": "mexican",
+        "diet:vegan": "yes",
+        "diet:vegetarian": "yes",
+        "level": "0",
+        "mobile": "+420 606 390 219",
+        "name": "Los Capolitos",
+        "opening_hours": "Mo-Su 11:00-20:00; Th-Sa 11:00-21:00",
+        "website": "https://www.capolitos.cz/"
+      }
+    },
+    {
+      "type": "node",
       "id": 8724984310,
       "lat": 49.1902136,
       "lon": 16.6104332,
