@@ -2591,9 +2591,12 @@
       "tags": {
         "amenity": "restaurant",
         "check_date:opening_hours": "2021-11-01",
+        "currency:XBT": "yes",
         "diet:vegetarian": "yes",
         "name": "Správné místo",
         "opening_hours": "Mo-Th 11:00-22:00; Fr 11:00-23:00; Sa 12:00-23:00; Su 12:00-21:00",
+        "payment:lightning:companion_app_url": "https://www.qerko.com",
+        "payment:lightning:requires_companion_app": "yes",
         "wheelchair": "no"
       }
     },
@@ -3045,7 +3048,7 @@
         "diet:vegan": "no",
         "diet:vegetarian": "yes",
         "name": "Pizza & Kebab Atip",
-        "opening_hours": "Mo-Sa 09:00-21:00",
+        "opening_hours": "Mo-Fr 09:00-19:00; Sa,Su off",
         "payment:credit_cards": "yes",
         "payment:debit_cards": "yes",
         "wheelchair": "no"
