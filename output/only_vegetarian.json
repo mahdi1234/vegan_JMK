@@ -2,6 +2,22 @@
   "elements": [
     {
       "type": "node",
+      "id": 342795564,
+      "lat": 49.1016246,
+      "lon": 16.718881,
+      "tags": {
+        "amenity": "restaurant",
+        "diet:vegan": "no",
+        "diet:vegetarian": "only",
+        "name": "Restaurace Orlovna",
+        "opening_hours": "Mo 11:00-14:30; Tu-Th,Su 11:00-22:00; Fr,Sa 11:00-23:00",
+        "payment:credit_cards": "yes",
+        "payment:debit_cards": "no",
+        "website": "http://www.oreltelnice.cz/sportovni-arealy/orlovna-telnice/restaurace-orlovna/"
+      }
+    },
+    {
+      "type": "node",
       "id": 1514495833,
       "lat": 49.2012751,
       "lon": 16.6112275,

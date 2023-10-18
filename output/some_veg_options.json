@@ -827,6 +827,28 @@
     },
     {
       "type": "node",
+      "id": 2249468097,
+      "lat": 49.1047057,
+      "lon": 16.755797,
+      "tags": {
+        "amenity": "restaurant",
+        "check_date:opening_hours": "2023-01-14",
+        "diet:vegan": "no",
+        "diet:vegetarian": "yes",
+        "internet_access": "wlan",
+        "internet_access:fee": "no",
+        "name": "U Kostela",
+        "opening_hours": "Su-Th 10:00-22:00; Fr,Sa 10:00-24:00",
+        "payment:credit_cards": "yes",
+        "payment:debit_cards": "yes",
+        "smoking": "separated",
+        "toilets:wheelchair": "yes",
+        "website": "https://www.restauraceukostela.com/",
+        "wheelchair": "limited"
+      }
+    },
+    {
+      "type": "node",
       "id": 2322362203,
       "lat": 49.1989646,
       "lon": 16.6000859,
@@ -2414,6 +2436,29 @@
         "phone": "+420530328370",
         "takeaway": "yes",
         "wheelchair": "limited"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4475074419,
+      "lat": 49.1066211,
+      "lon": 16.7484662,
+      "tags": {
+        "addr:housenumber": "222",
+        "addr:street": "Nádražní",
+        "amenity": "restaurant",
+        "contact:email": "restauracemaxwell@seznam.cz",
+        "cuisine": "pizza",
+        "delivery": "yes",
+        "diet:vegan": "no",
+        "diet:vegetarian": "yes",
+        "facebook": "https://cs-cz.facebook.com/maxwellrestaurant",
+        "name": "Restaurace a Pizzerie Maxwell",
+        "opening_hours": "10:00-22:00; Fr,Sa 10:00-23:00",
+        "operator": "David Bureš",
+        "phone": "+420 601 240 080",
+        "smoking": "isolated",
+        "website": "https://www.restaurace-maxwell.cz/"
       }
     },
     {
