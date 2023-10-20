@@ -760,6 +760,7 @@
         "check_date:opening_hours": "2022-08-25",
         "contact:email": "info@napurkynce.cz",
         "diet:vegetarian": "yes",
+        "indoor_seating": "yes",
         "internet_access": "wlan",
         "internet_access:fee": "no",
         "name": "Na Purkyňce",
@@ -1657,8 +1658,11 @@
         "check_date:opening_hours": "2020-09-24",
         "cuisine": "pizza",
         "diet:vegetarian": "yes",
+        "indoor_seating": "no",
         "name": "Omega Pizza",
         "opening_hours": "Mo-Th 10:00-22:00; Fr-Su 10:00-23:00",
+        "outdoor_seating": "no",
+        "takeaway": "only",
         "wheelchair": "no"
       }
     },
