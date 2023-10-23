@@ -2948,6 +2948,28 @@
     },
     {
       "type": "node",
+      "id": 7770985972,
+      "lat": 49.2145631,
+      "lon": 16.6237025,
+      "tags": {
+        "addr:city": "Brno",
+        "addr:housenumber": "15",
+        "addr:postcode": "61300",
+        "addr:street": "Provazníkova",
+        "amenity": "fast_food",
+        "cuisine": "burger",
+        "diet:vegan": "no",
+        "diet:vegetarian": "yes",
+        "name": "Bistro Provaz",
+        "opening_hours": "Mo-Fr 11:00-20:00",
+        "payment:credit_cards": "yes",
+        "payment:debit_cards": "yes",
+        "website": "https://bistroprovaz.cz/",
+        "wheelchair": "yes"
+      }
+    },
+    {
+      "type": "node",
       "id": 7826700275,
       "lat": 49.2204695,
       "lon": 16.5857836,
