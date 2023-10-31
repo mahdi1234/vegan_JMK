@@ -81,8 +81,11 @@
         "cuisine": "healthy",
         "diet:vegan": "yes",
         "diet:vegetarian": "only",
+        "email": "info@oaza-brno.cz",
         "name": "Oaza",
         "opening_hours": "Mo-Fr 07:30-18:00",
+        "phone": "+420 539 030 507",
+        "website": "https://oaza-brno.cz/",
         "wheelchair": "limited"
       }
     },
