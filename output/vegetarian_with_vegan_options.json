@@ -41,7 +41,7 @@
         "name": "Zdravý Život",
         "opening_hours": "Mo-Fr 08:00-18:00",
         "phone": "+420 549 211 081",
-        "website": "http://www.zzbrno.cz/",
+        "website": "https://www.zzbrno.cz/",
         "wheelchair": "no"
       }
     },
@@ -164,7 +164,7 @@
         "name": "SKØG Urban Hub",
         "opening_hours": "Mo-Th 08:00-01:00, Fr 08:00-02:00, Sa 09:00-02:00, Su 09:00-23:00",
         "phone": "+420 607 098 557",
-        "website": "http://www.skog.cz/",
+        "website": "https://www.skog.cz/",
         "wheelchair": "yes"
       }
     },
@@ -231,7 +231,7 @@
         "opening_hours": "Mo-Fr 07:00-14:00",
         "phone": "+420 776670608",
         "takeaway": "yes",
-        "website": "http://www.veg8cafe.cz/",
+        "website": "https://www.veg8cafe.cz/",
         "wheelchair": "no"
       }
     },

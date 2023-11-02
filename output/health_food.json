@@ -78,7 +78,7 @@
     "payment:contactless": "yes",
     "phone": "+420 725 065 899",
     "shop": "health_food",
-    "website": "http://www.branakezdravi.cz/",
+    "website": "https://branakezdravi.cz/",
     "wheelchair": "no"
   }
 },
@@ -214,7 +214,7 @@
     "opening_hours": "Mo-Fr 08:00-18:00; Sa 09:00-12:00",
     "phone": "+420 549 240 056",
     "shop": "health_food",
-    "website": "http://www.zzbrno.cz/prodejna/prodejna.html",
+    "website": "https://www.zzbrno.cz/prodejna/prodejna.html",
     "wheelchair": "yes"
   }
 },
@@ -301,7 +301,7 @@
     "name": "Zdravá výživa",
     "opening_hours": "Mo-Fr 10:00-12:30,13:00-18:00",
     "shop": "health_food",
-    "website": "http://www.zdravavyziva-udolni.cz/",
+    "website": "https://zdravavyziva-udolni.cz/",
     "wheelchair": "no"
   }
 },
@@ -533,7 +533,7 @@
     "shop": "health_food",
     "source": "cuzk:ruian",
     "start_date": "2013-08-05",
-    "website": "http://www.julies-bezobalu.cz/"
+    "website": "https://www.julies-bezobalu.cz/"
   }
 },
 {

@@ -97,7 +97,7 @@
         "source:addr": "uir_adr",
         "source:position": "cuzk:km",
         "uir_adr:ADRESA_KOD": "19094841",
-        "website": "http://www.restauracejakoby.cz/",
+        "website": "https://www.restauracejakoby.cz/",
         "wheelchair": "no"
       }
     },
@@ -384,7 +384,7 @@
         "opening_hours": "Mo-Fr 06:00-20:30; Sa 09:00-17:00",
         "outdoor_seating": "no",
         "takeaway": "only",
-        "website": "http://www.kofikofi.cz/",
+        "website": "https://www.kofikofi.cz/",
         "wheelchair": "yes"
       }
     },
@@ -458,7 +458,7 @@
         "phone": "+420 777 476 901",
         "smoking": "no",
         "takeaway": "yes",
-        "website": "http://www.bill.cz/",
+        "website": "https://www.bill.cz/",
         "wheelchair": "no"
       }
     },
@@ -544,7 +544,7 @@
         "payment:debit_cards": "yes",
         "phone": "+420 774 687 219",
         "smoking": "no",
-        "website": "http://nepalbrno.cz/",
+        "website": "https://nepalbrno.cz/",
         "wheelchair": "no"
       }
     },
@@ -584,7 +584,7 @@
         "opening_hours:signed": "no",
         "outdoor_seating": "parklet",
         "phone": "+420 608 626 666",
-        "website": "http://www.chillitreevn.com",
+        "website": "https://www.chillitreevn.com/",
         "wheelchair": "limited"
       }
     },
@@ -743,7 +743,7 @@
         "opening_hours:url": "http://www.obcerstvenibrutus.cz/provozovny",
         "phone": "+420 608 332 281",
         "takeaway": "yes",
-        "website": "http://www.obcerstvenibrutus.cz/",
+        "website": "https://www.obcerstvenibrutus.cz/",
         "wheelchair": "limited"
       }
     },
@@ -772,7 +772,7 @@
         "reservation": "yes",
         "smoking": "isolated",
         "takeaway": "yes",
-        "website": "http://www.napurkynce.cz",
+        "website": "https://www.napurkynce.cz/",
         "wheelchair": "no"
       }
     },
@@ -824,7 +824,7 @@
         "outdoor_seating": "yes",
         "phone": "+420 542 212 719",
         "takeaway": "yes",
-        "website": "http://www.veselacajovna.cz/",
+        "website": "https://www.veselacajovna.cz/",
         "wheelchair": "no"
       }
     },
@@ -1009,7 +1009,7 @@
         "opening_hours:signed": "no",
         "outdoor_seating": "no",
         "phone": "+420 736 621 591",
-        "website": "http://www.pizzerieumontyho.cz/",
+        "website": "https://www.pizzerieumontyho.cz/",
         "wheelchair": "no"
       }
     },
@@ -1414,7 +1414,7 @@
         "opening_hours": "Mo-Fr 11:00-22:00; Sa 12:00-22:00",
         "outdoor_seating": "no",
         "phone": "+420 777 404 124",
-        "website": "http://www.himalayarestaurace.cz",
+        "website": "https://www.himalayarestaurace.cz/",
         "wheelchair": "no"
       }
     },
@@ -1521,7 +1521,7 @@
         "opening_hours": "Mo-Th 08:00-23:00; Fr 08:00-01:00, Sa 11:30-24:00; Su 11:30-23:00",
         "outdoor_seating": "yes",
         "phone": "+420 542 211 444",
-        "website": "http://www.jedna-basen.cz/",
+        "website": "https://www.jedna-basen.cz/",
         "wheelchair": "no"
       }
     },
@@ -1786,7 +1786,7 @@
         "outdoor_seating": "pedestrian_zone",
         "phone": "+420 602 205 555",
         "smoking": "no",
-        "website": "http://www.cafeplaczek.cz/",
+        "website": "https://www.cafeplaczek.cz/",
         "wheelchair": "limited"
       }
     },
@@ -1849,7 +1849,7 @@
         "phone": "+420 542 212 752",
         "smoking": "no",
         "takeaway": "no",
-        "website": "http://www.ladolcevita-aida.cz/",
+        "website": "https://www.ladolcevita-aida.cz/",
         "wheelchair": "yes"
       }
     },
@@ -1886,7 +1886,7 @@
         "payment:visa_electron": "yes",
         "smoking": "no",
         "takeaway": "yes",
-        "website": "http://www.costa-coffee.cz/",
+        "website": "https://www.costa-coffee.cz/",
         "wheelchair": "no"
       }
     },
@@ -1956,7 +1956,7 @@
         "payment:onchain": "no",
         "payment:qerko:lightning": "yes",
         "phone": "+420 778 420 000",
-        "website": "http://www.zlatalod.com/",
+        "website": "https://www.zlatalod.com/",
         "wheelchair": "yes"
       }
     },
@@ -2172,7 +2172,7 @@
         "name": "Lokál U Caipla",
         "opening_hours": "Mo-Sa 11:00-24:00; Su 11:00-22:00",
         "phone": "+420 731 594 671",
-        "website": "http://lokal-ucaipla.ambi.cz/",
+        "website": "https://lokal-ucaipla.ambi.cz/",
         "wheelchair": "yes"
       }
     },
@@ -2217,7 +2217,7 @@
         "outdoor_seating": "pedestrian_zone",
         "phone": "+420 727 946 501",
         "takeaway": "yes",
-        "website": "http://www.starbuckscoffee.cz/",
+        "website": "https://www.starbuckscoffee.cz/",
         "wheelchair": "limited"
       }
     },
@@ -2324,7 +2324,7 @@
         "takeaway": "yes",
         "toilets": "yes",
         "toilets:wheelchair": "yes",
-        "website": "http://www.ugo.cz/",
+        "website": "https://www.ugo.cz/",
         "wheelchair": "limited"
       }
     },
@@ -2368,7 +2368,7 @@
         "organic": "yes",
         "outdoor_seating": "yes",
         "smoking": "outside",
-        "website": "http://ponava.cafe",
+        "website": "https://ponava.cafe/",
         "wheelchair": "limited"
       }
     },
@@ -2611,7 +2611,7 @@
         "payment:visa_electron": "yes",
         "phone": "+420 774 222 963",
         "smoking": "no",
-        "website": "http://diandi.cz",
+        "website": "https://diandi.cz/",
         "wheelchair": "limited"
       }
     },
