@@ -1008,6 +1008,8 @@
         "name": "Pizzerie U Montyho",
         "opening_hours:signed": "no",
         "outdoor_seating": "no",
+        "payment:credit_cards": "yes",
+        "payment:debit_cards": "yes",
         "phone": "+420 736 621 591",
         "website": "https://www.pizzerieumontyho.cz/",
         "wheelchair": "no"
@@ -2465,6 +2467,34 @@
         "phone": "+420 601 240 080",
         "smoking": "isolated",
         "website": "https://www.restaurace-maxwell.cz/"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4508930612,
+      "lat": 49.2078989,
+      "lon": 16.6030499,
+      "tags": {
+        "addr:city": "Brno",
+        "addr:housenumber": "51a",
+        "addr:postcode": "60200",
+        "addr:street": "Kotlářská",
+        "amenity": "restaurant",
+        "cuisine": "indian",
+        "diet:vegan": "yes",
+        "diet:vegetarian": "yes",
+        "email": "restaurace@padagali.cz",
+        "internet_access": "wlan",
+        "name": "Padagali",
+        "opening_hours": "Mo-Su 11:00-22:00",
+        "payment:maestro": "yes",
+        "payment:mastercard": "yes",
+        "payment:visa": "yes",
+        "payment:visa_debit": "yes",
+        "payment:visa_electron": "yes",
+        "phone": "+420 607 525 055",
+        "website": "https://padagali.cz/",
+        "wheelchair": "yes"
       }
     },
     {
