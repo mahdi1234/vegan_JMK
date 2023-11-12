@@ -1660,7 +1660,7 @@
         "addr:postcode": "61200",
         "addr:street": "Husitská",
         "amenity": "fast_food",
-        "check_date:opening_hours": "2020-09-24",
+        "check_date:opening_hours": "2023-11-11",
         "cuisine": "pizza",
         "diet:vegetarian": "yes",
         "indoor_seating": "no",
@@ -2672,7 +2672,7 @@
       "lon": 16.5939656,
       "tags": {
         "amenity": "restaurant",
-        "check_date:opening_hours": "2021-11-01",
+        "check_date:opening_hours": "2023-11-11",
         "currency:XBT": "yes",
         "diet:vegetarian": "yes",
         "name": "Správné místo",
