@@ -283,7 +283,9 @@
         "name": "McDonald's",
         "opening_hours": "Su-Th 07:00-01:00, Fr,Sa 07:00-03:00",
         "outdoor_seating": "no",
+        "phone": "+420 725 266 964",
         "takeaway": "yes",
+        "website": "www.mcdonalds.cz",
         "wheelchair": "yes"
       }
     },
@@ -3092,7 +3094,8 @@
         "drive_through": "no",
         "name": "Burger King",
         "opening_hours": "Mo-Su 04:00-22:00",
-        "operator": "burger",
+        "operator": "Burger King",
+        "phone": "+420 722 972 427",
         "takeaway": "yes",
         "wheelchair": "no"
       }
