@@ -537,7 +537,7 @@
         "addr:postcode": "61200",
         "addr:street": "Tyršova",
         "amenity": "restaurant",
-        "check_date:opening_hours": "2022-07-01",
+        "check_date:opening_hours": "2023-12-07",
         "cuisine": "indian;nepalese",
         "diet:vegetarian": "yes",
         "internet_access": "wlan",
@@ -1653,23 +1653,6 @@
         "name": "Soul Bistro",
         "opening_hours": "Mo-Th 08:00-22:00; Fr 08:00-23:00; Sa 10:00-23:00",
         "phone": "+420 773 179 212",
-        "wheelchair": "no"
-      }
-    },
-    {
-      "type": "node",
-      "id": 3221039427,
-      "lat": 49.2240212,
-      "lon": 16.5935157,
-      "tags": {
-        "addr:city": "Brno",
-        "addr:housenumber": "8",
-        "addr:postcode": "61200",
-        "addr:street": "Husitská",
-        "amenity": "cafe",
-        "diet:vegetarian": "yes",
-        "name": "Buon Giorno",
-        "opening_hours": "Mo,Tu,Th,Fr 08:00-17:30; We 08:00-19:00; Sa 09:00-12:00",
         "wheelchair": "no"
       }
     },
