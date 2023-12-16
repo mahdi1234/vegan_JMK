@@ -2188,6 +2188,31 @@
     },
     {
       "type": "node",
+      "id": 3902367959,
+      "lat": 49.1963819,
+      "lon": 16.6062411,
+      "tags": {
+        "addr:city": "Brno",
+        "addr:housenumber": "14",
+        "addr:postcode": "60200",
+        "addr:street": "Česká",
+        "amenity": "restaurant",
+        "cuisine": "italian",
+        "diet:vegan": "yes",
+        "diet:vegetarian": "yes",
+        "name": "Špageta bistro",
+        "opening_hours": "Mo-Sa 11:00-23:00",
+        "outdoor_seating": "yes",
+        "takeaway": "yes",
+        "toilets": "yes",
+        "toilets:access": "customers",
+        "toilets:wheelchair": "no",
+        "website": "https://spageta-bistro.business.site/",
+        "wheelchair": "no"
+      }
+    },
+    {
+      "type": "node",
       "id": 3929613034,
       "lat": 49.2163115,
       "lon": 16.6275301,
