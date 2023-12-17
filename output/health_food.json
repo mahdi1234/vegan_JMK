@@ -233,6 +233,12 @@
     "payment:visa_debit": "yes",
     "payment:visa_electron": "yes",
     "phone": "+420 739 642 129",
+    "post_office": "post_partner",
+    "post_office:brand": "Packeta",
+    "post_office:brand:wikidata": "Q67809905",
+    "post_office:ref": "935",
+    "post_office:service_provider": "Zásilkovna",
+    "post_office:website": "https://www.zasilkovna.cz/pobocky/rajec-jestrebi-blanenska",
     "shop": "health_food",
     "website": "https://www.nabo-rajec.cz/"
   }
