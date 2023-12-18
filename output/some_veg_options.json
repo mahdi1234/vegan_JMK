@@ -2895,6 +2895,22 @@
     },
     {
       "type": "node",
+      "id": 6353879659,
+      "lat": 49.2090114,
+      "lon": 16.6038245,
+      "tags": {
+        "addr:housenumber": "16",
+        "addr:street": "Štefánikova",
+        "check_date": "2023-12-17",
+        "diet:vegan": "yes",
+        "name": "Buchta B",
+        "opening_hours": "Mo-Fr 06:30-18:00; Sa,Su 08:00-18:00",
+        "shop": "coffee",
+        "wheelchair": "limited"
+      }
+    },
+    {
+      "type": "node",
       "id": 6711950050,
       "lat": 49.2016881,
       "lon": 16.6372312,
@@ -3066,6 +3082,29 @@
         "outdoor_seating": "sidewalk",
         "website": "https://www.jadrocafe.cz",
         "wheelchair": "no"
+      }
+    },
+    {
+      "type": "node",
+      "id": 8219977774,
+      "lat": 49.1933345,
+      "lon": 16.6074458,
+      "tags": {
+        "addr:housenumber": "2",
+        "addr:postcode": "60200",
+        "addr:street": "Mečová",
+        "amenity": "fast_food",
+        "check_date": "2023-12-17",
+        "cuisine": "pancake",
+        "diet:vegan": "yes",
+        "internet_access": "wlan",
+        "internet_access:fee": "no",
+        "level": "1",
+        "name": "Star Waffles",
+        "opening_hours": "Mo-Su 09:00-21:00",
+        "payment:cash": "yes",
+        "payment:credit_cards": "yes",
+        "payment:debit_cards": "yes"
       }
     },
     {
