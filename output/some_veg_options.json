@@ -3099,6 +3099,7 @@
         "diet:vegan": "yes",
         "internet_access": "wlan",
         "internet_access:fee": "no",
+        "kids_area": "yes",
         "level": "1",
         "name": "Star Waffles",
         "opening_hours": "Mo-Su 09:00-21:00",

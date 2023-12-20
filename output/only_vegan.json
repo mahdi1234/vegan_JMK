@@ -127,6 +127,22 @@
     },
     {
       "type": "node",
+      "id": 3716665533,
+      "lat": 49.1971288,
+      "lon": 16.601141,
+      "tags": {
+        "addr:city": "Brno",
+        "addr:housenumber": "14",
+        "addr:postcode": "60200",
+        "addr:street": "Marešova",
+        "amenity": "restaurant",
+        "diet:vegan": "only",
+        "name": "Vegan AF Ramen",
+        "wheelchair": "no"
+      }
+    },
+    {
+      "type": "node",
       "id": 4180713908,
       "lat": 49.2026309,
       "lon": 16.5968611,
