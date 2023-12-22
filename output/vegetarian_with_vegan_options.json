@@ -111,6 +111,28 @@
     },
     {
       "type": "node",
+      "id": 2300967869,
+      "lat": 49.1921111,
+      "lon": 16.6030565,
+      "tags": {
+        "addr:city": "Brno",
+        "addr:housenumber": "19",
+        "addr:postcode": "60200",
+        "addr:street": "Pekařská",
+        "amenity": "fast_food",
+        "check_date": "2023-12-21",
+        "cuisine": "israeli;falafel",
+        "diet:vegan": "yes",
+        "diet:vegetarian": "only",
+        "email": "falafeloinfo@gmail.com",
+        "name": "Falafelo",
+        "opening_hours": "Mo-Fr 11:00-19:00",
+        "phone": "+420 775 156 063",
+        "website": "https://www.falafelo.cz/"
+      }
+    },
+    {
+      "type": "node",
       "id": 3163520276,
       "lat": 49.1931907,
       "lon": 16.60751,
