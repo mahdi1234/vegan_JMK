@@ -3423,6 +3423,21 @@
         "opening_hours": "Tu-Su 11:00-15:00,16:00-20:00",
         "website": "http://www.arslanbuuz.cz/"
       }
+    },
+    {
+      "type": "node",
+      "id": 11466728833,
+      "lat": 49.3495453,
+      "lon": 16.4206414,
+      "tags": {
+        "amenity": "restaurant",
+        "cuisine": "sushi",
+        "diet:vegetarian": "yes",
+        "email": "objednavky@kumisushi.cz",
+        "mobile": "+420 604 206 959",
+        "name": "KUMIsushi",
+        "opening_hours": "We,Fr 11:30-16:00"
+      }
     }
   ]
 }
