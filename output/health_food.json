@@ -487,6 +487,17 @@
   }
 },
 {
+  "type": "node",
+  "id": 11476860548,
+  "lat": 49.3468462,
+  "lon": 16.4241741,
+  "tags": {
+    "name": "Vlčí mák",
+    "opening_hours": "Mo-Fr 09:00-17:00; Sa 09:00-12:00",
+    "shop": "health_food"
+  }
+},
+{
   "type": "way",
   "id": 253974427,
   "nodes": [
