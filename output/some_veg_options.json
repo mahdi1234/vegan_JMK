@@ -3097,6 +3097,7 @@
         "check_date": "2023-12-17",
         "cuisine": "pancake",
         "diet:vegan": "yes",
+        "drive_through": "no",
         "internet_access": "wlan",
         "internet_access:fee": "no",
         "kids_area": "yes",
@@ -3105,7 +3106,8 @@
         "opening_hours": "Mo-Su 09:00-21:00",
         "payment:cash": "yes",
         "payment:credit_cards": "yes",
-        "payment:debit_cards": "yes"
+        "payment:debit_cards": "yes",
+        "website": "https://www.facebook.com/people/Star-waffles-Brno/61551941887098/"
       }
     },
     {

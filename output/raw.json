@@ -7,31 +7,6 @@
 
 {
   "type": "node",
-  "id": 2916528158,
-  "lat": 49.1963816,
-  "lon": 16.6088699,
-  "tags": {
-    "addr:city": "Brno",
-    "addr:housenumber": "109/1",
-    "addr:postcode": "60200",
-    "addr:street": "Jakubské náměstí",
-    "amenity": "restaurant",
-    "capacity": "160",
-    "cuisine": "international",
-    "diet:gluten_free": "yes",
-    "diet:raw": "yes",
-    "diet:vegan": "only",
-    "name": "Forky's",
-    "opening_hours": "Mo-Fr 11:00-21:00; Sa 12:00-21:00; Su 12:00-18:00",
-    "outdoor_seating": "yes",
-    "phone": "+420 515 908 665",
-    "takeaway": "yes",
-    "website": "https://www.forkys.eu/",
-    "wheelchair": "yes"
-  }
-},
-{
-  "type": "node",
   "id": 3098348684,
   "lat": 49.1998261,
   "lon": 16.5966001,
