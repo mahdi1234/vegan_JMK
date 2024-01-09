@@ -3315,26 +3315,6 @@
     },
     {
       "type": "node",
-      "id": 10082219762,
-      "lat": 49.1912767,
-      "lon": 16.6132826,
-      "tags": {
-        "amenity": "fast_food",
-        "contact:facebook": "https://www.facebook.com/mashbrobrno",
-        "contact:instagram": "https://www.instagram.com/mashbro_cz/",
-        "diet:fruitarian": "yes",
-        "diet:gluten_free": "yes",
-        "diet:raw": "yes",
-        "diet:vegetarian": "yes",
-        "email": "info@mashbro.cz",
-        "name": "MASHBRO",
-        "opening_hours": "06:00-19:00",
-        "phone": "+420 733 388 692",
-        "website": "https://www.mashbro.cz/"
-      }
-    },
-    {
-      "type": "node",
       "id": 10802668081,
       "lat": 49.1507207,
       "lon": 17.0035334,
