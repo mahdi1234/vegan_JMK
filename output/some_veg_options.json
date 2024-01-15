@@ -3182,6 +3182,7 @@
         "diet:vegetarian": "yes",
         "indoor_seating": "no",
         "name": "Don Alexo",
+        "opening_hours": "Mo-Su 11:00-22:00",
         "outdoor_seating": "no",
         "takeaway": "only"
       }
@@ -3189,8 +3190,8 @@
     {
       "type": "node",
       "id": 8839776114,
-      "lat": 49.191006,
-      "lon": 16.6127243,
+      "lat": 49.191005,
+      "lon": 16.6126897,
       "tags": {
         "amenity": "fast_food",
         "cuisine": "sandwich",
