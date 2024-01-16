@@ -867,12 +867,14 @@
         "addr:housenumber": "17",
         "addr:postcode": "60200",
         "addr:street": "Jaselská",
-        "amenity": "cafe",
+        "amenity": "restaurant",
         "amenity_1": "pub",
         "diet:vegetarian": "yes",
         "internet_access": "yes",
-        "name": "Limbo",
-        "opening_hours": "Mo-Th 09:00-23:00; Fr 09:00-24:00; Su 16:00-23:00",
+        "name": "Pub Před Zrcadlem",
+        "opening_hours": "Mo-Sa 15:00-22:00 Su 15:00-20:00",
+        "phone": "+420 774 691 619",
+        "website": "https://cajovnazazrcadlem.cz/",
         "wheelchair": "no"
       }
     },
