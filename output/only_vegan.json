@@ -39,6 +39,9 @@
         "amenity": "restaurant",
         "diet:vegan": "only",
         "name": "Fryends",
+        "opening_hours": "Mo-Fr 11:00-22:00; Sa 09:30-22:00",
+        "outdoor_seating": "yes",
+        "website": "https://www.fryends.cz/",
         "wheelchair": "no"
       }
     },
