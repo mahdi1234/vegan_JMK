@@ -93,10 +93,10 @@
         "opening_hours": "Mo-Th 11:00-24:00; Fr 11:00-01:00, Sa 12:00-01:00, Su 12:00-23:00",
         "outdoor_seating": "yes",
         "phone": "+420 602 525 629",
+        "ref:ruian:addr": "19094841",
         "smoking": "outside",
-        "source:addr": "uir_adr",
+        "source:addr": "cuzk:ruian",
         "source:position": "cuzk:km",
-        "uir_adr:ADRESA_KOD": "19094841",
         "website": "https://www.restauracejakoby.cz/",
         "wheelchair": "no"
       }
@@ -125,8 +125,8 @@
         "payment:lightning:companion_app_url": "https://www.qerko.com",
         "payment:lightning:requires_companion_app": "yes",
         "phone": "+420 720 113 502",
-        "source:addr": "uir_adr",
-        "uir_adr:ADRESA_KOD": "19170556",
+        "ref:ruian:addr": "19170556",
+        "source:addr": "cuzk:ruian",
         "website": "http://www.bistrofranz.cz/",
         "wheelchair": "no"
       }
