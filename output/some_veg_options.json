@@ -2773,9 +2773,9 @@
         "payment:visa": "yes",
         "payment:visa_electron": "yes",
         "phone": "+420 739 401 086",
+        "ref:ruian:addr": "19094108",
         "reservation": "yes",
-        "source:addr": "uir_adr",
-        "uir_adr:ADRESA_KOD": "19094108",
+        "source:addr": "cuzk:ruian",
         "website": "http://www.atelierbar.cz/",
         "wheelchair": "yes"
       }
