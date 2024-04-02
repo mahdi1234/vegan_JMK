@@ -300,6 +300,7 @@
       "lon": 16.7268835,
       "tags": {
         "amenity": "cafe",
+        "check_date:opening_hours": "2024-04-01",
         "cuisine": "ice_cream",
         "diet:vegetarian": "yes",
         "internet_access": "no",
