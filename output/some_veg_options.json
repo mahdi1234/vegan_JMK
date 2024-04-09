@@ -720,29 +720,6 @@
     },
     {
       "type": "node",
-      "id": 1925175856,
-      "lat": 49.2215458,
-      "lon": 16.5963825,
-      "tags": {
-        "addr:city": "Brno",
-        "addr:housenumber": "54",
-        "addr:postcode": "61200",
-        "addr:street": "Palackého třída",
-        "amenity": "fast_food",
-        "cuisine": "burger",
-        "delivery": "yes",
-        "diet:vegetarian": "yes",
-        "name": "Brutus",
-        "opening_hours": "24/7",
-        "opening_hours:url": "http://www.obcerstvenibrutus.cz/provozovny",
-        "phone": "+420 608 332 281",
-        "takeaway": "yes",
-        "website": "https://www.obcerstvenibrutus.cz/",
-        "wheelchair": "limited"
-      }
-    },
-    {
-      "type": "node",
       "id": 2173043957,
       "lat": 49.2226846,
       "lon": 16.5846348,
