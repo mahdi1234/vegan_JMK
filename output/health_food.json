@@ -149,13 +149,14 @@
     "addr:postcode": "62800",
     "addr:street": "Masarova",
     "email": "lisen@sklizeno.cz",
-    "name": "Sklizeno",
-    "opening_hours": "Mo-Fr 08:00-19:00; Sa 08:00-13:00",
-    "operator": "Sklizeno",
+    "name": "Byjo - Zdravej krámek",
+    "opening_hours": "Mo-Fr 09:00-18:00; Sa 09:00-13:00",
+    "operator": "Byjo - Zdravej krámek",
     "payment:cards": "yes",
     "payment:cash": "yes",
+    "phone": "+420 607 771 179",
     "shop": "health_food",
-    "website": "https://www.sklizeno.cz"
+    "website": "https://www.byjozdravejkramek.cz/"
   }
 },
 {
