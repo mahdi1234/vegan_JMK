@@ -872,24 +872,6 @@
     },
     {
       "type": "node",
-      "id": 2451609644,
-      "lat": 49.1974499,
-      "lon": 16.6058952,
-      "tags": {
-        "addr:city": "Brno",
-        "addr:housenumber": "3",
-        "addr:postcode": "60200",
-        "addr:street": "Joštova",
-        "amenity": "fast_food",
-        "diet:vegetarian": "yes",
-        "name": "Hot Dog",
-        "opening_hours": "24/7",
-        "takeaway": "only",
-        "wheelchair": "yes"
-      }
-    },
-    {
-      "type": "node",
       "id": 2487478366,
       "lat": 49.1908708,
       "lon": 16.6039455,
@@ -2017,26 +1999,6 @@
         "opening_hours": "Mo-Fr 06:30-18:30; Sa-Su 09:00-18:00",
         "phone": "+420 727 965 707",
         "website": "https://www.tuttifrutti.cz/"
-      }
-    },
-    {
-      "type": "node",
-      "id": 3660667044,
-      "lat": 49.197785,
-      "lon": 16.605617,
-      "tags": {
-        "addr:city": "Brno",
-        "addr:housenumber": "6",
-        "addr:postcode": "60200",
-        "addr:street": "Joštova",
-        "amenity": "fast_food",
-        "cuisine": "turkish",
-        "diet:vegetarian": "yes",
-        "name": "Azeri Döner Kebab",
-        "opening_hours": "24/7",
-        "source": "survey",
-        "takeaway": "only",
-        "wheelchair": "no"
       }
     },
     {
