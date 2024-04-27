@@ -2884,7 +2884,7 @@
         "diet:vegetarian": "yes",
         "indoor_seating": "yes",
         "name": "U Mamlasů",
-        "opening_hours": "Mo-Sa 11:00-01:00; Su 11:00-23:00",
+        "opening_hours": "Mo-Su 11:00-23:30",
         "outdoor_seating": "pedestrian_zone",
         "wheelchair": "yes"
       }
