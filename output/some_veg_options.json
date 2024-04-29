@@ -810,12 +810,14 @@
         "amenity": "restaurant",
         "check_date:opening_hours": "2020-09-29",
         "cuisine": "indian",
+        "diet:lactose_free": "yes",
         "diet:vegetarian": "yes",
         "internet_access": "wlan",
         "name": "Veselá čajovna",
         "opening_hours": "Mo-Su 11:00-24:00",
         "outdoor_seating": "yes",
         "phone": "+420 542 212 719",
+        "reservation": "yes",
         "takeaway": "yes",
         "website": "https://www.veselacajovna.cz/",
         "wheelchair": "no"
@@ -1638,7 +1640,7 @@
         "cuisine": "international",
         "diet:vegetarian": "yes",
         "name": "Soul Bistro",
-        "opening_hours": "Mo-Th 08:00-22:00; Fr 08:00-23:00; Sa 10:00-23:00",
+        "opening_hours": "Mo-Th 10:30-22:00; Fr 10:30-23:00; Sa 10:00-23:00",
         "phone": "+420 773 179 212",
         "wheelchair": "no"
       }
