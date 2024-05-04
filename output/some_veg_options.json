@@ -3388,6 +3388,30 @@
         "name": "KUMIsushi",
         "opening_hours": "We,Fr 11:30-16:00"
       }
+    },
+    {
+      "type": "node",
+      "id": 11877205236,
+      "lat": 49.2074284,
+      "lon": 16.6022455,
+      "tags": {
+        "addr:city": "Brno",
+        "addr:housenumber": "907/41",
+        "addr:postcode": "60200",
+        "addr:street": "Kotlářská",
+        "amenity": "fast_food",
+        "cuisine": "czech",
+        "delivery": "yes",
+        "diet:vegetarian": "yes",
+        "email": "kulec@seznam.cz",
+        "name": "SuBedna",
+        "opening_hours": "Mo-Fr 10:00-17:00",
+        "payment:credit_cards": "no",
+        "payment:debit_cards": "no",
+        "phone": "+420 739 510 174",
+        "takeaway": "yes",
+        "website": "https://www.subedna.cz"
+      }
     }
   ]
 }
