@@ -575,6 +575,8 @@
         "name": "Roj Kebab",
         "opening_hours": "Mo-Sa 10:00-24:00; Su 11:00-24:00",
         "outdoor_seating": "no",
+        "payment:credit_cards": "yes",
+        "payment:debit_cards": "yes",
         "payment:visa": "yes",
         "takeaway": "only",
         "wheelchair": "yes"
@@ -1536,7 +1538,7 @@
         "payment:lightning_contactless": "no",
         "payment:onchain": "no",
         "phone": "+420 542 211 444",
-        "survey:date": "2014-03-01",
+        "survey:date": "2024-05-03",
         "website": "https://www.jedna-basen.cz/",
         "wheelchair": "no"
       }
@@ -1933,6 +1935,8 @@
         "name": "Zlatá loď",
         "opening_hours": "Mo-Th 11:00-24:00, Fr 11:00-01:00, Sa 11:30-01:00, Su 11:30-23:00",
         "outdoor_seating": "yes",
+        "payment:credit_cards": "yes",
+        "payment:debit_cards": "yes",
         "payment:lightning": "no",
         "payment:lightning:companion_app_url": "https://www.qerko.com",
         "payment:lightning:requires_companion_app": "yes",
@@ -2917,6 +2921,8 @@
         "name": "U Mamlasů",
         "opening_hours": "Mo-Su 11:00-23:30",
         "outdoor_seating": "pedestrian_zone",
+        "payment:credit_cards": "yes",
+        "payment:debit_cards": "yes",
         "wheelchair": "yes"
       }
     },
