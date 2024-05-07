@@ -2023,6 +2023,8 @@
         "diet:vegetarian": "yes",
         "name": "Tutti Frutti",
         "opening_hours": "Mo-Fr 06:30-18:30; Sa-Su 09:00-18:00",
+        "payment:credit_cards": "yes",
+        "payment:debit_cards": "yes",
         "phone": "+420 727 965 707",
         "website": "https://www.tuttifrutti.cz/"
       }
@@ -3012,7 +3014,7 @@
         "diet:vegetarian": "yes",
         "indoor_seating": "no",
         "name": "Ráj oříšků",
-        "opening_hours": "Mo-Fr 08:00-20:00; Sa,Su 08:00-18:00",
+        "opening_hours": "Mo-Fr 08:00-20:00; Sa,Su 09:00-19:00",
         "outdoor_seating": "no",
         "payment:credit_cards": "yes",
         "payment:debit_cards": "yes",
