@@ -97,28 +97,6 @@
 },
 {
   "type": "node",
-  "id": 4822475799,
-  "lat": 49.2040942,
-  "lon": 16.6043214,
-  "tags": {
-    "addr:city": "Brno",
-    "addr:housenumber": "17b",
-    "addr:postcode": "60200",
-    "addr:street": "Cihlářská",
-    "bulk_purchase": "yes",
-    "currency:XBT": "yes",
-    "name": "Čočkův BioJarmark",
-    "opening_hours": "Tu-Fr 16:30-19:00",
-    "organic": "only",
-    "payment:lightning": "yes",
-    "payment:onchain": "no",
-    "shop": "convenience",
-    "survey:date": "2023-05-01",
-    "website": "http://cockuvbiojarmark.org/"
-  }
-},
-{
-  "type": "node",
   "id": 5935167079,
   "lat": 49.1776173,
   "lon": 16.5668383,
