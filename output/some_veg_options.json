@@ -3220,6 +3220,7 @@
       "lon": 16.6015849,
       "tags": {
         "amenity": "restaurant",
+        "check_date": "2024-05-11",
         "diet:kosher": "no",
         "diet:vegan": "no",
         "diet:vegetarian": "yes",
