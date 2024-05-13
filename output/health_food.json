@@ -462,6 +462,17 @@
   }
 },
 {
+  "type": "node",
+  "id": 11899189162,
+  "lat": 48.9396668,
+  "lon": 16.7363079,
+  "tags": {
+    "name": "Racionální výživa",
+    "opening_hours": "Mo-Fr 08:00-17:00; Sa 08:00-11:00",
+    "shop": "health_food"
+  }
+},
+{
   "type": "way",
   "id": 253974427,
   "nodes": [

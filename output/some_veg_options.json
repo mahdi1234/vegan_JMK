@@ -1586,7 +1586,7 @@
         "internet_access": "wlan",
         "internet_access:fee": "yes",
         "name": "East Village",
-        "opening_hours": "Mo-Fr 10:00-02:00, Sa 11:00-02:00, Su 11:00-01:00",
+        "opening_hours": "Mo-Sa 17:00-24:00, Su 18:00-24:00",
         "phone": "+420 608 193 627",
         "website": "https://www.eastvillage.cz/",
         "wheelchair": "no"
@@ -2412,6 +2412,30 @@
     },
     {
       "type": "node",
+      "id": 4362006106,
+      "lat": 49.2173172,
+      "lon": 16.6082006,
+      "tags": {
+        "addr:city": "Brno-Královo Pole",
+        "addr:housenumber": "593/4",
+        "addr:postcode": "61200",
+        "addr:street": "Cimburkova",
+        "amenity": "fast_food",
+        "check_date": "2024-05-12",
+        "diet:vegan": "yes",
+        "drive_through": "no",
+        "email": "nckrpole@forkys.eu",
+        "level": "1",
+        "name": "Forky's",
+        "opening_hours": "Mo-Su 09:00-21:00",
+        "phone": "+420 777 477 533",
+        "takeaway": "yes",
+        "website": "https://www.forkys.cz/pobocka/nc-kralovo-pole/",
+        "wheelchair": "yes"
+      }
+    },
+    {
+      "type": "node",
       "id": 4391809540,
       "lat": 49.1961254,
       "lon": 16.6093882,
@@ -2616,7 +2640,7 @@
         "addr:postcode": "60200",
         "addr:street": "náměstí Svobody",
         "amenity": "restaurant",
-        "check_date:opening_hours": "2022-02-11",
+        "check_date:opening_hours": "2024-05-12",
         "cuisine": "vietnamese",
         "diet:vegetarian": "yes",
         "indoor_seating": "yes",
