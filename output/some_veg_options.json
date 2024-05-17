@@ -3339,12 +3339,12 @@
         "diet:vegetarian": "yes",
         "indoor_seating": "yes",
         "name": "Dervis KEBAB",
-        "opening_hours": "Mo 10:00-20:00; Tu-Th 10:00-22:00; Fr 10:00-20:00",
+        "opening_hours": "Mo-Th 10:00-22:00; Fr,Sa 10:30-20:00",
         "outdoor_seating": "yes",
         "payment:cash": "yes",
         "payment:credit_cards": "yes",
         "payment:debit_cards": "yes",
-        "phone": "+420 777 732 703",
+        "phone": "+420 776 245 923",
         "toilets": "no"
       }
     },
@@ -3434,6 +3434,29 @@
         "phone": "+420 739 510 174",
         "takeaway": "yes",
         "website": "https://www.subedna.cz"
+      }
+    },
+    {
+      "type": "node",
+      "id": 11911152697,
+      "lat": 49.4875221,
+      "lon": 16.661696,
+      "tags": {
+        "addr:housenumber": "2197/24b",
+        "addr:street": "Kpt. Jaroše",
+        "amenity": "cafe",
+        "check_date": "2024-05-17",
+        "diet:vegetarian": "yes",
+        "email": "bistrokavarna@anyz-rorys.cz",
+        "name": "Anýz a rorýs",
+        "opening_hours": "Mo-Fr 07:00-17:00; Sa-Su off",
+        "payment:cash": "yes",
+        "payment:credit_cards": "yes",
+        "payment:debit_cards": "yes",
+        "phone": "+420 774 576 708",
+        "toilets": "yes",
+        "website": "https://www.anyz-rorys.cz",
+        "wheelchair": "limited"
       }
     }
   ]
