@@ -558,6 +558,7 @@
         "payment:debit_cards": "yes",
         "phone": "+420 774 687 219",
         "smoking": "no",
+        "url": "https://nepalbrno.cz/",
         "website": "https://nepalbrno.cz/",
         "wheelchair": "no"
       }
@@ -3485,8 +3486,9 @@
         "image": "https://su.fit.vut.cz/img/kachna1.jpg",
         "internet_access": "wlan",
         "internet_access:fee": "no",
+        "level": "2",
         "name": "Studentský klub U Kachničky",
-        "opening_hours": "Mo,We 16:00-22:00 \"během semestru\"",
+        "opening_hours": "Mo,We 16:00-22:00 \"otvíračka, během semestru\", Th 16:00-22:00 \"čajovna, během semestru a zkouškového období\"",
         "operator": "Studentská unie FIT VUT",
         "phone": "+420 54114 1013",
         "takeaway": "no",
