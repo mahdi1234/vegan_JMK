@@ -114,7 +114,7 @@
         "addr:street": "Veveří",
         "addr:streetnumber": "14",
         "amenity": "restaurant",
-        "check_date:currency:XBT": "2024-02-25",
+        "check_date:currency:XBT": "2024-05-22",
         "currency:XBT": "yes",
         "diet:vegetarian": "yes",
         "indoor_seating": "yes",
@@ -1038,6 +1038,29 @@
     },
     {
       "type": "node",
+      "id": 2918023551,
+      "lat": 49.2028172,
+      "lon": 16.6103913,
+      "tags": {
+        "addr:city": "Brno",
+        "addr:housenumber": "29",
+        "addr:postcode": "60200",
+        "addr:street": "třída Kpt. Jaroše",
+        "amenity": "restaurant",
+        "cuisine": "thai",
+        "diet:vegetarian": "yes",
+        "indoor_seating": "yes",
+        "internet_access": "wlan",
+        "name": "Sabaidy",
+        "opening_hours": "Mo-Fr 11:00-21:00; Sa 12:00-21:00; Su off",
+        "outdoor_seating": "patio",
+        "phone": "+420 545 428 310",
+        "website": "http://www.amphone.eu/restaurace",
+        "wheelchair": "yes"
+      }
+    },
+    {
+      "type": "node",
       "id": 3098348684,
       "lat": 49.1998261,
       "lon": 16.5966001,
@@ -1630,9 +1653,9 @@
         "addr:city": "Brno",
         "addr:housenumber": "7",
         "addr:street": "Jezuitská",
-        "amenity": "restaurant",
         "cuisine": "international",
         "diet:vegetarian": "yes",
+        "disused:amenity": "restaurant",
         "name": "Soul Bistro",
         "opening_hours": "Mo-Th 10:30-22:00; Fr 10:30-23:00; Sa 10:00-23:00",
         "phone": "+420 773 179 212",
@@ -1785,6 +1808,26 @@
         "outdoor_seating": "no",
         "takeaway": "only",
         "wheelchair": "no"
+      }
+    },
+    {
+      "type": "node",
+      "id": 3389127497,
+      "lat": 49.1920808,
+      "lon": 16.610353,
+      "tags": {
+        "addr:city": "Brno",
+        "addr:housenumber": "22",
+        "addr:postcode": "60200",
+        "addr:street": "Masarykova",
+        "amenity": "restaurant",
+        "diet:vegetarian": "yes",
+        "indoor_seating": "yes",
+        "name": "Wokin",
+        "opening_hours": "Mo-Fr 10:30-21:30; Sa,Su 11:30-21:30",
+        "outdoor_seating": "no",
+        "payment:credit_cards": "yes",
+        "payment:debit_cards": "yes"
       }
     },
     {
@@ -2616,11 +2659,12 @@
         "addr:street": "Poštovská",
         "air_conditioning": "yes",
         "amenity": "pub",
+        "brewery": "various",
         "diet:vegetarian": "yes",
         "food": "yes",
         "indoor_seating": "yes",
         "name": "Axiom Pub",
-        "opening_hours": "Mo-Th 15:00-24:00, Fr 15:00-02:00, Sa 12:00-02:00, Su 14:00-23:00",
+        "opening_hours": "Mo,Tu 17:00-24:00, We,Th 17:00-01:00, Fr 17:00-02:00, Sa 15:00-02:00, Su 14:00-22:00",
         "outdoor_seating": "pedestrian_zone",
         "smoking": "no",
         "wheelchair": "no"
@@ -3307,6 +3351,42 @@
         "opening_hours": "Mo-Sa 11:00-22:00; Su 11:00-21:00",
         "phone": "+420 731 947 236",
         "website": "https://www.om-indicka.cz/"
+      }
+    },
+    {
+      "type": "node",
+      "id": 10082219761,
+      "lat": 49.1912874,
+      "lon": 16.6133227,
+      "tags": {
+        "amenity": "fast_food",
+        "cuisine": "pizza",
+        "diet:vegetarian": "yes",
+        "indoor_seating": "no",
+        "name": "Pizza stazione",
+        "opening_hours": "Mo-Fr 10:00-20:00",
+        "operator": "Yveta Zehnalová",
+        "outdoor_seating": "no",
+        "payment:debit_cards": "yes",
+        "takeaway": "only",
+        "wheelchair": "yes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 10082219762,
+      "lat": 49.1913076,
+      "lon": 16.6133589,
+      "tags": {
+        "amenity": "fast_food",
+        "diet:vegetarian": "yes",
+        "indoor_seating": "no",
+        "name": "suBedna chlebíčky",
+        "opening_hours": "Mo-Fr 06:30-19:00; Sa-Su 07:30-19:00",
+        "outdoor_seating": "no",
+        "takeaway": "only",
+        "website": "https://www.subedna.cz/",
+        "wheelchair": "yes"
       }
     },
     {
