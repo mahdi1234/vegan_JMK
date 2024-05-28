@@ -116,6 +116,7 @@
         "amenity": "restaurant",
         "diet:vegan": "only",
         "name": "Vegan AF Ramen",
+        "website": "https://www.veganaframen.pl/",
         "wheelchair": "no"
       }
     },

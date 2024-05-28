@@ -625,10 +625,13 @@
         "addr:postcode": "60200",
         "addr:street": "Údolní",
         "amenity": "cafe",
+        "check_date": "2024-05-22",
         "diet:vegetarian": "yes",
         "internet_access": "wlan",
         "name": "Café Mezzanine",
-        "opening_hours": "Mo-Fr 07:00-23:00; Sa-Su 10:00-22:00",
+        "opening_hours": "Mo-Fr 07:00-23:00; Sa-Su 11:00-22:00",
+        "phone": "+420 776 427 185",
+        "website": "https://www.cafe-mezzanine.cz/",
         "wheelchair": "no"
       }
     },
@@ -1621,7 +1624,7 @@
         "name": "East Village",
         "opening_hours": "Mo-Sa 17:00-24:00, Su 18:00-24:00",
         "phone": "+420 608 193 627",
-        "website": "https://www.eastvillage.cz/",
+        "website": "https://east-village6.webnode.cz/kontakt/",
         "wheelchair": "no"
       }
     },
