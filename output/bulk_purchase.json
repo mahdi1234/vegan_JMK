@@ -182,27 +182,6 @@
   }
 },
 {
-  "type": "node",
-  "id": 9227869423,
-  "lat": 49.2029170,
-  "lon": 16.6191659,
-  "tags": {
-    "bulk_purchase": "yes",
-    "email": "jezekbezobalu@seznam.cz",
-    "mobile": "+420 737 750 549",
-    "name": "Ježek bez obalu",
-    "opening_hours": "Mo-Fr 10:00-18:00",
-    "payment:maestro": "yes",
-    "payment:mastercard": "yes",
-    "payment:visa": "yes",
-    "payment:visa_debit": "yes",
-    "payment:visa_electron": "yes",
-    "shop": "convenience",
-    "website": "https://www.jezekbezobalu.cz/",
-    "wheelchair": "yes"
-  }
-},
-{
   "type": "way",
   "id": 253974427,
   "nodes": [
