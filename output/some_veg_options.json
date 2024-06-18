@@ -295,6 +295,30 @@
     },
     {
       "type": "node",
+      "id": 987498889,
+      "lat": 49.2027446,
+      "lon": 16.5974253,
+      "tags": {
+        "addr:city": "Brno",
+        "addr:housenumber": "51",
+        "addr:postcode": "60200",
+        "addr:street": "Veveří",
+        "amenity": "restaurant",
+        "cuisine": "korean;sushi;thai",
+        "diet:vegetarian": "yes",
+        "email": "mulgogi.brno@gmail.com",
+        "name": "Mulgogi",
+        "opening_hours": "Mo-Sa 11:00-22:00",
+        "phone": "+420 778 570 918",
+        "takeaway": "yes",
+        "website": "https://mulgogi.cz/",
+        "website:booking": "https://mulgogi.cz/booking",
+        "website:menu": "https://mulgogi.cz/online-menu/section:menu",
+        "wheelchair": "no"
+      }
+    },
+    {
+      "type": "node",
       "id": 1168857294,
       "lat": 49.1694001,
       "lon": 16.7268835,
