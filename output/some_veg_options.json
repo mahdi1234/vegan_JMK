@@ -2501,7 +2501,8 @@
         "addr:postcode": "61200",
         "addr:street": "Cimburkova",
         "amenity": "fast_food",
-        "check_date": "2024-05-12",
+        "check_date": "2024-06-20",
+        "description": "Forky’s je koncept moderního bistra-restaurace, kde se veškeré jídlo připravuje pouze z čistě rostlinných surovin. Nepoužívá žádné ingredience živočišného původu.",
         "diet:vegan": "yes",
         "drive_through": "no",
         "email": "nckrpole@forkys.eu",
@@ -3129,22 +3130,6 @@
         "payment:debit_cards": "yes",
         "website": "https://bistroprovaz.cz/",
         "wheelchair": "yes"
-      }
-    },
-    {
-      "type": "node",
-      "id": 7826700275,
-      "lat": 49.2204695,
-      "lon": 16.5857836,
-      "tags": {
-        "amenity": "cafe",
-        "diet:vegetarian": "yes",
-        "indoor_seating": "yes",
-        "name": "Jadro",
-        "opening_hours": "Mo-Fr 10:00-20:00; Su 13:00-18:00",
-        "outdoor_seating": "sidewalk",
-        "website": "https://www.jadrocafe.cz",
-        "wheelchair": "no"
       }
     },
     {
