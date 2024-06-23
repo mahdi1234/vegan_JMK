@@ -1302,7 +1302,7 @@
         "toilets": "yes",
         "toilets:access": "customers",
         "website": "http://tivolicafe.cz/",
-        "wheelchair": "limited"
+        "wheelchair": "no"
       }
     },
     {

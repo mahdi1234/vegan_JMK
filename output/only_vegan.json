@@ -132,13 +132,14 @@
         "addr:street": "Jana Uhra",
         "amenity": "restaurant",
         "contact:facebook": "https://www.facebook.com/pizzapunk.brno",
-        "contact:phone": "+420 608 312 369",
+        "contact:phone": "+420 720 020 302",
         "cuisine": "pizza",
         "diet:vegan": "only",
         "name": "Pizzapunk",
-        "opening_hours": "Tu-Fr 12:00-21:00; Sa,Su 14:00-21:00",
+        "opening_hours": "Mo-Fr,Su 11:00-21:00; Sa 12:00-21:00",
         "outdoor_seating": "yes",
-        "takeaway": "yes"
+        "takeaway": "yes",
+        "wheelchair": "no"
       }
     },
     {
