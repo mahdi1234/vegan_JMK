@@ -473,6 +473,31 @@
   }
 },
 {
+  "type": "node",
+  "id": 12009216494,
+  "lat": 49.2173661,
+  "lon": 16.6090815,
+  "tags": {
+    "addr:city": "Brno-Královo Pole",
+    "addr:housenumber": "4",
+    "addr:postcode": "612 00",
+    "addr:street": "Cimburkova",
+    "check_date": "2024-06-25",
+    "email": "info@zdravejsicesta.cz",
+    "image": "https://www.krpolenc.cz/data/tenants-store-11/1c/zdrava-vziva.940x620.exact.q85.jpg",
+    "level": "1",
+    "name": "Zdravá výživa",
+    "opening_hours": "Mo-Su 09:00-21:00",
+    "operator": "Zdravá výživa aneb škopek není všechno s.r.o.",
+    "payment:cards": "yes",
+    "payment:cash": "yes",
+    "payment:contactless": "yes",
+    "phone": "+420 704 450 787",
+    "shop": "health_food",
+    "website": "https://zdravejsicesta.cz/"
+  }
+},
+{
   "type": "way",
   "id": 253974427,
   "nodes": [
