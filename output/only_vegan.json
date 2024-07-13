@@ -13,6 +13,7 @@
         "addr:postcode": "60200",
         "addr:street": "Slovákova",
         "amenity": "restaurant",
+        "contact:facebook": "vegalite",
         "delivery": "yes",
         "diet:gluten_free": "yes",
         "diet:vegan": "only",
@@ -20,8 +21,12 @@
         "internet_access:fee": "no",
         "name": "Vegalité",
         "opening_hours": "Mo-Fr 11:00-23:00; Sa 16:00-23:00",
+        "outdoor_seating": "no",
+        "payment:cards": "yes",
+        "payment:cash": "yes",
         "smoking": "no",
         "takeaway": "yes",
+        "toilets": "yes",
         "website": "https://vegalite.cz",
         "wheelchair": "no"
       }
@@ -170,9 +175,15 @@
       "lon": 16.6232325,
       "tags": {
         "amenity": "cafe",
+        "check_date": "2024-07-12",
+        "contact:facebook": "lakavakavarna",
+        "contact:instagram": "https://www.instagram.com/lakava_brno",
         "diet:vegan": "only",
+        "diet:vegetarian": "yes",
         "name": "Lákava",
-        "opening_hours": "Mo-Fr 07:30-18:00"
+        "opening_hours": "Mo-Fr 07:30-18:00; Sa-Su 09:00-16:00",
+        "smoking": "no",
+        "wheelchair": "no"
       }
     },
     {

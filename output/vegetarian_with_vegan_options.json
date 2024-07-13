@@ -78,14 +78,16 @@
         "addr:postcode": "60200",
         "addr:street": "Slovákova",
         "amenity": "restaurant",
+        "check_date": "2024-07-12",
         "cuisine": "healthy",
         "diet:vegan": "yes",
         "diet:vegetarian": "only",
         "email": "info@oaza-brno.cz",
         "name": "Oaza",
-        "opening_hours": "Mo-Fr 07:30-18:00",
+        "opening_hours": "Mo-Fr 07:30-17:30",
         "phone": "+420 539 030 507",
         "website": "https://oaza-brno.cz/",
+        "website:menu": "https://oaza-brno.cz/jidelni-listek",
         "wheelchair": "limited"
       }
     },
@@ -224,10 +226,12 @@
         "addr:postcode": "60200",
         "addr:street": "Smetanova",
         "amenity": "cafe",
+        "check_date": "2024-07-12",
+        "contact:facebook": "https://fb.me/kafefriedrich",
         "diet:vegan": "yes",
         "diet:vegetarian": "only",
         "name": "Kafe Friedrich",
-        "opening_hours": "Mo-Fr 07:30-21:00; Sa 09:00-19:00",
+        "opening_hours": "Mo-Fr 08:00-18:30; Sa 09:00-18:00; Ne 10:00-18:00",
         "website": "http://kafefriedrich.cz/",
         "wheelchair": "no"
       }

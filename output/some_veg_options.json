@@ -2702,6 +2702,23 @@
     },
     {
       "type": "node",
+      "id": 4928156502,
+      "lat": 49.2102503,
+      "lon": 16.5975598,
+      "tags": {
+        "amenity": "restaurant",
+        "check_date": "2024-07-12",
+        "contact:facebook": "BistroNaBotance",
+        "diet:vegan": "yes",
+        "name": "Bistro na Botance",
+        "opening_hours": "Mo-Fr 08:30-15:00,17:30-21:00",
+        "payment:cards": "no",
+        "phone": "+420 605 256 514",
+        "wheelchair": "yes"
+      }
+    },
+    {
+      "type": "node",
       "id": 5016994025,
       "lat": 49.1897393,
       "lon": 16.6140796,
