@@ -74,6 +74,26 @@
     },
     {
       "type": "node",
+      "id": 296607525,
+      "lat": 49.1962742,
+      "lon": 16.6088462,
+      "tags": {
+        "addr:conscriptionnumber": "109",
+        "addr:housenumber": "109/9",
+        "addr:postcode": "602 00",
+        "addr:street": "Běhounská",
+        "addr:streetnumber": "9",
+        "amenity": "restaurant",
+        "cuisine": "kebab;regional;turkish",
+        "diet:vegetarian": "yes",
+        "name": "Kebab Šach",
+        "opening_hours": "Mo-Th 10:00-00:00; Fr 10:00-03:00; Sa 11:00-03:00; Su 12:00-22:00",
+        "ref:ruian:addr": "19094566",
+        "source:addr": "cuzk:ruian"
+      }
+    },
+    {
+      "type": "node",
       "id": 296608120,
       "lat": 49.1969623,
       "lon": 16.6085328,
@@ -3003,6 +3023,7 @@
         "amenity": "restaurant",
         "cuisine": "steak_house;italian",
         "diet:vegetarian": "yes",
+        "indoor_seating": "yes",
         "internet_access": "wlan",
         "internet_access:ssid": "K1-FREEWIFI",
         "name": "Steak House K1",
