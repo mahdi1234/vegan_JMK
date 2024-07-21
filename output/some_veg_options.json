@@ -3431,6 +3431,7 @@
       "lon": 16.6133589,
       "tags": {
         "amenity": "fast_food",
+        "diet:vegan": "no",
         "diet:vegetarian": "yes",
         "indoor_seating": "no",
         "name": "suBedna chlebíčky",
