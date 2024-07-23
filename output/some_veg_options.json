@@ -435,6 +435,7 @@
         "cuisine": "regional",
         "diet:vegan": "no",
         "diet:vegetarian": "yes",
+        "indoor_seating": "yes",
         "internet_access": "wlan",
         "name": "Pivnice U Čápa",
         "opening_hours": "Mo-Su 11:00-24:00",
@@ -1773,6 +1774,33 @@
         "outdoor_seating": "no",
         "website": "http://lightofindia.cz/",
         "wheelchair": "no"
+      }
+    },
+    {
+      "type": "node",
+      "id": 3319051592,
+      "lat": 49.1939908,
+      "lon": 16.6071856,
+      "tags": {
+        "addr:city": "Brno",
+        "addr:housenumber": "5",
+        "addr:postcode": "60200",
+        "addr:street": "Dominikánské náměstí",
+        "amenity": "cafe",
+        "check_date": "2024-07-22",
+        "diet:vegan": "yes",
+        "diet:vegetarian": "yes",
+        "indoor_seating": "yes",
+        "internet_access": "wlan",
+        "name": "SKØG Urban Hub",
+        "opening_hours": "Mo-Th 08:00-01:00, Fr 08:00-02:00, Sa 09:00-02:00, Su 09:00-23:00",
+        "outdoor_seating": "yes",
+        "payment:cash": "yes",
+        "payment:credit_cards": "yes",
+        "payment:debit_cards": "yes",
+        "phone": "+420 607 098 557",
+        "website": "https://www.skog.cz/",
+        "wheelchair": "yes"
       }
     },
     {

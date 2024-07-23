@@ -94,6 +94,30 @@
     },
     {
       "type": "node",
+      "id": 2860041594,
+      "lat": 49.1892322,
+      "lon": 16.60624,
+      "tags": {
+        "addr:city": "Brno",
+        "addr:housenumber": "22",
+        "addr:postcode": "60200",
+        "addr:street": "Nádražní",
+        "air_conditioning": "yes",
+        "amenity": "cafe",
+        "cuisine": "burger",
+        "description": "Zvířecí kavárna\nUmisťovací kočičí kavárna v Brně | první i se stálými kočičkami",
+        "diet:vegetarian": "only",
+        "indoor_seating": "yes",
+        "name": "Tři Kočketýři",
+        "opening_hours": "Mo-Fr 10:00-19:00; Sa 11:00-20:00; Su 01:00-19:00",
+        "outdoor_seating": "no",
+        "phone": "+420 603 986 340",
+        "website": "https://www.instagram.com/tri_kocketyri/",
+        "wheelchair": "no"
+      }
+    },
+    {
+      "type": "node",
       "id": 3775719870,
       "lat": 49.1918319,
       "lon": 16.6125639,

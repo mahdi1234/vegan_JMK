@@ -174,27 +174,6 @@
     },
     {
       "type": "node",
-      "id": 3319051592,
-      "lat": 49.1939908,
-      "lon": 16.6071856,
-      "tags": {
-        "addr:city": "Brno",
-        "addr:housenumber": "5",
-        "addr:postcode": "60200",
-        "addr:street": "Dominikánské náměstí",
-        "amenity": "cafe",
-        "diet:vegan": "yes",
-        "diet:vegetarian": "only",
-        "internet_access": "wlan",
-        "name": "SKØG Urban Hub",
-        "opening_hours": "Mo-Th 08:00-01:00, Fr 08:00-02:00, Sa 09:00-02:00, Su 09:00-23:00",
-        "phone": "+420 607 098 557",
-        "website": "https://www.skog.cz/",
-        "wheelchair": "yes"
-      }
-    },
-    {
-      "type": "node",
       "id": 3389852552,
       "lat": 49.1936454,
       "lon": 16.6082302,
