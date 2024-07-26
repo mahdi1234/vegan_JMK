@@ -3060,7 +3060,11 @@
         "opening_hours": "Mo-Sa 11:00-23:00; Su 11:00-22:00",
         "outdoor_seating": "yes",
         "payment:cash": "yes",
-        "phone": "+420 545 245 429"
+        "phone": "+420 545 245 429",
+        "toilets": "yes",
+        "toilets:wheelchair": "yes",
+        "website": "https://k1steakhouse.cz/restaurace/take-away",
+        "wheelchair": "limited"
       }
     },
     {
