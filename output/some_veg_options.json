@@ -416,6 +416,7 @@
         "contact:facebook": "https://www.facebook.com/restauracehoamai",
         "cuisine": "vietnamese",
         "diet:vegetarian": "yes",
+        "indoor_seating": "yes",
         "internet_access": "wlan",
         "name": "Hoa Mai",
         "opening_hours": "Mo-Sa 11:00-23:00; Su 12:00-22:00",
@@ -2508,6 +2509,7 @@
         "diet:vegan": "yes",
         "diet:vegetarian": "yes",
         "internet_access": "wlan",
+        "live_music": "yes",
         "name": "Ponava",
         "opening_hours": "Mo-Sa 15:00-23:00; Su 13:00-18:00",
         "organic": "yes",
@@ -3696,6 +3698,20 @@
         "takeaway": "no",
         "website": "https://su.fit.vut.cz/kachna/",
         "wheelchair": "yes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 12082891425,
+      "lat": 49.1919987,
+      "lon": 16.6075962,
+      "tags": {
+        "amenity": "restaurant",
+        "cuisine": "mediterranean",
+        "diet:vegetarian": "yes",
+        "name": "Paprika",
+        "outdoor_seating": "yes",
+        "website": "https://www.my-paprika.com/zelny-trh-10-brno-1"
       }
     }
   ]
