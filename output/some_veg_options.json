@@ -3279,7 +3279,9 @@
         "cuisine": "bagel",
         "diet:vegan": "yes",
         "diet:vegetarian": "yes",
+        "indoor_seating": "yes",
         "name": "Celozrnná sváča",
+        "outdoor_seating": "no",
         "takeaway": "yes",
         "wheelchair": "no"
       }
@@ -3425,8 +3427,12 @@
         "diet:kosher": "no",
         "diet:vegan": "no",
         "diet:vegetarian": "yes",
+        "indoor_seating": "yes",
         "name": "Garden Food Concept",
-        "opening_hours": "Mo-Sa 11:00-22:00"
+        "opening_hours": "Mo-Sa 11:00-22:00",
+        "outdoor_seating": "yes",
+        "payment:credit_cards": "yes",
+        "payment:debit_cards": "yes"
       }
     },
     {
