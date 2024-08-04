@@ -1300,30 +1300,6 @@
     },
     {
       "type": "node",
-      "id": 3157717966,
-      "lat": 49.2031433,
-      "lon": 16.596854,
-      "tags": {
-        "addr:city": "Brno",
-        "addr:housenumber": "57",
-        "addr:postcode": "60200",
-        "addr:street": "Veveří",
-        "amenity": "restaurant",
-        "check_date:opening_hours": "2024-03-10",
-        "cuisine": "burger",
-        "diet:vegetarian": "yes",
-        "indoor_seating": "yes",
-        "internet_access": "wlan",
-        "name": "The Immigrant",
-        "opening_hours": "Mo-Th 11:00-23:00; Fr-Sa 12:00-02:00, Su 12:00-23:00",
-        "outdoor_seating": "yes",
-        "phone": "+420 792 202 231",
-        "website": "https://www.theimmigrant.cz/",
-        "wheelchair": "no"
-      }
-    },
-    {
-      "type": "node",
       "id": 3157724313,
       "lat": 49.2051016,
       "lon": 16.5942013,

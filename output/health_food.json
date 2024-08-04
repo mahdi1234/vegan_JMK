@@ -498,6 +498,23 @@
   }
 },
 {
+  "type": "node",
+  "id": 12090560901,
+  "lat": 49.2034579,
+  "lon": 16.5964814,
+  "tags": {
+    "addr:city": "Brno",
+    "addr:housenumber": "491/63",
+    "addr:street": "Veveří",
+    "contact:phone": "+420 737 722 306",
+    "contact:website": "https://obchudekveveri.cz/",
+    "name": "Obchůdek pro zdraví",
+    "opening_hours": "Mo-Fr 09:00-18:00",
+    "shop": "health_food",
+    "wheelchair": "no"
+  }
+},
+{
   "type": "way",
   "id": 253974427,
   "nodes": [
