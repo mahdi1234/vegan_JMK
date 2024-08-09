@@ -1211,6 +1211,22 @@
     },
     {
       "type": "node",
+      "id": 3137210734,
+      "lat": 49.2178792,
+      "lon": 16.4974735,
+      "tags": {
+        "amenity": "cafe",
+        "check_date:opening_hours": "2024-08-08",
+        "diet:vegetarian": "yes",
+        "name": "Objekt coffee",
+        "opening_hours": "Mo-Su 09:00-20:00",
+        "payment:credit_cards": "no",
+        "payment:debit_cards": "no",
+        "wheelchair": "yes"
+      }
+    },
+    {
+      "type": "node",
       "id": 3152747857,
       "lat": 49.2080408,
       "lon": 16.604367,
@@ -3335,6 +3351,20 @@
         "outdoor_seating": "no",
         "takeaway": "only",
         "wheelchair": "yes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 8901748688,
+      "lat": 49.2301098,
+      "lon": 16.5166352,
+      "tags": {
+        "amenity": "fast_food",
+        "diet:vegetarian": "yes",
+        "drive_through": "no",
+        "name": "občerrstvení",
+        "opening_hours": "Mo-Su 08:00-20:00",
+        "outdoor_seating": "yes"
       }
     },
     {
