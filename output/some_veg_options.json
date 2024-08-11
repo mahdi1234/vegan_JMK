@@ -3576,6 +3576,24 @@
     },
     {
       "type": "node",
+      "id": 11016353225,
+      "lat": 49.2564828,
+      "lon": 16.4612364,
+      "tags": {
+        "amenity": "cafe",
+        "contact:facebook": "bistrowinston",
+        "contact:instagram": "bistrowinston",
+        "cuisine": "coffee_shop;fish_and_chips;ice_cream;italian;sandwich;tea",
+        "diet:vegan": "yes",
+        "email": "info@michal-burian.cz",
+        "name": "Winston",
+        "outdoor_seating": "yes",
+        "phone": "+420 603 837 063",
+        "website": "https://www.bistrowinston.cz/"
+      }
+    },
+    {
+      "type": "node",
       "id": 11186431754,
       "lat": 49.1962671,
       "lon": 16.6018228,
