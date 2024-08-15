@@ -257,8 +257,10 @@
   "lat": 49.1526935,
   "lon": 16.8765486,
   "tags": {
-    "name": "Potraviny Zdravísek",
-    "shop": "health_food"
+    "name": "La. Obchůdek",
+    "opening_hours": "Mo-Fr 09:00-17:00; Sa 09:00-11:30",
+    "shop": "health_food",
+    "website": "www.la-obchudek.cz"
   }
 },
 {
