@@ -2601,6 +2601,7 @@
         "addr:postcode": "60200",
         "addr:street": "Kozí",
         "amenity": "restaurant",
+        "check_date:opening_hours": "2024-08-16",
         "cuisine": "greek",
         "diet:vegetarian": "yes",
         "internet_access": "wlan",
