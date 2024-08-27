@@ -3372,6 +3372,23 @@
     },
     {
       "type": "node",
+      "id": 8931088617,
+      "lat": 49.1921216,
+      "lon": 16.6077937,
+      "tags": {
+        "amenity": "fast_food",
+        "cuisine": "vietnamese",
+        "diet:vegan": "yes",
+        "diet:vegetarian": "yes",
+        "name": "Domovina",
+        "opening_hours": "24/7 - pátek, sobota a neděle mají jinou otevírací dobu; Mo-Th 11:00-21:00; Fr, Sa 11:00-22:00; Su 11:00-20:00",
+        "outdoor_seating": "yes",
+        "takeaway": "yes",
+        "website": "https://zelnytrh10.cz/podniky/bistro-domovina/"
+      }
+    },
+    {
+      "type": "node",
       "id": 9111447105,
       "lat": 49.1973412,
       "lon": 16.6079138,
