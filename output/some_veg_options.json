@@ -315,6 +315,37 @@
       }
     },
     {
+      "type": "way",
+      "id": 765955207,
+      "center": {
+        "lat": 49.2011466,
+        "lon": 16.6346553
+      },
+      "nodes": [
+        7153731930,
+        7153731931,
+        7153731932,
+        7153731933,
+        7153731930
+      ],
+      "tags": {
+        "amenity": "fast_food",
+        "building": "yes",
+        "building:levels": "1",
+        "cuisine": "pizza;kebab;ice_cream",
+        "diet:pescetarian": "yes",
+        "diet:vegan": "no",
+        "diet:vegetarian": "yes",
+        "drive_through": "no",
+        "indoor_seating": "no",
+        "name:signed": "no",
+        "opening_hours": "Mo-Fr 09:00-17:00; Sa 08:00-11:00",
+        "outdoor_seating": "no",
+        "roof:shape": "flat",
+        "takeaway": "only"
+      }
+    },
+    {
       "type": "node",
       "id": 846265845,
       "lat": 49.2040441,
