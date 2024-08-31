@@ -3165,8 +3165,10 @@
         "contact:facebook": "https://www.facebook.com/profile.php?id=100052407085921",
         "cuisine": "vietnamese;sushi",
         "diet:vegetarian": "yes",
+        "indoor_seating": "yes",
         "name": "Táo Viet Nam Home Cooking & Sushi Bar",
         "opening_hours": "Mo-Fr 11:00-22:00; Sa-Su 12:00-22:00",
+        "outdoor_seating": "yes",
         "wheelchair": "limited"
       }
     },
@@ -3307,6 +3309,7 @@
         "diet:vegetarian": "yes",
         "indoor_seating": "yes",
         "name": "Celozrnná sváča",
+        "opening_hours": "Mo-Fr 09:00-19:00",
         "outdoor_seating": "no",
         "takeaway": "yes",
         "wheelchair": "no"
