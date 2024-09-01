@@ -342,7 +342,8 @@
         "opening_hours": "Mo-Fr 09:00-17:00; Sa 08:00-11:00",
         "outdoor_seating": "no",
         "roof:shape": "flat",
-        "takeaway": "only"
+        "takeaway": "only",
+        "wheelchair": "no"
       }
     },
     {
