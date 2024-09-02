@@ -2975,8 +2975,10 @@
         "cuisine": "mexican",
         "diet:non-vegetarian": "yes",
         "diet:vegetarian": "yes",
+        "internet_access": "wlan",
         "name": "Bistro Bastardo",
         "opening_hours": "Mo-Fr 11:00-22:00,Sa-Su 12:00-22:00",
+        "outdoor_seating": "yes",
         "phone": "+420 605 454 040",
         "website": "https://www.facebook.com/bistrobastardo"
       }
