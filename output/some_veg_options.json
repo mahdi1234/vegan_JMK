@@ -2326,6 +2326,7 @@
         "cuisine": "italian",
         "diet:vegan": "yes",
         "diet:vegetarian": "yes",
+        "indoor_seating": "yes",
         "name": "Špageta bistro",
         "opening_hours": "Mo-Sa 11:00-23:00",
         "outdoor_seating": "yes",
