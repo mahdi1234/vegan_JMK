@@ -1493,6 +1493,7 @@
         "addr:housenumber": "1",
         "addr:postcode": "60200",
         "addr:street": "Zámečnická",
+        "air_conditioning": "no",
         "amenity": "restaurant",
         "cuisine": "regional",
         "diet:vegetarian": "yes",
@@ -1501,6 +1502,8 @@
         "opening_hours": "Mo-Tu 11:00-23:00; We-Th 11:00-24:00; Fr-Sa 11:00-01:00, Su 11:00-22:00",
         "outdoor_seating": "yes",
         "phone": "+420 513 035 030",
+        "toilets": "yes",
+        "toilets:wheelchair": "no",
         "website": "https://www.noknokrestaurant.cz/",
         "wheelchair": "limited"
       }
