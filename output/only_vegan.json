@@ -97,9 +97,13 @@
         "addr:housenumber": "14",
         "addr:postcode": "60200",
         "addr:street": "Marešova",
+        "air_conditioning": "yes",
         "amenity": "restaurant",
         "diet:vegan": "only",
         "name": "Vegan AF Ramen",
+        "opening_hours": "Mo-Sa 11:00-21:00; Su off",
+        "payment:credit_cards": "yes",
+        "payment:debit_cards": "yes",
         "website": "https://www.veganaframen.pl/",
         "wheelchair": "no"
       }
