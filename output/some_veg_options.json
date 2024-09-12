@@ -2846,6 +2846,26 @@
     },
     {
       "type": "node",
+      "id": 5018024879,
+      "lat": 48.7547087,
+      "lon": 16.8917558,
+      "tags": {
+        "air_conditioning": "no",
+        "amenity": "fast_food",
+        "cuisine": "čína",
+        "diet:vegetarian": "yes",
+        "indoor_seating": "yes",
+        "name": "Asijské bistro",
+        "opening_hours": "Mo-Fr 7:30-18:00;Sa 8:00-15:00",
+        "outdoor_seating": "yes",
+        "payment:credit_cards": "yes",
+        "payment:debit_cards": "yes",
+        "smoking": "outside",
+        "wheelchair": "yes"
+      }
+    },
+    {
+      "type": "node",
       "id": 5298329052,
       "lat": 49.1949336,
       "lon": 16.6075869,
