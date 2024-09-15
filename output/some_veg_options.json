@@ -339,7 +339,7 @@
         "drive_through": "no",
         "indoor_seating": "no",
         "name:signed": "no",
-        "opening_hours": "Mo-Fr 09:00-17:00; Sa 08:00-11:00",
+        "opening_hours": "Mo-Fr 10:00-20:00; Sa 10:30-20:00; Su off",
         "outdoor_seating": "no",
         "roof:shape": "flat",
         "takeaway": "only",
@@ -433,6 +433,32 @@
         "toilets:wheelchair": "yes",
         "website": "https://www.yvy.cz/",
         "wheelchair": "yes"
+      }
+    },
+    {
+      "type": "way",
+      "id": 1307418286,
+      "center": {
+        "lat": 49.2025524,
+        "lon": 16.6363051
+      },
+      "nodes": [
+        12107676121,
+        12107676122,
+        12107676123,
+        12107676124,
+        12107676121
+      ],
+      "tags": {
+        "amenity": "fast_food",
+        "building": "yes",
+        "cuisine": "kebab",
+        "diet:pescetarian": "yes",
+        "diet:vegetarian": "yes",
+        "drive_through": "no",
+        "name": "King Point Kebab",
+        "opening_hours": "Mo-Fr 10:00-20:00; Sa-Su 11:00-20:00",
+        "outdoor_seating": "no"
       }
     },
     {
