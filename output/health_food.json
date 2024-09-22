@@ -84,6 +84,7 @@
     "addr:postcode": "60300",
     "addr:street": "Křížová",
     "name": "Zdravá výživa",
+    "opening_hours": "Mo-Th 08:00-18:00; Fr 08:00-16:00",
     "shop": "health_food"
   }
 },
