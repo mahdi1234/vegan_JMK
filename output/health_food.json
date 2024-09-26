@@ -518,6 +518,20 @@
   }
 },
 {
+  "type": "node",
+  "id": 12199212110,
+  "lat": 49.2116326,
+  "lon": 16.6243505,
+  "tags": {
+    "addr:city": "Brno",
+    "addr:housenumber": "115",
+    "addr:postcode": "61300",
+    "addr:street": "Merhautova",
+    "name": "Bezlepkový ráj",
+    "shop": "health_food"
+  }
+},
+{
   "type": "way",
   "id": 253974427,
   "nodes": [
