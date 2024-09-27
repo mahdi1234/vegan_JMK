@@ -176,27 +176,6 @@
     },
     {
       "type": "node",
-      "id": 387773428,
-      "lat": 49.1935414,
-      "lon": 16.6395473,
-      "tags": {
-        "addr:city": "Brno",
-        "addr:housenumber": "456/157",
-        "addr:postcode": "63600",
-        "addr:street": "Táborská",
-        "amenity": "restaurant",
-        "check_date:opening_hours": "2023-06-23",
-        "contact:email": "info@namaskar.cz",
-        "contact:facebook": "https://www.facebook.com/Namaskarbrno",
-        "contact:website": "https://www.namaskar.cz",
-        "cuisine": "indian",
-        "diet:vegetarian": "yes",
-        "name": "Namaskar",
-        "opening_hours": "Mo-Th 10:00-22:00; Fr-Sa 10:30-23:00; Su 11:30-22:00"
-      }
-    },
-    {
-      "type": "node",
       "id": 452326805,
       "lat": 49.2091127,
       "lon": 16.6009335,
