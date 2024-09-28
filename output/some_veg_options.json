@@ -3224,8 +3224,8 @@
     {
       "type": "node",
       "id": 7315111201,
-      "lat": 49.2027056,
-      "lon": 16.613825,
+      "lat": 49.2027896,
+      "lon": 16.6138188,
       "tags": {
         "amenity": "fast_food",
         "diet:gluten_free": "yes",
