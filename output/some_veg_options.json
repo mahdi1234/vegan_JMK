@@ -1178,6 +1178,30 @@
     },
     {
       "type": "node",
+      "id": 2916528158,
+      "lat": 49.1963816,
+      "lon": 16.6088699,
+      "tags": {
+        "addr:city": "Brno",
+        "addr:housenumber": "109/1",
+        "addr:postcode": "60200",
+        "addr:street": "Jakubské náměstí",
+        "amenity": "restaurant",
+        "cuisine": "italian",
+        "diet:vegetarian": "yes",
+        "name": "San Giacomo",
+        "opening_hours": "Mo-Th 11:00-23:00; Fr-Sa 11:00-24:00; Su 11:00-21:00",
+        "outdoor_seating": "yes",
+        "phone": "+420 771 291 679",
+        "reservation": "yes",
+        "takeaway": "yes",
+        "website": "https://www.sangiacomo.cz/",
+        "website:menu": "https://www.sangiacomo.cz/cz/menu",
+        "wheelchair": "limited"
+      }
+    },
+    {
+      "type": "node",
       "id": 2916543710,
       "lat": 49.1936156,
       "lon": 16.6095409,
