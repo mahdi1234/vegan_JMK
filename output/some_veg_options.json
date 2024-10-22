@@ -3285,23 +3285,6 @@
     },
     {
       "type": "node",
-      "id": 7238278893,
-      "lat": 49.1910867,
-      "lon": 16.6128889,
-      "tags": {
-        "amenity": "fast_food",
-        "check_date:opening_hours": "2021-07-01",
-        "cuisine": "pasta",
-        "diet:vegetarian": "yes",
-        "indoor_seating": "yes",
-        "name": "Spaghetti Parmigiano",
-        "opening_hours": "Mo-Su 09:00-20:00",
-        "outdoor_seating": "no",
-        "wheelchair": "limited"
-      }
-    },
-    {
-      "type": "node",
       "id": 7315111201,
       "lat": 49.2027896,
       "lon": 16.6138188,
@@ -3482,23 +3465,6 @@
         "opening_hours": "Mo-Su 11:00-22:00",
         "outdoor_seating": "no",
         "takeaway": "only"
-      }
-    },
-    {
-      "type": "node",
-      "id": 8839776114,
-      "lat": 49.191005,
-      "lon": 16.6126897,
-      "tags": {
-        "amenity": "fast_food",
-        "cuisine": "sandwich",
-        "diet:vegetarian": "yes",
-        "indoor_seating": "no",
-        "name": "Food TIme",
-        "opening_hours": "Mo-Fr 06:00-18:30; Sa,Su 07:00-18:00",
-        "outdoor_seating": "no",
-        "takeaway": "only",
-        "wheelchair": "yes"
       }
     },
     {
