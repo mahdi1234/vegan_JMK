@@ -3544,6 +3544,7 @@
       "lon": 16.725314,
       "tags": {
         "amenity": "fast_food",
+        "check_date:opening_hours": "2024-11-03",
         "diet:vegan": "no",
         "diet:vegetarian": "yes",
         "name": "Pizza & Kebab Atip",
