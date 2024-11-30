@@ -2290,20 +2290,13 @@
       "lat": 49.2106309,
       "lon": 16.5864364,
       "tags": {
-        "addr:city": "Brno",
-        "addr:housenumber": "4",
-        "addr:postcode": "61600",
-        "addr:street": "Minská",
         "amenity": "fast_food",
-        "cuisine": "pizza;burger;salad;chinese",
-        "delivery": "yes",
+        "cuisine": "kebab",
         "diet:vegetarian": "yes",
         "drive_through": "no",
-        "name": "Maníkovo bistro",
-        "opening_hours": "Mo-Th 10:00-23:00; Fr-Sa 10:00-24:00; Su 10:00-23:00",
-        "operator": "Chachar Catering s.r.o.",
+        "indoor_seating": "yes",
+        "name": "Roj Kebab",
         "takeaway": "yes",
-        "website": "https://www.manikova-pizza.cz/",
         "wheelchair": "no"
       }
     },
@@ -2916,19 +2909,6 @@
         "payment:cards": "no",
         "phone": "+420 605 256 514",
         "wheelchair": "yes"
-      }
-    },
-    {
-      "type": "node",
-      "id": 5016994025,
-      "lat": 49.1897393,
-      "lon": 16.6140796,
-      "tags": {
-        "amenity": "fast_food",
-        "diet:vegetarian": "yes",
-        "name": "Sun Food",
-        "opening_hours": "Mo-Su 09:00-21:00",
-        "wheelchair": "limited"
       }
     },
     {
