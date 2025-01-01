@@ -1699,9 +1699,13 @@
     {
       "type": "node",
       "id": 3160933284,
-      "lat": 49.1559014,
-      "lon": 16.627346,
+      "lat": 49.1556157,
+      "lon": 16.6278789,
       "tags": {
+        "addr:city": "Brno",
+        "addr:housenumber": "4",
+        "addr:postcode": "619 00",
+        "addr:street": "Skandinávská",
         "amenity": "fast_food",
         "brand": "IKEA",
         "brand:wikidata": "Q54078",
@@ -1710,9 +1714,12 @@
         "diet:pescetarian": "yes",
         "diet:vegan": "no",
         "diet:vegetarian": "yes",
+        "drive_through": "no",
         "kids_area": "yes",
         "kids_area:indoor": "yes",
+        "level": "1",
         "name": "IKEA Restaurant",
+        "name:en": "IKEA Restaurant",
         "name:ru": "Ресторан ИКЕА",
         "opening_hours": "Mo-Su 10:00-19:30",
         "takeaway": "yes"
