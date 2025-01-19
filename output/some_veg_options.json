@@ -761,7 +761,7 @@
       "lon": 16.6001037,
       "tags": {
         "amenity": "fast_food",
-        "check_date:opening_hours": "2023-04-24",
+        "check_date:opening_hours": "2025-01-18",
         "contact:facebook": "https://www.facebook.com/KebapBrno",
         "cuisine": "kebab",
         "diet:vegan": "yes",
@@ -770,6 +770,7 @@
         "indoor_seating": "yes",
         "name": "Best Kebap",
         "opening_hours": "Mo-Fr 11:00-22:00; Sa 11:00-22:00",
+        "opening_hours:signed": "no",
         "outdoor_seating": "no",
         "payment:credit_cards": "yes",
         "payment:debit_cards": "yes",
@@ -799,7 +800,7 @@
         "email": "info@siwaorient.cz",
         "indoor_seating": "yes",
         "name": "SIWA Orient Grill",
-        "opening_hours": "Mo-Fr 11:00-15:00,18:00-23:00; Sa 12:00-23:00",
+        "opening_hours": "Sa-Th 11:00-21:00; Fr 11:00-15:00",
         "operator": "orient",
         "outdoor_seating": "sidewalk",
         "payment:credit_cards": "yes",
@@ -3146,6 +3147,26 @@
     },
     {
       "type": "node",
+      "id": 6017695929,
+      "lat": 49.2035629,
+      "lon": 16.5963231,
+      "tags": {
+        "amenity": "restaurant",
+        "check_date:opening_hours": "2025-01-18",
+        "cuisine": "vietnamese",
+        "diet:vegetarian": "yes",
+        "indoor_seating": "yes",
+        "internet_access": "wlan",
+        "name": "Pho-Eden",
+        "opening_hours": "Tu-Su 10:30-17:00",
+        "outdoor_seating": "yes",
+        "smoking": "outside",
+        "takeaway": "yes",
+        "wheelchair": "no"
+      }
+    },
+    {
+      "type": "node",
       "id": 6147610135,
       "lat": 49.1888573,
       "lon": 16.5986287,
@@ -3504,7 +3525,7 @@
         "diet:vegetarian": "yes",
         "email": "bistrobastardo@gmail.com",
         "name": "Bistro Bastardo",
-        "opening_hours": "Mo-Fr 11:00-22:00, Sa 12:00-22:00",
+        "opening_hours": "Mo-Fr 11:00-21:45; Sa 12:00-21:45",
         "phone": "+420 605 454 040"
       }
     },
