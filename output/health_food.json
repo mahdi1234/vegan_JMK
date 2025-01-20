@@ -245,6 +245,8 @@
   "tags": {
     "name": "La. Obchůdek",
     "opening_hours": "Mo-Fr 09:00-17:00; Sa 09:00-11:30",
+    "payment:credit_cards": "no",
+    "payment:debit_cards": "yes",
     "shop": "health_food",
     "website": "https://www.la-obchudek.cz/"
   }
