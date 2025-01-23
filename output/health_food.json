@@ -533,6 +533,19 @@
   }
 },
 {
+  "type": "node",
+  "id": 12523238833,
+  "lat": 48.7562893,
+  "lon": 16.8895288,
+  "tags": {
+    "contact:facebook": "https://www.facebook.com/Herbazdravavyziva.cz/",
+    "name": "Herba",
+    "opening_hours": "Mo-Th 08:00–18:00; Fr 08:00–16:35",
+    "shop": "health_food",
+    "website": "http://www.herbazdravavyziva.cz/breclav.html"
+  }
+},
+{
   "type": "way",
   "id": 253974427,
   "nodes": [
