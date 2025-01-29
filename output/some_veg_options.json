@@ -2007,6 +2007,7 @@
         "addr:postcode": "60200",
         "addr:street": "Minoritská",
         "amenity": "cafe",
+        "check_date:opening_hours": "2025-01-28",
         "diet:vegetarian": "yes",
         "indoor_seating": "yes",
         "internet_access": "wlan",
