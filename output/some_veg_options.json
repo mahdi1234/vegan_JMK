@@ -29,52 +29,6 @@
       }
     },
     {
-      "type": "way",
-      "id": 161463676,
-      "center": {
-        "lat": 49.1903531,
-        "lon": 16.6135886
-      },
-      "nodes": [
-        1734286819,
-        1734286820,
-        1734286821,
-        3964171664,
-        1734286829,
-        3964171674,
-        3964171676,
-        3964171679,
-        3964171677,
-        1734286844,
-        3964171669,
-        3964171666,
-        1734286824,
-        1734286818,
-        3964171660,
-        1734286816,
-        1734286819
-      ],
-      "tags": {
-        "amenity": "fast_food",
-        "building": "civic",
-        "building:levels": "1",
-        "building:ruian:type": "15",
-        "cuisine": "asian",
-        "diet:vegetarian": "yes",
-        "indoor_seating": "yes",
-        "name": "Orient V.",
-        "opening_hours": "Mo-Sa 09:00-21:00",
-        "outdoor_seating": "yes",
-        "payment:credit_cards": "yes",
-        "payment:debit_cards": "yes",
-        "ref:ruian:building": "30719992",
-        "roof:levels": "0",
-        "roof:shape": "flat",
-        "source": "cuzk:ruian",
-        "wheelchair": "limited"
-      }
-    },
-    {
       "type": "node",
       "id": 296607525,
       "lat": 49.1962742,
