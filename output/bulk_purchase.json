@@ -98,25 +98,6 @@
 },
 {
   "type": "node",
-  "id": 5935167079,
-  "lat": 49.1776173,
-  "lon": 16.5668383,
-  "tags": {
-    "bulk_purchase": "yes",
-    "check_date:opening_hours": "2024-08-27",
-    "email": "info@jen-zdrave.cz",
-    "fair_trade": "yes",
-    "level": "0",
-    "name": "Jen zdravě",
-    "opening_hours": "Mo-Fr 08:00-20:00; Sa,Su 09:00-20:00",
-    "organic": "only",
-    "phone": "+420 777 805 527",
-    "shop": "convenience",
-    "website": "https://www.jen-zdrave.cz/"
-  }
-},
-{
-  "type": "node",
   "id": 8097341206,
   "lat": 49.2005181,
   "lon": 16.6127629,
@@ -156,6 +137,9 @@
     "name": "Bezobalový svět NIKA",
     "opening_hours": "Mo-Th 09:00-18:00; Fr 09:00-17:00; Sa 09:00-13:00",
     "organic": "yes",
+    "payment:diners_club": "yes",
+    "payment:discover_card": "yes",
+    "payment:jcb": "yes",
     "payment:maestro": "yes",
     "payment:mastercard": "yes",
     "payment:visa": "yes",
