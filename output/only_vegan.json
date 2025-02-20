@@ -100,6 +100,7 @@
         "air_conditioning": "yes",
         "amenity": "restaurant",
         "diet:vegan": "only",
+        "dish": "ramen",
         "name": "Vegan AF Ramen",
         "opening_hours": "Mo-Sa 11:00-21:00; Su off",
         "payment:credit_cards": "yes",
