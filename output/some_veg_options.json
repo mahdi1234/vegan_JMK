@@ -481,6 +481,7 @@
       "lon": 16.6049926,
       "tags": {
         "amenity": "cafe",
+        "check_date:opening_hours": "2025-02-26",
         "diet:vegan": "yes",
         "diet:vegetarian": "yes",
         "indoor_seating": "no",
