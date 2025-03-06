@@ -780,23 +780,6 @@
     },
     {
       "type": "node",
-      "id": 1895791088,
-      "lat": 49.1953952,
-      "lon": 16.6112202,
-      "tags": {
-        "addr:city": "Brno",
-        "addr:housenumber": "15",
-        "addr:postcode": "60200",
-        "addr:street": "Kobližná",
-        "amenity": "fast_food",
-        "diet:vegetarian": "yes",
-        "name": "Big Food Point",
-        "opening_hours": "24/7",
-        "wheelchair": "yes"
-      }
-    },
-    {
-      "type": "node",
       "id": 2173043957,
       "lat": 49.2226846,
       "lon": 16.5846348,
