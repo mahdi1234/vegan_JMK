@@ -1333,6 +1333,13 @@
         "internet_access": "wlan",
         "name": "Castellana trattoria",
         "opening_hours": "Mo-Fr 11:00-23:00; Sa 12:00-22:00",
+        "payment:diners_club": "yes",
+        "payment:discover_card": "yes",
+        "payment:maestro": "yes",
+        "payment:mastercard": "yes",
+        "payment:visa": "yes",
+        "payment:visa_debit": "yes",
+        "payment:visa_electron": "yes",
         "website": "https://www.castellana.cz/",
         "wheelchair": "no"
       }
@@ -1898,7 +1905,7 @@
         "internet_access:fee": "customers",
         "internet_access:ssid": "PHO VIET",
         "name": "Pho Viet nam",
-        "opening_hours": "Mo-Fr 10:00-22:00; Su 11:00-22:00",
+        "opening_hours": "Mo-Fr 10:00-21:00; Sa,Su 11:00-20:00",
         "wheelchair": "limited"
       }
     },
