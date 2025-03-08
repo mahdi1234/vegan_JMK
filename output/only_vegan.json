@@ -212,18 +212,6 @@
         "phone": "+420 739 665 746",
         "website": "https://www.myraw.cz/brno"
       }
-    },
-    {
-      "type": "node",
-      "id": 11568815320,
-      "lat": 49.2014613,
-      "lon": 16.6016199,
-      "tags": {
-        "amenity": "restaurant",
-        "diet:vegan": "only",
-        "name": "Tranquilo",
-        "opening_hours": "Mo-Fr 08:30-14:00,15:30-18:00; Sa 09:00-14:00"
-      }
     }
   ]
 }

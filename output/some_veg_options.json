@@ -151,6 +151,30 @@
     },
     {
       "type": "node",
+      "id": 476315631,
+      "lat": 49.200964,
+      "lon": 16.6006547,
+      "tags": {
+        "addr:city": "Brno",
+        "addr:housenumber": "3",
+        "addr:postcode": "60200",
+        "addr:street": "Smetanova",
+        "amenity": "restaurant",
+        "check_date:opening_hours": "2023-05-16",
+        "cuisine": "indian",
+        "diet:vegetarian": "yes",
+        "email": "info@namaskar.cz",
+        "indoor_seating": "yes",
+        "name": "Restaurant Namaskar",
+        "opening_hours": "Mo-Fr 11:00-22:00; Sa 12:00-22:00",
+        "outdoor_seating": "yes",
+        "phone": "+420 608 036 033",
+        "source": "survey",
+        "website": "https://www.namaskar.cz/"
+      }
+    },
+    {
+      "type": "node",
       "id": 582498699,
       "lat": 49.2103992,
       "lon": 16.6014543,
@@ -1611,6 +1635,28 @@
         "payment:contactless": "yes",
         "phone": "+420 542 106 080",
         "wheelchair": "yes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 3159874669,
+      "lat": 49.2047711,
+      "lon": 16.6382391,
+      "tags": {
+        "addr:city": "Brno",
+        "addr:housenumber": "17",
+        "addr:postcode": "61500",
+        "addr:street": "Koperníkova",
+        "amenity": "restaurant",
+        "brewery": "Gambrinus;Polička;Poutník",
+        "check_date:opening_hours": "2023-06-23",
+        "diet:pescetarian": "yes",
+        "diet:vegan": "no",
+        "diet:vegetarian": "yes",
+        "indoor_seating": "yes",
+        "name": "Onyx",
+        "opening_hours": "Mo-Th 10:30-23:00; Fr 10:30-24:00; Sa 11:00-24:00; Su 11:00-22:00",
+        "outdoor_seating": "yes"
       }
     },
     {
