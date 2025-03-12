@@ -2257,6 +2257,27 @@
     },
     {
       "type": "node",
+      "id": 3716721286,
+      "lat": 49.1952499,
+      "lon": 16.6095011,
+      "tags": {
+        "addr:city": "Brno",
+        "addr:housenumber": "4",
+        "addr:postcode": "60200",
+        "addr:street": "Kobližná",
+        "amenity": "cafe",
+        "breakfast": "yes",
+        "diet:vegetarian": "yes",
+        "internet_access": "wlan",
+        "internet_access:fee": "customers",
+        "name": "Café+",
+        "opening_hours": "Mo-Fr 08:00-20:00; Sa 09:00-17:00; Su off",
+        "outdoor_seating": "no",
+        "wheelchair": "yes"
+      }
+    },
+    {
+      "type": "node",
       "id": 3716741798,
       "lat": 49.2106309,
       "lon": 16.5864364,
