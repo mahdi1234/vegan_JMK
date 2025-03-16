@@ -18,6 +18,20 @@
 },
 {
   "type": "node",
+  "id": 1932934683,
+  "lat": 49.0094738,
+  "lon": 17.1255658,
+  "tags": {
+    "email": "zdravicko.kyjov@seznam.cz",
+    "mobile": "+420 775 116 351",
+    "name": "zdravíčko",
+    "opening_hours": "Mo-Fr 08:00-17:00",
+    "shop": "health_food",
+    "website": "https://www.zdravickokyjov.cz/"
+  }
+},
+{
+  "type": "node",
   "id": 3243778864,
   "lat": 49.1923551,
   "lon": 16.6047142,
