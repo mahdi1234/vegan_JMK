@@ -1544,7 +1544,7 @@
         "diet:vegetarian": "yes",
         "indoor_seating": "yes",
         "name": "Diana",
-        "opening_hours": "Mo-Su 09:30-18:00",
+        "opening_hours": "Mo-Sa 10:00-18:30; Su off",
         "outdoor_seating": "no",
         "shop": "pastry",
         "wheelchair": "limited"
@@ -3402,7 +3402,7 @@
         "diet:vegetarian": "yes",
         "drive_through": "no",
         "name": "Burger King",
-        "opening_hours": "Mo-Su 04:00-22:00",
+        "opening_hours": "Su-Th 08:30-01:00, Sa,Su 08:30-03:00",
         "operator": "Burger King",
         "phone": "+420 722 972 427",
         "takeaway": "yes",
