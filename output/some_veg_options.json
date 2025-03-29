@@ -2912,11 +2912,11 @@
       "tags": {
         "air_conditioning": "no",
         "amenity": "fast_food",
-        "cuisine": "čína",
+        "cuisine": "asian",
         "diet:vegetarian": "yes",
         "indoor_seating": "yes",
         "name": "Asijské bistro",
-        "opening_hours": "Mo-Fr 7:30-18:00;Sa 8:00-15:00",
+        "opening_hours": "Mo-Fr 7:30-18:00; Sa 8:00-15:00",
         "outdoor_seating": "yes",
         "payment:credit_cards": "yes",
         "payment:debit_cards": "yes",
