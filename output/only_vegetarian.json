@@ -10,7 +10,7 @@
         "diet:vegan": "no",
         "diet:vegetarian": "only",
         "name": "Restaurace Orlovna",
-        "opening_hours": "Mo 11:00-14:30; Tu-Th,Su 11:00-22:00; Fr,Sa 11:00-23:00",
+        "opening_hours": "Mo 11:00-14:30; Tu-Th 11:00-22:00; Fr,Sa 11:00-23:00; Su 11:00-21:00",
         "payment:credit_cards": "yes",
         "payment:debit_cards": "no",
         "website": "http://www.oreltelnice.cz/sportovni-arealy/orlovna-telnice/restaurace-orlovna/"
