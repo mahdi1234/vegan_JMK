@@ -3433,6 +3433,7 @@
       "lon": 16.6104364,
       "tags": {
         "amenity": "fast_food",
+        "contact:phone": "+420 735 773 663",
         "cuisine": "pizza",
         "diet:vegetarian": "yes",
         "indoor_seating": "no",
