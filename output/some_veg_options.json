@@ -1433,10 +1433,10 @@
         "addr:postcode": "61600",
         "addr:street": "Minská",
         "amenity": "cafe",
-        "check_date:opening_hours": "2020-09-23",
+        "check_date:opening_hours": "2025-04-02",
         "diet:vegetarian": "yes",
         "name": "Le Petit cafe",
-        "opening_hours": "Mo-Fr 08:00-22:00; Sa,Su 14:00-22:00",
+        "opening_hours": "Mo-Fr 08:00-22:00; Sa,Su 14:00-20:00",
         "wheelchair": "yes"
       }
     },
