@@ -1088,29 +1088,6 @@
     },
     {
       "type": "node",
-      "id": 2916495567,
-      "lat": 49.2030168,
-      "lon": 16.619579,
-      "tags": {
-        "addr:city": "Brno",
-        "addr:housenumber": "8",
-        "addr:postcode": "61300",
-        "addr:street": "Merhautova",
-        "amenity": "restaurant",
-        "cuisine": "burger",
-        "diet:vegetarian": "yes",
-        "indoor_seating": "yes",
-        "internet_access": "wlan",
-        "name": "Bistro na Osmičce",
-        "opening_hours": "Mo-Tu 10:30-23:00; We-Fr 10:30-24:00; Sa 11:00-24:00; Su 16:00-24:00",
-        "outdoor_seating": "yes",
-        "phone": "+420 722 550 082",
-        "takeaway": "yes",
-        "website": "http://www.naosmicce.cz/"
-      }
-    },
-    {
-      "type": "node",
       "id": 2916528158,
       "lat": 49.1963816,
       "lon": 16.6088699,
