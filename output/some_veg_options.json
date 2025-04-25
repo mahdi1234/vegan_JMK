@@ -3232,7 +3232,7 @@
         "indoor_seating": "yes",
         "name": "Táo Viet Nam Home Cooking & Sushi Bar",
         "opening_hours": "Mo-Fr 11:00-22:00; Sa-Su 12:00-22:00",
-        "outdoor_seating": "yes",
+        "outdoor_seating": "patio",
         "wheelchair": "limited"
       }
     },
