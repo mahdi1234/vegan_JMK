@@ -79,11 +79,17 @@
       "lat": 48.805281,
       "lon": 16.6348522,
       "tags": {
+        "addr:city": "Mikulov",
+        "addr:housenumber": "64/49",
+        "addr:postcode": "69201",
+        "addr:street": "Husova",
         "amenity": "restaurant",
-        "check_date:opening_hours": "2023-09-03",
+        "check_date:opening_hours": "2025-05-03",
         "diet:vegan": "only",
+        "drink:beer": "served",
+        "drink:wine": "served",
         "name": "VeggieDick",
-        "opening_hours": "Tu-Sa 11:00-15:00,17:00-20:00; Su 11:00-15:00",
+        "opening_hours": "Tu-Sa 11:00-15:00",
         "phone": "+420 702 033 393",
         "source": "survey"
       }
