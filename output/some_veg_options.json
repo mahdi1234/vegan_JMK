@@ -2014,24 +2014,6 @@
     },
     {
       "type": "node",
-      "id": 3389141164,
-      "lat": 49.1913946,
-      "lon": 16.6108023,
-      "tags": {
-        "addr:city": "Brno",
-        "addr:housenumber": "34",
-        "addr:postcode": "60200",
-        "addr:street": "Masarykova",
-        "amenity": "fast_food",
-        "cuisine": "pasta",
-        "diet:vegetarian": "yes",
-        "name": "Pasta di gusto",
-        "opening_hours": "Mo-Fr 10:00-20:00; Sa,Su 11:00-20:00",
-        "wheelchair": "no"
-      }
-    },
-    {
-      "type": "node",
       "id": 3389155402,
       "lat": 49.1917451,
       "lon": 16.6115171,
