@@ -1189,6 +1189,32 @@
     },
     {
       "type": "node",
+      "id": 3098401872,
+      "lat": 49.1988443,
+      "lon": 16.6007044,
+      "tags": {
+        "addr:city": "Brno",
+        "addr:housenumber": "16",
+        "addr:postcode": "60200",
+        "addr:street": "Jaselská",
+        "amenity": "cafe",
+        "cuisine": "teahouse",
+        "diet:vegan": "yes",
+        "diet:vegetarian": "yes",
+        "name": "Čajovna za zrcadlem",
+        "opening_hours": "Mo-Fr 09:00-22:00; Sa,Su,PH 12:00-22:00",
+        "opening_hours:kitchen": "Mo-Fr 09:00-21:00; Sa,Su,PH 12:00-21:00",
+        "payment:maestro": "yes",
+        "payment:mastercard": "yes",
+        "payment:visa": "yes",
+        "payment:visa_debit": "yes",
+        "payment:visa_electron": "yes",
+        "website": "https://cajovnazazrcadlem.cz/",
+        "wheelchair": "no"
+      }
+    },
+    {
+      "type": "node",
       "id": 3098671162,
       "lat": 49.2169724,
       "lon": 16.5991492,
