@@ -2345,7 +2345,7 @@
         "cuisine": "italian_pizza;pasta",
         "diet:vegetarian": "yes",
         "name": "Caruso Pizza",
-        "opening_hours": "Mo-Th 10:00-22:00; Fr-Sa 10:00-22:30",
+        "opening_hours": "Fr,Sa 11:00-22:00",
         "phone": "+420 720 388 307",
         "website": "https://www.carusopizza.cz/",
         "wheelchair": "no"
@@ -3780,6 +3780,7 @@
         "addr:postcode": "60200",
         "addr:street": "Kotlářská",
         "amenity": "fast_food",
+        "check_date:opening_hours": "2025-05-25",
         "cuisine": "czech",
         "delivery": "yes",
         "diet:vegetarian": "yes",
