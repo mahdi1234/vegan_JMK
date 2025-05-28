@@ -110,8 +110,10 @@
         "contact:website": "http://www.rebio.cz",
         "diet:vegan": "yes",
         "diet:vegetarian": "only",
+        "indoor_seating": "yes",
         "name": "Rebio",
         "opening_hours": "Mo-Fr 10:30-15:00",
+        "outdoor_seating": "no",
         "wheelchair": "yes"
       }
     },
