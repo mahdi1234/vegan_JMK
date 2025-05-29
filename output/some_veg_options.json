@@ -595,12 +595,12 @@
         "diet:vegetarian": "yes",
         "internet_access": "wlan",
         "name": "Klub cestovatelů",
-        "opening_hours": "Mo-Th 11:00-23:00; Fr 11:00-24:00; Sa 12:00-24:00; Su 12:00-22:00",
+        "opening_hours": "Mo-Fr 11:00-23:00; Sa 12:00-23:00; Su 12:00-22:00",
         "operator": "Anexe public relations",
         "phone": "+420 774 048 589",
         "smoking": "no",
         "takeaway": "yes",
-        "website": "https://www.klubcestovatelu.cz/",
+        "website": "https://www.klubcestovatelubrno.cz/",
         "wheelchair": "no"
       }
     },
@@ -1537,14 +1537,14 @@
         "diet:vegetarian": "yes",
         "indoor_seating": "yes",
         "name": "NOK NOK Restaurant",
-        "opening_hours": "Mo-Tu 11:00-23:00; We-Th 11:00-24:00; Fr-Sa 11:00-01:00, Su 11:00-22:00",
+        "opening_hours": "Mo-Tu 11:00-22:00; We-Th 11:00-23:00; Fr 11:00-24:00, Sa 12:00-24:00",
         "outdoor_seating": "yes",
         "payment:lightning:companion_app_url": "https://www.qerko.com",
         "payment:lightning:requires_companion_app": "yes",
         "phone": "+420 513 035 030",
         "toilets": "yes",
         "toilets:wheelchair": "no",
-        "website": "https://www.noknokrestaurant.cz/",
+        "website": "https://www.noknokrestaurant.cz/nok-nok-restaurant-brno/",
         "wheelchair": "limited"
       }
     },
