@@ -43,7 +43,7 @@
         "cuisine": "kebab;regional;turkish",
         "diet:vegetarian": "yes",
         "name": "Kebab Šach",
-        "opening_hours": "Mo-Th 10:00-00:00; Fr 10:00-03:00; Sa 11:00-03:00; Su 12:00-22:00",
+        "opening_hours": "Mo-Fr 10:00-24:00; Sa 00:00-03:00,11:00-24:00; Su 00:00-03:00,12:00-22:00",
         "ref:ruian:addr": "19094566",
         "source:addr": "cuzk:ruian"
       }
@@ -66,7 +66,7 @@
         "indoor_seating": "yes",
         "internet_access": "wlan",
         "name": "Jakoby",
-        "opening_hours": "Mo-Th 11:00-24:00; Fr 11:00-01:00, Sa 12:00-00 a:00, Su 12:00-23:00",
+        "opening_hours": "Mo-Th 11:00-24:00; Fr 11:00-24:00; Sa 00:00-01:00,12:00-24:00; Su 12:00-23:00",
         "outdoor_seating": "yes",
         "phone": "+420 602 525 629",
         "smoking": "outside",
@@ -143,7 +143,7 @@
         "diet:vegetarian": "yes",
         "email": "info@udrevaka.cz",
         "name": "U Dřeváka Beer & Grill",
-        "opening_hours": "Mo-Th 11:00-00:00; Fr 11:00-01:00; Sa 11:30-01:00; Su 11:30-23:00",
+        "opening_hours": "Mo-Fr 11:00-24:00; Sa 00:00-01:00,11:30-24:00; Su 00:00-01:00,11:30-23:00",
         "phone": "+420 724 000 723",
         "website": "https://www.udrevaka.cz/",
         "wheelchair": "no"
@@ -930,7 +930,7 @@
         "diet:vegetarian": "yes",
         "internet_access": "yes",
         "name": "Pub Před Zrcadlem",
-        "opening_hours": "Mo-Sa 15:00-22:00 Su 15:00-20:00",
+        "opening_hours": "Mo-Sa 15:00-22:00; Su 15:00-20:00",
         "phone": "+420 774 691 619",
         "website": "https://cajovnazazrcadlem.cz/",
         "wheelchair": "no"
@@ -3472,7 +3472,7 @@
         "diet:vegan": "yes",
         "diet:vegetarian": "yes",
         "name": "Domovina",
-        "opening_hours": "24/7 - pátek, sobota a neděle mají jinou otevírací dobu; Mo-Th 11:00-21:00; Fr, Sa 11:00-22:00; Su 11:00-20:00",
+        "opening_hours": "Mo-Th 11:00-21:00; Fr,Sa 11:00-22:00; Su 11:00-20:00",
         "outdoor_seating": "yes",
         "takeaway": "yes",
         "website": "https://zelnytrh10.cz/podniky/bistro-domovina/"
