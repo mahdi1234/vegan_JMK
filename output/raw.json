@@ -86,6 +86,7 @@
   "lon": 16.6196178,
   "tags": {
     "amenity": "restaurant",
+    "contact:facebook": "myrawfoodbrno",
     "diet:raw": "only",
     "diet:vegan": "only",
     "name": "MyRaw Food Bar",
