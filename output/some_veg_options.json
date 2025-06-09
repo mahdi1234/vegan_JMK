@@ -1037,9 +1037,15 @@
         "amenity": "cafe",
         "cuisine": "regional",
         "diet:vegetarian": "yes",
+        "email": "info@parklanecafe.cz",
+        "indoor_seating": "yes",
         "internet_access": "wlan",
+        "mobile": "+420 725 022 033",
         "name": "Park Lane",
         "opening_hours": "Mo-Fr 07:30-22:00; Sa 08:00-20:00",
+        "outdoor_seating": "yes",
+        "payment:credit_cards": "yes",
+        "payment:debit_cards": "yes",
         "smoking": "no",
         "website": "http://www.parklanecafe.cz/"
       }

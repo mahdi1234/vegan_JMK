@@ -15,8 +15,10 @@
         "diet:halal": "no",
         "diet:vegan": "yes",
         "diet:vegetarian": "only",
+        "indoor_seating": "yes",
         "name": "Haribol",
         "opening_hours": "Mo-Fr 11:00-14:15",
+        "outdoor_seating": "no",
         "source": "cuzk:km",
         "website": "https://www.haribol.cz/"
       }

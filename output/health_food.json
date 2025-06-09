@@ -571,6 +571,16 @@
   }
 },
 {
+  "type": "node",
+  "id": 12896579967,
+  "lat": 49.0122866,
+  "lon": 17.1266673,
+  "tags": {
+    "name": "Biokrálovna",
+    "shop": "health_food"
+  }
+},
+{
   "type": "way",
   "id": 253974427,
   "nodes": [
