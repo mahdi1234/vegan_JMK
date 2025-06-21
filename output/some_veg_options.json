@@ -706,6 +706,25 @@
     },
     {
       "type": "node",
+      "id": 1614264177,
+      "lat": 49.2061522,
+      "lon": 16.5965156,
+      "tags": {
+        "addr:city": "Brno",
+        "addr:housenumber": "59",
+        "addr:postcode": "60200",
+        "addr:street": "Kounicova",
+        "amenity": "restaurant",
+        "contact:phone": "+420775075656",
+        "contact:website": "https://chefviet.cz/",
+        "cuisine": "vietnamese",
+        "diet:vegetarian": "yes",
+        "name": "CHEF-VIET",
+        "opening_hours": "Mo-Sa 10:00-21:00; Su 10:00-16:00"
+      }
+    },
+    {
+      "type": "node",
       "id": 1614708354,
       "lat": 49.2011002,
       "lon": 16.6001037,
