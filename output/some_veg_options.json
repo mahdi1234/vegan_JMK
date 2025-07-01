@@ -1931,6 +1931,8 @@
         "opening_hours": "Mo-Fr 10:30-22:30; Sa-Su 11:30-22:30",
         "opening_hours:signed": "no",
         "outdoor_seating": "no",
+        "payment:credit_cards": "yes",
+        "payment:debit_cards": "yes",
         "website": "http://lightofindia.cz/",
         "wheelchair": "no"
       }
@@ -1960,6 +1962,18 @@
         "phone": "+420 607 098 557",
         "website": "https://www.skog.cz/",
         "wheelchair": "yes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 3323191153,
+      "lat": 48.9050293,
+      "lon": 16.6508811,
+      "tags": {
+        "amenity": "restaurant",
+        "diet:vegetarian": "yes",
+        "name": "U Pupků",
+        "opening_hours": "Mo-Su 11:00-22:00"
       }
     },
     {
