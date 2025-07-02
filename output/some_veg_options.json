@@ -1973,7 +1973,9 @@
         "amenity": "restaurant",
         "diet:vegetarian": "yes",
         "name": "U Pupků",
-        "opening_hours": "Mo-Su 11:00-22:00"
+        "opening_hours": "Mo-Su 11:00-22:00",
+        "payment:credit_cards": "yes",
+        "payment:debit_cards": "yes"
       }
     },
     {
