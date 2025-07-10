@@ -864,6 +864,7 @@
         "addr:streetnumber": "80",
         "air_conditioning": "yes",
         "amenity": "restaurant",
+        "changing_table": "no",
         "check_date:opening_hours": "2025-05-07",
         "contact:email": "info@napurkynce.cz",
         "diet:vegetarian": "yes",
