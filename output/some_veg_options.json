@@ -380,7 +380,7 @@
       "lat": 49.223751,
       "lon": 16.5977143,
       "tags": {
-        "amenity": "restaurant",
+        "abandoned:amenity": "restaurant",
         "check_date:opening_hours": "2024-04-27",
         "diet:vegan": "no",
         "diet:vegetarian": "yes",
