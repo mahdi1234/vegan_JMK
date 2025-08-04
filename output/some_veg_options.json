@@ -3562,7 +3562,7 @@
         "email": "smashburgersbrno@gmail.com",
         "mobile": "+420 724 722 151",
         "name": "Smash Burgers",
-        "opening_hours": "Mo-Th 11:00-20:00; Fr,Sa 11:00-22:00; Su 12:00-20:00",
+        "opening_hours": "Mo-Th 11:00-21:00; Fr 11:00-22:00; Sa-Su 12:00-21:00",
         "outdoor_seating": "yes",
         "payment:credit_cards": "yes",
         "payment:debit_cards": "yes",
