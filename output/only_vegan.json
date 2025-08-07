@@ -54,27 +54,6 @@
     },
     {
       "type": "node",
-      "id": 3163386375,
-      "lat": 49.1956196,
-      "lon": 16.6124839,
-      "tags": {
-        "addr:city": "Brno",
-        "addr:housenumber": "4",
-        "addr:postcode": "60200",
-        "addr:street": "Sukova",
-        "amenity": "bar",
-        "diet:vegan": "only",
-        "level": "0",
-        "name": "Kabinet Múz",
-        "opening_hours": "Mo-Fr 11:00-22:00; Sa 12:00-22:00",
-        "toilets": "yes",
-        "website": "https://www.kabinetmuz.cz/",
-        "wheelchair": "no",
-        "wikidata": "Q12027647"
-      }
-    },
-    {
-      "type": "node",
       "id": 3667914024,
       "lat": 48.805281,
       "lon": 16.6348522,
@@ -118,6 +97,21 @@
     },
     {
       "type": "node",
+      "id": 3717239644,
+      "lat": 49.1879358,
+      "lon": 16.6143618,
+      "tags": {
+        "amenity": "fast_food",
+        "diet:vegan": "only",
+        "level": "0",
+        "name": "Forky's",
+        "opening_hours": "Mo-Fr 09:00-21:00; Sa,Su 10:00-20:00",
+        "takeaway": "yes",
+        "website": "https://www.forkys.cz/"
+      }
+    },
+    {
+      "type": "node",
       "id": 4180713908,
       "lat": 49.2026309,
       "lon": 16.5968611,
@@ -136,6 +130,34 @@
         "outdoor_seating": "yes",
         "takeaway": "yes",
         "wheelchair": "no"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4362006106,
+      "lat": 49.2173172,
+      "lon": 16.6082006,
+      "tags": {
+        "addr:city": "Brno-Královo Pole",
+        "addr:housenumber": "593/4",
+        "addr:postcode": "61200",
+        "addr:street": "Cimburkova",
+        "amenity": "fast_food",
+        "check_date": "2024-06-20",
+        "description": "Forky’s je koncept moderního bistra-restaurace, kde se veškeré jídlo připravuje pouze z čistě rostlinných surovin. Nepoužívá žádné ingredience živočišného původu.",
+        "diet:vegan": "only",
+        "drive_through": "no",
+        "email": "nckrpole@forkys.eu",
+        "image": "https://www.forkys.cz/wp-content/uploads/2023/05/Krpole-2-1024x768.jpg",
+        "indoor_seating": "yes",
+        "level": "1",
+        "name": "Forky's",
+        "opening_hours": "Mo-Su 09:00-21:00",
+        "outdoor_seating": "no",
+        "phone": "+420 777 477 533",
+        "takeaway": "yes",
+        "website": "https://www.forkys.cz/pobocka/nc-kralovo-pole/",
+        "wheelchair": "yes"
       }
     },
     {
@@ -190,10 +212,9 @@
       "tags": {
         "amenity": "cafe",
         "check_date": "2024-07-12",
-        "contact:facebook": "lakavakavarna",
+        "contact:facebook": "KynoBrno",
         "contact:instagram": "https://www.instagram.com/lakava_brno",
         "diet:vegan": "only",
-        "diet:vegetarian": "yes",
         "name": "Lákava",
         "opening_hours": "Mo-Fr 08:00-19:30; Sa,Su 09:00-16:00",
         "payment:maestro": "yes",
