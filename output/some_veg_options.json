@@ -642,7 +642,9 @@
         "addr:postcode": "61200",
         "addr:street": "Tyršova",
         "amenity": "restaurant",
-        "check_date:opening_hours": "2025-02-27",
+        "check_date:opening_hours": "2025-08-10",
+        "contact:phone": "+420 774 184 422",
+        "contact:website": "https://nepalbrno.cz/",
         "cuisine": "indian;nepalese",
         "diet:vegetarian": "yes",
         "indoor_seating": "yes",
@@ -654,8 +656,6 @@
         "payment:debit_cards": "yes",
         "phone": "+420 774 687 219",
         "smoking": "no",
-        "url": "https://nepalbrno.cz/",
-        "website": "https://nepalbrno.cz/",
         "wheelchair": "no"
       }
     },
