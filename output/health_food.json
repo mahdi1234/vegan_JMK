@@ -581,6 +581,16 @@
   }
 },
 {
+  "type": "node",
+  "id": 13070337657,
+  "lat": 48.9736060,
+  "lon": 17.2662076,
+  "tags": {
+    "name": "Zdravá výživa",
+    "shop": "health_food"
+  }
+},
+{
   "type": "way",
   "id": 253974427,
   "nodes": [
