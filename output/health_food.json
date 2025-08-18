@@ -372,6 +372,7 @@
     "addr:housenumber": "6",
     "addr:postcode": "62800",
     "addr:street": "Jírova",
+    "check_date:opening_hours": "2025-08-17",
     "email": "obchod@nalontu.cz",
     "name": "Na lontu",
     "opening_hours": "Mo-Fr 09:00-18:00",
