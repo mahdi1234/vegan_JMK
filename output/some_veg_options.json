@@ -461,7 +461,7 @@
         "currency:XBT": "yes",
         "diet:vegan": "yes",
         "diet:vegetarian": "yes",
-        "name": "ZO",
+        "name": "Zo",
         "payment:lightning:companion_app_url": "https://www.qerko.com",
         "payment:lightning:requires_companion_app": "yes",
         "wheelchair": "limited"
@@ -3030,9 +3030,10 @@
         "currency:XBT": "yes",
         "diet:vegetarian": "yes",
         "name": "Gạo Brno",
-        "opening_hours": "Mo-Fr 11:00-15:00",
+        "opening_hours": "Mo-Fr 10:00-22:00; Sa,Su 11:00-22:00",
         "payment:lightning:companion_app_url": "https://www.qerko.com",
         "payment:lightning:requires_companion_app": "yes",
+        "phone": "+420774955147;+420773479819",
         "wheelchair": "no"
       }
     },
