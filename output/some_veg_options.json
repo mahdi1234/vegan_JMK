@@ -1223,6 +1223,26 @@
     },
     {
       "type": "node",
+      "id": 3080395625,
+      "lat": 49.2104652,
+      "lon": 16.6188189,
+      "tags": {
+        "addr:city": "Brno",
+        "addr:housenumber": "40",
+        "addr:postcode": "61300",
+        "addr:street": "Lesnická",
+        "amenity": "restaurant",
+        "check_date": "2025-09-01",
+        "diet:vegetarian": "yes",
+        "indoor_seating": "yes",
+        "name": "Bistro La Terra",
+        "opening_hours": "Mo-Fr 08:00-15:00",
+        "outdoor_seating": "no",
+        "wheelchair": "yes"
+      }
+    },
+    {
+      "type": "node",
       "id": 3098348684,
       "lat": 49.1998261,
       "lon": 16.5966001,
