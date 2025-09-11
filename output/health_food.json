@@ -167,29 +167,6 @@
 },
 {
   "type": "node",
-  "id": 5908393391,
-  "lat": 49.2066846,
-  "lon": 16.6017469,
-  "tags": {
-    "addr:city": "Brno",
-    "addr:country": "CZ",
-    "addr:housenumber": "584/13",
-    "addr:postcode": "60200",
-    "addr:street": "Bayerova",
-    "check_date": "2024-04-22",
-    "name": "ZDRAVEvBRNE.cz",
-    "opening_hours": "Mo-Fr 09:00-19:00",
-    "payment:contactless": "yes",
-    "payment:mastercard": "yes",
-    "payment:visa": "yes",
-    "phone": "+420 732674275",
-    "shop": "health_food",
-    "website": "http://zdravevbrne.cz",
-    "wheelchair": "limited"
-  }
-},
-{
-  "type": "node",
   "id": 6434023771,
   "lat": 49.2341208,
   "lon": 16.6256351,
