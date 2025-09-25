@@ -2616,6 +2616,7 @@
         "payment:visa_electron": "yes",
         "phone": "+420 773 500 640",
         "takeaway": "yes",
+        "theme": "cat",
         "website": "http://kocicipelisek.cz/",
         "wheelchair": "yes"
       }
