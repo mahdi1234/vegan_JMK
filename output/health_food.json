@@ -569,6 +569,23 @@
   }
 },
 {
+  "type": "node",
+  "id": 13240697245,
+  "lat": 49.1978751,
+  "lon": 16.6061908,
+  "tags": {
+    "contact:email": "marek.pavlik@tiscali.cz",
+    "contact:phone": "+420511140548",
+    "name": "ALFA - zdravá výživa",
+    "opening_hours": "Mo-Th 08:00-19:00, Fr 08:00-19:00; ",
+    "payment:cash": "yes",
+    "payment:debit_cards": "yes",
+    "phone": "+420775448355",
+    "shop": "health_food",
+    "website": "http://www.alfazdravavyziva.cz/"
+  }
+},
+{
   "type": "way",
   "id": 253974427,
   "nodes": [
