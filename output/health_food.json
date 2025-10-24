@@ -430,6 +430,8 @@
   "lat": 49.3496295,
   "lon": 16.4205157,
   "tags": {
+    "addr:postcode": "66601",
+    "check_date": "2025-10-24",
     "name": "Zdravěnka",
     "opening_hours": "Mo-Fr 09:00-12:00,12:30-17:00; Sa 08:00-11:00",
     "shop": "health_food"
