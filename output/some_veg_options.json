@@ -3313,12 +3313,16 @@
         "amenity": "restaurant",
         "cuisine": "regional",
         "diet:vegetarian": "yes",
+        "email": "jan.kolecko@koberestaurants.cz",
         "indoor_seating": "yes",
         "name": "U Mamlasů",
         "opening_hours": "Mo-Su 11:00-23:30",
         "outdoor_seating": "pedestrian_zone",
         "payment:credit_cards": "yes",
         "payment:debit_cards": "yes",
+        "phone": "+420518 334 172",
+        "website": "https://www.koberestaurant.cz/",
+        "website:menu": "https://www.koberestaurant.cz/",
         "wheelchair": "yes"
       }
     },
