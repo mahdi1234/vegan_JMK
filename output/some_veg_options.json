@@ -1391,6 +1391,16 @@
     },
     {
       "type": "node",
+      "id": 3156014061,
+      "lat": 49.1841502,
+      "lon": 16.5804366,
+      "tags": {
+        "amenity": "restaurant",
+        "diet:vegetarian": "yes"
+      }
+    },
+    {
+      "type": "node",
       "id": 3156028165,
       "lat": 49.2205113,
       "lon": 16.5871535,
