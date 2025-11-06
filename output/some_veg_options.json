@@ -2918,7 +2918,7 @@
         "diet:vegetarian": "yes",
         "indoor_seating": "yes",
         "name": "Panksy",
-        "opening_hours": "Mo-Fr 09:00-23:00; Sa 10:00-23:00; Su 10:00-20:00",
+        "opening_hours": "Mo,Tu 10:00-22:00; Sa 10:00-23:00; Su 10:00-20:00; We-Fr 10:00-23:00",
         "outdoor_seating": "yes",
         "wheelchair": "no"
       }
@@ -3388,6 +3388,7 @@
         "amenity": "fast_food",
         "diet:vegetarian": "yes",
         "indoor_seating": "no",
+        "level": "0",
         "name": "Trdlokafe",
         "opening_hours": "08:00-20:00",
         "opening_hours:signed": "no",
@@ -3408,6 +3409,7 @@
         "amenity": "fast_food",
         "diet:vegetarian": "yes",
         "indoor_seating": "no",
+        "level": "0",
         "name": "Ráj oříšků",
         "opening_hours": "Mo-Fr 08:00-20:00; Sa,Su 09:00-19:00",
         "outdoor_seating": "no",
