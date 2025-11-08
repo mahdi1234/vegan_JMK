@@ -1075,11 +1075,15 @@
         "addr:postcode": "60200",
         "addr:street": "Hybešova",
         "amenity": "fast_food",
+        "check_date": "2025-11-07",
         "cuisine": "kebab",
         "diet:vegetarian": "yes",
         "level": "0",
         "name": "Turecký kebab",
         "outdoor_seating": "yes",
+        "payment:cash": "yes",
+        "payment:credit_cards": "yes",
+        "payment:debit_cards": "yes",
         "takeaway": "yes",
         "toilets": "no",
         "wheelchair": "limited"
@@ -2331,7 +2335,7 @@
         "internet_access": "wlan",
         "name": "Wang Running Sushi",
         "opening_hours": "Mo-Su 11:00-22:00",
-        "phone": "+420 543 210 749",
+        "phone": "+420 606 058 190",
         "wheelchair": "yes"
       }
     },
