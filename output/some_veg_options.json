@@ -1268,6 +1268,7 @@
         "addr:postcode": "60200",
         "addr:street": "Jiráskova",
         "amenity": "cafe",
+        "check_date:opening_hours": "2025-11-18",
         "cuisine": "dessert",
         "diet:raw": "yes",
         "diet:vegan": "yes",

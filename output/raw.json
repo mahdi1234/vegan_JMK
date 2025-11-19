@@ -1,100 +1,15 @@
-{
-  "version": 0.6,
-  "osm3s": {
-    "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
-  },
-  "elements": [
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+<head>
+  <meta http-equiv="content-type" content="text/html; charset=utf-8" lang="en"/>
+  <title>OSM3S Response</title>
+</head>
+<body>
 
-{
-  "type": "node",
-  "id": 3098348684,
-  "lat": 49.1998261,
-  "lon": 16.5966001,
-  "tags": {
-    "addr:city": "Brno",
-    "addr:housenumber": "1a",
-    "addr:postcode": "60200",
-    "addr:street": "Jiráskova",
-    "amenity": "cafe",
-    "cuisine": "dessert",
-    "diet:raw": "yes",
-    "diet:vegan": "yes",
-    "diet:vegetarian": "yes",
-    "name": "Tutti Frutti",
-    "opening_hours": "Mo-Fr 08:00-18:00; Sa,Su 09:30-18:00",
-    "phone": "+420722944536",
-    "website": "https://cukrarna-tutti-frutti.webnode.cz/",
-    "wheelchair": "limited"
-  }
-},
-{
-  "type": "node",
-  "id": 3505137763,
-  "lat": 49.1905790,
-  "lon": 16.5939745,
-  "tags": {
-    "addr:city": "Brno",
-    "addr:housenumber": "18",
-    "addr:postcode": "60300",
-    "addr:street": "Mendlovo náměstí",
-    "amenity": "cafe",
-    "check_date:opening_hours": "2024-11-10",
-    "diet:gluten_free": "yes",
-    "diet:raw": "yes",
-    "diet:vegan": "yes",
-    "diet:vegetarian": "yes",
-    "name": "Tutti Frutti",
-    "opening_hours": "Mo-Fr 06:30-18:30; Sa-Su 09:00-18:00",
-    "payment:credit_cards": "yes",
-    "payment:debit_cards": "yes",
-    "phone": "+420 727 965 707",
-    "website": "https://www.tuttifrutti.cz/"
-  }
-},
-{
-  "type": "node",
-  "id": 5997893486,
-  "lat": 49.1913517,
-  "lon": 16.6216798,
-  "tags": {
-    "addr:city": "Brno",
-    "addr:housenumber": "45",
-    "addr:postcode": "60200",
-    "addr:street": "Křenová",
-    "amenity": "cafe",
-    "diet:halal": "no",
-    "diet:kosher": "no",
-    "diet:lactose_free": "yes",
-    "diet:raw": "yes",
-    "diet:vegan": "yes",
-    "diet:vegetarian": "only",
-    "email": "veg8cafe@email.cz",
-    "indoor_seating": "yes",
-    "name": "Veg8café",
-    "opening_hours": "Mo-Fr 07:00-14:00",
-    "outdoor_seating": "no",
-    "phone": "+420 776670608",
-    "takeaway": "yes",
-    "website": "https://www.veg8cafe.cz/",
-    "wheelchair": "no"
-  }
-},
-{
-  "type": "node",
-  "id": 8429279706,
-  "lat": 49.1810779,
-  "lon": 16.6196178,
-  "tags": {
-    "amenity": "restaurant",
-    "contact:facebook": "myrawfoodbrno",
-    "diet:raw": "only",
-    "diet:vegan": "only",
-    "name": "MyRaw Food Bar",
-    "opening_hours": "Tu-Th 11:00-16:00",
-    "phone": "+420 739 665 746",
-    "website": "https://www.myraw.cz/brno"
-  }
-}
+<p>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</p>
+<p><strong style="color:#FF0000">Error</strong>: runtime error: open64: 0 Success /osm3s_osm_base Dispatcher_Client::request_read_and_idx::timeout. The server is probably too busy to handle your request. </p>
 
-  ]
-}
+</body>
+</html>
