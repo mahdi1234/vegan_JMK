@@ -39,17 +39,21 @@
     "addr:postcode": "60300",
     "addr:street": "Mendlovo náměstí",
     "amenity": "cafe",
-    "check_date:opening_hours": "2024-11-10",
+    "changing_table": "no",
+    "check_date:opening_hours": "2025-11-20",
     "diet:gluten_free": "yes",
     "diet:raw": "yes",
     "diet:vegan": "yes",
     "diet:vegetarian": "yes",
+    "indoor_seating": "no",
     "name": "Tutti Frutti",
     "opening_hours": "Mo-Fr 06:30-18:30; Sa-Su 09:00-18:00",
+    "outdoor_seating": "yes",
     "payment:credit_cards": "yes",
     "payment:debit_cards": "yes",
     "phone": "+420 727 965 707",
-    "website": "https://www.tuttifrutti.cz/"
+    "website": "https://www.tuttifrutti.cz/",
+    "wheelchair": "limited"
   }
 },
 {
