@@ -2652,7 +2652,7 @@
         "diet:vegetarian": "yes",
         "indoor_seating": "yes",
         "name": "Oh! Pho",
-        "opening_hours": "Mo-Sa 11:00-22:00; Su 12:00-20:00",
+        "opening_hours": "Mo-Sa 11:00-22:00",
         "outdoor_seating": "sidewalk",
         "payment:credit_cards": "yes",
         "payment:debit_cards": "yes",
