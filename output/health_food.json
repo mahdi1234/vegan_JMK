@@ -589,6 +589,24 @@
   }
 },
 {
+  "type": "node",
+  "id": 13342672914,
+  "lat": 48.7634450,
+  "lon": 16.8872012,
+  "tags": {
+    "brand": "Racio",
+    "brand:facebook": "racio.cz",
+    "brand:instagram": "mojeracio",
+    "description": "podniková prodejna",
+    "email": "prodejna@racio.cz",
+    "mobile": "+420 725 604 697",
+    "name": "Racio",
+    "opening_hours": "Mo-Fr 09:00-17:00",
+    "shop": "health_food",
+    "website": "https://www.racio.cz/cs/podnikova-prodejna.html"
+  }
+},
+{
   "type": "way",
   "id": 253974427,
   "nodes": [
