@@ -43,9 +43,7 @@
         "cuisine": "kebab;regional;turkish",
         "diet:vegetarian": "yes",
         "name": "Kebab Šach",
-        "opening_hours": "Mo-Fr 10:00-24:00; Sa 00:00-03:00,11:00-24:00; Su 00:00-03:00,12:00-22:00",
-        "ref:ruian:addr": "19094566",
-        "source:addr": "cuzk:ruian"
+        "opening_hours": "Mo-Fr 10:00-24:00; Sa 00:00-03:00,11:00-24:00; Su 00:00-03:00,12:00-22:00"
       }
     },
     {
