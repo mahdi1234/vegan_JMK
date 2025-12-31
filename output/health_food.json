@@ -607,6 +607,16 @@
   }
 },
 {
+  "type": "node",
+  "id": 13417866046,
+  "lat": 49.0702564,
+  "lon": 16.4668741,
+  "tags": {
+    "name": "Na schůzce",
+    "shop": "health_food"
+  }
+},
+{
   "type": "way",
   "id": 253974427,
   "nodes": [
