@@ -3296,10 +3296,11 @@
       "tags": {
         "addr:housenumber": "16",
         "addr:street": "Štefánikova",
-        "check_date": "2023-12-17",
+        "check_date": "2026-01-07",
+        "check_date:opening_hours": "2026-01-07",
         "diet:vegan": "yes",
         "name": "Buchta B",
-        "opening_hours": "Mo-Fr 06:30-18:00; Sa,Su 08:00-18:00",
+        "opening_hours": "Mo-Fr 06:30-19:00; Sa 08:00-19:00; Su 08:00-18:00",
         "shop": "coffee",
         "wheelchair": "limited"
       }
