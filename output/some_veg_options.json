@@ -2357,10 +2357,12 @@
         "addr:housenumber": "12",
         "addr:postcode": "60200",
         "addr:street": "Minoritská",
-        "amenity": "fast_food",
+        "check_date": "2026-01-10",
+        "contact:instagram": "https://www.instagram.com/cinname.cz",
         "cuisine": "kebab;falafel",
         "diet:vegetarian": "yes",
-        "name": "The House of Kebab"
+        "name": "Cinname",
+        "shop": "pastry"
       }
     },
     {
