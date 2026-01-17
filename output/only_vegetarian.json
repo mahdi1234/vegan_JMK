@@ -169,6 +169,22 @@
         "outdoor_seating": "yes",
         "wheelchair": "yes"
       }
+    },
+    {
+      "type": "node",
+      "id": 13460868698,
+      "lat": 49.1859727,
+      "lon": 16.6155465,
+      "tags": {
+        "amenity": "fast_food",
+        "diet:vegetarian": "only",
+        "indoor_seating": "no",
+        "name": "Trdlokafé",
+        "opening_hours": "Mo-Su 05:30-20:00",
+        "outdoor_seating": "no",
+        "takeaway": "only",
+        "wheelchair": "yes"
+      }
     }
   ]
 }
