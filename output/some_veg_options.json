@@ -755,8 +755,13 @@
         "contact:website": "https://chefviet.cz/",
         "cuisine": "vietnamese",
         "diet:vegetarian": "yes",
+        "internet_access": "wlan",
         "name": "CHEF-VIET",
-        "opening_hours": "Mo-Sa 10:00-21:00; Su 10:00-16:00"
+        "opening_hours": "Mo-Sa 10:00-21:00; Su 10:00-16:00",
+        "payment:cash": "yes",
+        "payment:contactless": "yes",
+        "payment:credit_cards": "yes",
+        "payment:debit_cards": "yes"
       }
     },
     {
