@@ -3410,10 +3410,17 @@
         "diet:vegetarian": "yes",
         "indoor_seating": "yes",
         "name": "Bistro Provaz",
-        "opening_hours": "Mo-Fr 11:00-20:00",
+        "opening_hours": "Mo-Fr 11:00-21:30; Sa 11:00-20:00",
         "outdoor_seating": "yes",
         "payment:credit_cards": "yes",
         "payment:debit_cards": "yes",
+        "payment:discover_card": "yes",
+        "payment:jcb": "yes",
+        "payment:maestro": "yes",
+        "payment:mastercard": "yes",
+        "payment:visa": "yes",
+        "payment:visa_debit": "yes",
+        "payment:visa_electron": "yes",
         "website": "https://bistroprovaz.cz/",
         "wheelchair": "yes"
       }
