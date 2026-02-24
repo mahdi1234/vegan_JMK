@@ -964,12 +964,16 @@
         "addr:street": "Jaselská",
         "amenity": "restaurant",
         "amenity_1": "pub",
+        "contact:facebook": "pubpredzrcadlem",
+        "contact:instagram": "pub_pred_zrcadlem",
         "diet:vegetarian": "yes",
+        "email": "info@cajovnazazrcadlem.cz",
         "internet_access": "yes",
         "name": "Pub Před Zrcadlem",
-        "opening_hours": "Mo-Sa 15:00-22:00; Su 15:00-20:00",
+        "opening_hours": "Mo-Su 15:00-22:00",
         "phone": "+420 774 691 619",
         "website": "https://cajovnazazrcadlem.cz/",
+        "website:menu": "https://cajovnazazrcadlem.cz",
         "wheelchair": "no"
       }
     },
