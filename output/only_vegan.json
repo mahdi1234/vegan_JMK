@@ -45,6 +45,7 @@
         "addr:street": "Česká",
         "amenity": "restaurant",
         "diet:vegan": "only",
+        "indoor_seating": "yes",
         "name": "Fryends",
         "opening_hours": "Mo-Fr 11:00-22:00; Sa 09:30-22:00",
         "outdoor_seating": "yes",
