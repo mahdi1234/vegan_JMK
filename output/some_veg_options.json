@@ -496,6 +496,35 @@
       }
     },
     {
+      "type": "way",
+      "id": 1485618391,
+      "center": {
+        "lat": 49.2077055,
+        "lon": 16.6037223
+      },
+      "nodes": [
+        13619723736,
+        13619723735,
+        13619723738,
+        13619723737,
+        13619723736
+      ],
+      "tags": {
+        "air_conditioning": "no",
+        "amenity": "fast_food",
+        "building": "kiosk",
+        "diet:vegetarian": "yes",
+        "indoor_seating": "no",
+        "name": "Street Kebab",
+        "opening_hours": "Mo-Fr 08:00-21:00; Sa 10:00-22:00",
+        "outdoor_seating": "no",
+        "payment:credit_cards": "yes",
+        "payment:debit_cards": "yes",
+        "takeaway": "only",
+        "wheelchair": "yes"
+      }
+    },
+    {
       "type": "node",
       "id": 1486367772,
       "lat": 49.1975991,
@@ -3985,25 +4014,6 @@
         "name": "Paprika",
         "outdoor_seating": "yes",
         "website": "https://www.my-paprika.com/zelny-trh-10-brno-1"
-      }
-    },
-    {
-      "type": "node",
-      "id": 12752330237,
-      "lat": 49.2077077,
-      "lon": 16.6037185,
-      "tags": {
-        "air_conditioning": "no",
-        "amenity": "fast_food",
-        "diet:vegetarian": "yes",
-        "indoor_seating": "no",
-        "name": "Street Kebab",
-        "opening_hours": "Mo-Fr 08:00-21:00; Sa 10:00-22:00",
-        "outdoor_seating": "no",
-        "payment:credit_cards": "yes",
-        "payment:debit_cards": "yes",
-        "takeaway": "only",
-        "wheelchair": "yes"
       }
     }
   ]
