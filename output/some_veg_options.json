@@ -821,6 +821,7 @@
         "payment:visa_debit": "yes",
         "payment:visa_electron": "yes",
         "phone": "+420 608 555 494",
+        "smoking": "no",
         "wheelchair": "no"
       }
     },
@@ -2240,8 +2241,8 @@
         "brand": "Costa",
         "brand:wikidata": "Q608845",
         "brand:wikipedia": "en:Costa Coffee",
-        "check_date": "2022-09-16",
-        "check_date:opening_hours": "2023-09-02",
+        "check_date": "2026-03-10",
+        "check_date:opening_hours": "2026-03-10",
         "cuisine": "coffee_shop",
         "diet:vegetarian": "yes",
         "drive_through": "yes",
@@ -2249,7 +2250,7 @@
         "internet_access": "wlan",
         "internet_access:fee": "customers",
         "name": "Costa",
-        "opening_hours": "Mo-Fr 07:00-20:00; Sa,Su 08:00-19:00",
+        "opening_hours": "Mo-Fr 07:00-20:00; Sa,Su 08:00-18:00",
         "outdoor_seating": "no",
         "payment:credit_cards": "yes",
         "payment:maestro": "yes",

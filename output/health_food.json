@@ -597,6 +597,19 @@
   }
 },
 {
+  "type": "node",
+  "id": 13634289911,
+  "lat": 49.2254525,
+  "lon": 16.5305555,
+  "tags": {
+    "name": "Zdravá Výživa",
+    "opening_hours": "Mo-Th 08:00-18:00; Fr 08:00-19:00; Sa 08:00-17:00; Su 09:00-15:00",
+    "payment:credit_cards": "yes",
+    "payment:debit_cards": "yes",
+    "shop": "health_food"
+  }
+},
+{
   "type": "way",
   "id": 253974427,
   "nodes": [
