@@ -3039,6 +3039,7 @@
         "air_conditioning": "no",
         "amenity": "fast_food",
         "cuisine": "asian",
+        "diet:vegan": "no",
         "diet:vegetarian": "yes",
         "indoor_seating": "yes",
         "name": "Asijské bistro",
@@ -3047,6 +3048,31 @@
         "payment:credit_cards": "yes",
         "payment:debit_cards": "yes",
         "smoking": "outside",
+        "wheelchair": "yes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 5169436375,
+      "lat": 48.7547167,
+      "lon": 16.8923661,
+      "tags": {
+        "amenity": "cafe",
+        "brand": "Delikana",
+        "brand:wikidata": "Q130334843",
+        "contact:facebook": "https://www.facebook.com/eiscafedelikanask",
+        "contact:instagram": "https://www.instagram.com/delikanabreclav/",
+        "diet:vegan": "no",
+        "diet:vegetarian": "yes",
+        "indoor_seating": "yes",
+        "name": "Delikana",
+        "opening_hours": "Mo-Fr 07:00-18:00; Sa,Su 09:00-18:00",
+        "outdoor_seating": "yes",
+        "payment:credit_cards": "yes",
+        "payment:debit_cards": "yes",
+        "shop": "pastry",
+        "smoking": "no",
+        "website": "https://www.myjsmedelikana.cz/",
         "wheelchair": "yes"
       }
     },
@@ -4016,6 +4042,26 @@
         "name": "Paprika",
         "outdoor_seating": "yes",
         "website": "https://www.my-paprika.com/zelny-trh-10-brno-1"
+      }
+    },
+    {
+      "type": "node",
+      "id": 12316955601,
+      "lat": 48.7547447,
+      "lon": 16.8926086,
+      "tags": {
+        "amenity": "fast_food",
+        "cuisine": "kebab;pizza",
+        "diet:vegan": "yes",
+        "diet:vegetarian": "yes",
+        "indoor_seating": "yes",
+        "name": "Aswa - Kebab Pizza",
+        "opening_hours": "Mo-Su 10:00-22:00",
+        "outdoor_seating": "no",
+        "payment:credit_cards": "yes",
+        "payment:debit_cards": "yes",
+        "smoking": "no",
+        "wheelchair": "yes"
       }
     }
   ]
