@@ -41,6 +41,7 @@
     "addr:housenumber": "2",
     "addr:postcode": "60200",
     "addr:street": "Pekařská",
+    "check_date:opening_hours": "2026-03-23",
     "email": "awprodejna.brno@tvaruzky.cz",
     "name": "Prodejna Olomouckých tvarůžků",
     "opening_hours": "Mo-Fr 08:30-18:00; Sa 08:30-12:30",

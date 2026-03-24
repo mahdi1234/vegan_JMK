@@ -1971,7 +1971,7 @@
         "cuisine": "indian",
         "diet:vegetarian": "yes",
         "name": "Annapurna",
-        "opening_hours": "Mo-Fr 11:00-22:00; Sa,Su 12:00-22:00",
+        "opening_hours": "Mo-Su 11:00-22:00",
         "outdoor_seating": "no",
         "phone": "+420 776 024 396",
         "takeaway": "yes",
@@ -2124,7 +2124,7 @@
         "addr:postcode": "60200",
         "addr:street": "Minoritská",
         "amenity": "cafe",
-        "check_date:opening_hours": "2025-01-28",
+        "check_date:opening_hours": "2026-03-23",
         "diet:vegetarian": "yes",
         "indoor_seating": "yes",
         "internet_access": "wlan",
@@ -2346,11 +2346,13 @@
         "addr:housenumber": "12",
         "addr:postcode": "60200",
         "addr:street": "Minoritská",
-        "check_date": "2026-01-10",
+        "check_date": "2026-03-23",
+        "check_date:opening_hours": "2026-03-23",
         "contact:instagram": "https://www.instagram.com/cinname.cz",
         "cuisine": "kebab;falafel",
         "diet:vegetarian": "yes",
         "name": "Cinname",
+        "opening_hours": "Mo-Su 09:00-20:00",
         "shop": "pastry"
       }
     },
@@ -2432,7 +2434,7 @@
         "addr:postcode": "60200",
         "addr:street": "Pekařská",
         "amenity": "fast_food",
-        "check_date:opening_hours": "2022-12-13",
+        "check_date:opening_hours": "2026-03-23",
         "cuisine": "italian_pizza",
         "diet:vegetarian": "yes",
         "name": "Fresh Pasta",
@@ -2477,19 +2479,6 @@
         "opening_hours": "Fr,Sa 11:00-22:00",
         "phone": "+420 720 388 307",
         "website": "https://www.carusopizza.cz/",
-        "wheelchair": "no"
-      }
-    },
-    {
-      "type": "node",
-      "id": 3873203753,
-      "lat": 49.1923677,
-      "lon": 16.6122082,
-      "tags": {
-        "amenity": "fast_food",
-        "diet:vegetarian": "yes",
-        "name": "Sklizeno.cz - hladové okno",
-        "opening_hours": "Mo-Fr 07:30-19:00; Sa 09:30-14:30",
         "wheelchair": "no"
       }
     },
@@ -3198,7 +3187,7 @@
         "diet:vegetarian": "yes",
         "email": "info@pokecz.cz",
         "name": "Pokecz",
-        "opening_hours": "Mo-Fr 11:00-21:00; Sa 12:00-20:00; Su 12:00-15:00",
+        "opening_hours": "Su 11:00-15:00; Mo-Sa 11:00-20:00",
         "phone": "+420 725 414 007",
         "takeaway": "yes",
         "website": "https://www.pokecz.cz/",
