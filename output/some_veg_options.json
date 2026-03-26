@@ -3085,7 +3085,7 @@
         "diet:vegetarian": "yes",
         "indoor_seating": "yes",
         "name": "Mada ice cream",
-        "opening_hours": "Mo-Su 09:30-21:00",
+        "opening_hours": "Mo-Sa 09:00-20:00; Su 09:00-19:00",
         "outdoor_seating": "sidewalk",
         "wheelchair": "no"
       }
@@ -3479,32 +3479,6 @@
         "payment:visa_electron": "yes",
         "website": "https://bistroprovaz.cz/",
         "wheelchair": "yes"
-      }
-    },
-    {
-      "type": "node",
-      "id": 8219977774,
-      "lat": 49.1933345,
-      "lon": 16.6074458,
-      "tags": {
-        "addr:housenumber": "2",
-        "addr:postcode": "60200",
-        "addr:street": "Mečová",
-        "amenity": "fast_food",
-        "check_date": "2023-12-17",
-        "cuisine": "pancake",
-        "diet:vegan": "yes",
-        "drive_through": "no",
-        "internet_access": "wlan",
-        "internet_access:fee": "no",
-        "kids_area": "yes",
-        "level": "1",
-        "name": "Star Waffles",
-        "opening_hours": "Mo-Su 09:00-21:00",
-        "payment:cash": "yes",
-        "payment:credit_cards": "yes",
-        "payment:debit_cards": "yes",
-        "website": "https://www.facebook.com/people/Star-waffles-Brno/61551941887098/"
       }
     },
     {
