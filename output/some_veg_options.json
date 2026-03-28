@@ -1926,6 +1926,7 @@
         "addr:city": "Brno",
         "addr:housenumber": "7",
         "addr:street": "Jezuitská",
+        "check_date": "2026-03-27",
         "cuisine": "international",
         "diet:vegetarian": "yes",
         "disused:amenity": "restaurant",
