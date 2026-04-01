@@ -871,9 +871,12 @@
         "amenity": "restaurant",
         "cuisine": "czech",
         "diet:vegetarian": "yes",
+        "email": "uemila@restauraceuemila.cz",
         "name": "U Emila",
         "opening_hours": "Mo-Fr 11:00-23:00",
         "phone": "+420515547071",
+        "website": "https://www.restauraceuemila.cz/",
+        "website:menu": "https://www.restauraceuemila.cz/",
         "wheelchair": "no"
       }
     },
@@ -1045,12 +1048,12 @@
         "check_date": "2023-01-28",
         "diet:vegetarian": "yes",
         "internet_access": "wlan",
-        "name": "Flexaret",
-        "opening_hours": "Mo-Su 13:00-23:30",
+        "name": "Deca bulla",
+        "opening_hours": "Mo-Th 12:00-00:00; Fr, Sa 12:00-01:00",
         "outdoor_seating": "yes",
         "payment:cards": "no",
-        "phone": "+420 530 341 628",
         "smoking": "no",
+        "website": "www.deccabulla.cz",
         "wheelchair": "no"
       }
     },
@@ -1389,8 +1392,10 @@
         "cuisine": "curry;indian",
         "diet:vegetarian": "yes",
         "email": "royalnepalbrno2022@gmail.com",
+        "indoor_seating": "yes",
         "name": "Royal Nepal",
         "opening_hours": "Mo-Fr 10:30-21:30; Su 11:30-21:00; Sa off",
+        "outdoor_seating": "no",
         "phone": "+420 773 782 075",
         "website": "https://www.royalnepal.cz/",
         "wheelchair": "no"
@@ -1707,7 +1712,7 @@
       "lon": 16.6095819,
       "tags": {
         "amenity": "cafe",
-        "check_date": "2023-02-05",
+        "check_date": "2026-03-30",
         "check_date:opening_hours": "2020-12-14",
         "diet:vegetarian": "yes",
         "internet_access": "wlan",
@@ -2777,6 +2782,7 @@
         "contact:website": "https://efihostinec.cz/zelnak/",
         "cuisine": "regional",
         "diet:vegetarian": "yes",
+        "email": "info@efihostinec.cz",
         "indoor_seating": "yes",
         "level": "0",
         "name": "Efi pivovar",
@@ -2788,6 +2794,7 @@
         "toilets": "yes",
         "toilets:access": "yes",
         "toilets:wheelchair": "limited",
+        "website:menu": "https://efihostinec.cz/zelnak/",
         "wheelchair": "yes"
       }
     },
