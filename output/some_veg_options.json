@@ -2499,6 +2499,7 @@
         "addr:postcode": "60200",
         "addr:street": "Kozí",
         "amenity": "restaurant",
+        "check_date": "2026-04-01",
         "cuisine": "regional",
         "diet:vegetarian": "yes",
         "email": "ucaipla@ambi.cz",
