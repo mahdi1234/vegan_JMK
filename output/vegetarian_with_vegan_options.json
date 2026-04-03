@@ -235,6 +235,7 @@
         "addr:postcode": "60200",
         "addr:street": "Křenová",
         "amenity": "cafe",
+        "check_date": "2026-04-02",
         "diet:halal": "no",
         "diet:kosher": "no",
         "diet:lactose_free": "yes",
