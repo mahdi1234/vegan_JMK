@@ -2711,6 +2711,7 @@
         "addr:postcode": "60200",
         "addr:street": "Běhounská",
         "amenity": "restaurant",
+        "check_date": "2026-04-09",
         "check_date:opening_hours": "2022-01-15",
         "cuisine": "vietnamese",
         "diet:vegan": "yes",
@@ -3245,6 +3246,7 @@
       "lon": 16.6112952,
       "tags": {
         "amenity": "cafe",
+        "check_date": "2026-04-09",
         "check_date:opening_hours": "2021-08-12",
         "diet:vegetarian": "yes",
         "indoor_seating": "yes",
