@@ -295,6 +295,7 @@
         "opening_hours": "Su-Tu 07:00-01:00, Fr,Sa 07:00-04:00, We,Th 07:00-02:00",
         "outdoor_seating": "no",
         "phone": "+420 725 266 964",
+        "smoking": "no",
         "takeaway": "yes",
         "website": "https://www.mcdonalds.cz/",
         "wheelchair": "yes"
@@ -2683,8 +2684,9 @@
       "lon": 16.6081105,
       "tags": {
         "amenity": "fast_food",
-        "check_date": "2026-02-26",
+        "check_date": "2026-04-12",
         "check_date:opening_hours": "2026-02-26",
+        "check_date:smoking": "2026-04-12",
         "cuisine": "salad",
         "diet:vegetarian": "yes",
         "drive_through": "no",
@@ -2694,6 +2696,9 @@
         "outdoor_seating": "no",
         "payment:cards": "yes",
         "payment:contactless": "yes",
+        "payment:credit_cards": "yes",
+        "payment:debit_cards": "yes",
+        "smoking": "no",
         "takeaway": "yes",
         "toilets": "yes",
         "toilets:wheelchair": "yes",
