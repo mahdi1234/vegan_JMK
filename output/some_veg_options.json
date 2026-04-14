@@ -557,6 +557,7 @@
         "addr:postcode": "60200",
         "addr:street": "Marešova",
         "amenity": "restaurant",
+        "check_date": "2026-04-13",
         "check_date:opening_hours": "2022-09-02",
         "cuisine": "asian",
         "diet:vegan": "yes",
