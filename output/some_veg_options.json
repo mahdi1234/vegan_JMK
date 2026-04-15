@@ -557,13 +557,16 @@
         "addr:postcode": "60200",
         "addr:street": "Marešova",
         "amenity": "restaurant",
+        "bar": "no",
         "check_date": "2026-04-13",
         "check_date:opening_hours": "2022-09-02",
-        "cuisine": "asian",
+        "cuisine": "asian;chinese",
         "diet:vegan": "yes",
         "diet:vegetarian": "yes",
         "name": "Zlatá miska",
         "opening_hours": "Mo-Sa 11:00-22:00; Su 11:00-21:00",
+        "toilets": "yes",
+        "toilets:access": "customers",
         "wheelchair": "no"
       }
     },
