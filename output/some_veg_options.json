@@ -1899,10 +1899,12 @@
         "cuisine": "burger",
         "diet:vegan": "yes",
         "diet:vegetarian": "yes",
+        "indoor_seating": "yes",
         "internet_access": "wlan",
         "internet_access:fee": "yes",
         "name": "East Village",
         "opening_hours": "Mo-Sa 17:00-24:00, Su 18:00-24:00",
+        "outdoor_seating": "yes",
         "phone": "+420 608 193 627",
         "website": "https://east-village6.webnode.cz/kontakt/",
         "wheelchair": "no"
@@ -3500,24 +3502,6 @@
         "payment:visa_electron": "yes",
         "website": "https://bistroprovaz.cz/",
         "wheelchair": "yes"
-      }
-    },
-    {
-      "type": "node",
-      "id": 8415611808,
-      "lat": 49.1992302,
-      "lon": 16.6029747,
-      "tags": {
-        "amenity": "fast_food",
-        "cuisine": "bagel",
-        "diet:vegan": "yes",
-        "diet:vegetarian": "yes",
-        "indoor_seating": "yes",
-        "name": "Celozrnná sváča",
-        "opening_hours": "Mo-Fr 09:00-19:00",
-        "outdoor_seating": "no",
-        "takeaway": "yes",
-        "wheelchair": "no"
       }
     },
     {
