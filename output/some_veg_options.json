@@ -326,7 +326,8 @@
         "payment:visa": "yes",
         "payment:visa_debit": "yes",
         "payment:visa_electron": "yes",
-        "source": "local_knowledge"
+        "source": "local_knowledge",
+        "wheelchair": "no"
       }
     },
     {
