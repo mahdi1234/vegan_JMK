@@ -1126,6 +1126,7 @@
         "addr:postcode": "60200",
         "addr:street": "Rooseveltova",
         "amenity": "restaurant",
+        "check_date": "2026-04-21",
         "diet:vegan": "yes",
         "diet:vegetarian": "yes",
         "name": "Fabrik Urban House",
