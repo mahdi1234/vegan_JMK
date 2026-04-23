@@ -550,8 +550,8 @@
     {
       "type": "node",
       "id": 1494789738,
-      "lat": 49.1971831,
-      "lon": 16.6012107,
+      "lat": 49.1971454,
+      "lon": 16.6012,
       "tags": {
         "addr:city": "Brno",
         "addr:housenumber": "14",

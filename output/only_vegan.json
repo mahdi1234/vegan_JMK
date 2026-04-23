@@ -77,8 +77,8 @@
     {
       "type": "node",
       "id": 3716665533,
-      "lat": 49.1971288,
-      "lon": 16.601141,
+      "lat": 49.1971383,
+      "lon": 16.6011868,
       "tags": {
         "addr:city": "Brno",
         "addr:housenumber": "14",
@@ -86,12 +86,16 @@
         "addr:street": "Marešova",
         "air_conditioning": "yes",
         "amenity": "restaurant",
+        "cuisine": "ramen",
         "diet:vegan": "only",
+        "diet:vegetarian": "only",
         "dish": "ramen",
         "name": "Vegan AF Ramen",
         "opening_hours": "Mo-Sa 11:00-21:00; Su off",
+        "outdoor_seating": "no",
         "payment:credit_cards": "yes",
         "payment:debit_cards": "yes",
+        "toilets": "yes",
         "website": "https://www.veganaframen.pl/",
         "wheelchair": "no"
       }
