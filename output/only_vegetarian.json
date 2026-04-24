@@ -163,6 +163,7 @@
         "amenity": "fast_food",
         "diet:vegetarian": "only",
         "indoor_seating": "no",
+        "level": "0",
         "name": "Trdlokafé",
         "opening_hours": "Mo-Su 05:30-20:00",
         "outdoor_seating": "no",
