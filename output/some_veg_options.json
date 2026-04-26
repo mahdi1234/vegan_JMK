@@ -1059,7 +1059,7 @@
         "outdoor_seating": "yes",
         "payment:cards": "no",
         "smoking": "no",
-        "website": "www.deccabulla.cz",
+        "website": "https://www.deccabulla.cz/",
         "wheelchair": "no"
       }
     },
@@ -1318,6 +1318,7 @@
       "lon": 16.6124445,
       "tags": {
         "amenity": "fast_food",
+        "check_date": "2026-04-25",
         "diet:vegan": "yes",
         "diet:vegetarian": "yes",
         "indoor_seating": "no",
@@ -1657,6 +1658,7 @@
         "addr:postcode": "60200",
         "addr:street": "Nádražní",
         "amenity": "restaurant",
+        "check_date": "2026-04-25",
         "cuisine": "indian;nepalese",
         "diet:vegetarian": "yes",
         "indoor_seating": "yes",
